@@ -12,3 +12,13 @@ Currículos LOMLOE en archivos json
   * Primaria
   * ESO - OK
   * Bachillerato - OK
+* Curríuclo Extremadura
+  * Infantil
+  * Primaria
+  * ESO
+  * Bachillerato - En progreso...
+    * Actividad física y salud
+    * Análisis musical
+    * Artes escénicas
+    * Biología
+    * Biología, geología y ciencias ambientales
