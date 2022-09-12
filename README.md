@@ -22,3 +22,20 @@ Currículos LOMLOE en archivos json
     * Artes escénicas
     * Biología
     * Biología, geología y ciencias ambientales
+    * Ciencias generales
+    * Coro y técnica vocal
+    * Cultura audiovisual
+    * Dibujo artístico
+    * Dibuto técnico
+    * Dibujo técnico aplicado a las artes plásticas
+    * Diseño
+    * Ecología y sostenibilidad ambiental
+    * Economía
+    * Economía, emprendimiento y actividad empresarial
+    * Educacion física
+    * Empresa y diseño de modelos de negocio
+    * Filosofía
+    * Física
+    * Física y química
+    * Fundamentos artísticos
+    * Geografía
