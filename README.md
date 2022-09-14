@@ -60,3 +60,7 @@ Currículos LOMLOE en archivos json
     * Proyectos artísticos
     * Psicología
     * Química
+    * Segunda lengua extranjera
+    * Técnicas de expresión gráfico-plásticas
+    * Tecnología e ingeniería
+    * Volumen
