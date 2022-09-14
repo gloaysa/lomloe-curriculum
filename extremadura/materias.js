@@ -1,6 +1,6 @@
 const eso = {
     nombre: "Decreto 82/2022, de 12 de julio, por el que se establece la ordenación y el currículo de Educación Secundaria Obligatoria en la comunidad autónoma de Castilla-La Mancha",
-    primero: [
+    eso1: [
         "Biología y Geología",
         "Educación Física",
         "Educación Plástica, Visual y Audiovisual",
@@ -12,7 +12,7 @@ const eso = {
         "Segunda Lengua Extranjera",
         "Digitalización básica"
     ],
-    segundo: [
+    eso2: [
         "Educación Física",
         "Educación en Valores Cívicos y Éticos	",
         "Física y Química",
@@ -25,7 +25,7 @@ const eso = {
         "Segunda Lengua Extranjera",
         "Emprendimiento Social y Sostenibilidad"
     ],
-    tercero: [
+    eso3: [
         "Educación Física",
         "Biología y Geología",
         "Educación Plástica, Visual y Audiovisual",
@@ -39,7 +39,7 @@ const eso = {
         "Cultura Clásica",
         "Unión Europea"
     ],
-    cuarto: [
+    eso4: [
         "Educación Física",
         "Geografía e Historia",
         "Lengua Castellana y Literatura",
@@ -62,7 +62,7 @@ const eso = {
 }
 
 const bach = {
-    primero: [
+    bach1: [
         // comunes
         "Educación Física",
         "Filosofía",
@@ -105,7 +105,7 @@ const bach = {
         "Segunda Lengua Extranjera",
         "Inteligencia Artificial"
     ],
-    segundo: [
+    bach2: [
         // comunes
         "Historia de España",
         "Historia de la Filosofía",

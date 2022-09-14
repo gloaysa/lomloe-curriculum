@@ -1,11 +1,8 @@
 {
   "competenciasEspecificas": [
-    "1. Identificar y resolver problemas técnicos sencillos, conectar y configurar dispositivos a redes domésticas, aplicando los conocimientos de hardware y sistemas operativos para gestionar las herramientas e instalaciones informáticas y de comunicación de uso cotidiano. (STEM1, STEM2, CD4, CD5, CPSAA1, CPSAA5, CE3)",
-
-    "2. Configurar el entorno personal de aprendizaje interactuando y aprovechando los recursos del ámbito digital para optimizar y gestionar el aprendizaje permanente. (CD1, CD2, CD3, CPSAA1, CPSAA4, CPSAA5, CE3.",
-                    
-    "3. Desarrollar hábitos que fomenten el bienestar digital, aplicando medidas preventivas y correctivas, para proteger dispositivos, datos personales y la propia salud. (CCL3, STEM5, CD1, CD4, CPSAA2, CPSAA5, CC2, CC3).",
- 
-    "4. Ejercer una ciudadanía digital crítica, conociendo las posibles acciones que realizar en la red, e identificando sus repercusiones, para hacer un uso activo, responsable y ético de la tecnología. (CD3, CD4, CPSAA1, CC1, CC2, CC3, CC4, CE1)."
-    ]
+    "1. Identificar y resolver problemas técnicos sencillos, además de conectar y configurar dispositivos a redes domésticas aplicando los conocimientos de hardware y de sistemas operativos para conseguir gestionar las herramientas e instalaciones informáticas y de comunicación de uso cotidiano.",
+    "2. Configurar el entorno personal de aprendizaje, interactuando y aprovechando los recursos y herramientas del ámbito digital, así como optimizando y gestionando el aprendizaje permanente.",
+    "3. Aplicar medidas preventivas y correctivas básicas de protección de la propia salud, de los dispositivos y de los datos personales, desarrollando hábitos propios del bienestar digital en contextos formales e informales.",
+    "4. Ejercer una ciudadanía digital proactiva y crítica en la red, a partir del conocimiento de las actuaciones en el contexto tecnológico-digital y de la identificación de sus posibles consecuencias, desarrollando un uso responsable y ético de la tecnología en los diversos ámbitos de la vida: escolar, familiar y social."
+  ]
 }

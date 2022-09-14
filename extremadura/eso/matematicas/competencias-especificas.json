@@ -1,32 +1,14 @@
 {
   "competenciasEspecificas": [
-    "1. Interpretar, modelizar y resolver problemas de la vida cotidiana y propios de las matemáticas, aplicando diferentes estrategias y formas de razonamiento, para explorar distintas maneras de proceder y obtener posibles soluciones (STEM1, STEM2, STEM3, STEM4, CD2, CPSAA5, CE3, CCEC4).",
-        
-    
-    "2. Analizar las soluciones de un problema usando diferentes técnicas y herramientas, evaluando las respuestas obtenidas, para verificar su validez e idoneidad desde un punto de vista matemático y su repercusión global (STEM1, STEM2, CD2, CPSAA4, CC3, CE3).",
-    
-
-    "3. Formular y comprobar conjeturas sencillas o plantear problemas de forma autónoma, reconociendo el valor del razonamiento y la argumentación, para generar nuevo conocimiento (CCL1, STEM1, STEM2, CD1, CD2, CD5, CE3).",
-    
-
-    "4. Utilizar los principios del pensamiento computacional organizando datos, descomponiendo en partes, reconociendo patrones, interpretando, modificando y creando algoritmos, para modelizar situaciones y resolver problemas de forma eficaz (STEM1, STEM2, STEM3, CD2, CD3, CD5, CE3).",
-    
-
-    "5. Reconocer y utilizar conexiones entre los diferentes elementos matemáticos, interconectando conceptos y procedimientos, para desarrollar una visión de las matemáticas como un todo integrado (STEM1, STEM3, CD2, CD3, CCEC1).",
-    
-
-    "6. Identificar las matemáticas implicadas en otras materias y en situaciones reales susceptibles de ser abordadas en términos matemáticos, interrelacionando conceptos y procedimientos, para aplicarlos en situaciones diversas (STEM1, STEM2, CD3, CD5, CC4, CE2, CE3, CCEC1).",
-    
-
-    "7. Representar, de forma individual y colectiva, conceptos, procedimientos, información y resultados matemáticos, usando diferentes tecnologías, para visualizar ideas y estructurar procesos matemáticos (STEM3, CD1, CD2, CD5, CE3, CCEC4).",
-    
-
-    "8. Comunicar de forma individual y colectiva conceptos, procedimientos y argumentos matemáticos, usando lenguaje oral, escrito o gráfico, utilizando la terminología matemática apropiada, para dar significado y coherencia a las ideas matemáticas (CCL1, CCL3, CP1, STEM2, STEM4, CD2, CD3, CE3, CCEC3).",
-    
-
-    "9. Desarrollar destrezas personales, identificando y gestionando emociones, poniendo en práctica estrategias de aceptación del error como parte del proceso de aprendizaje y adaptándose ante situaciones de incertidumbre, para mejorar la perseverancia en la consecución de objetivos y el disfrute en el aprendizaje de las matemáticas (STEM5, CPSAA1, CPSAA4, CPSAA5, CE2, CE3).",
-    
-
-    "10. Desarrollar destrezas sociales reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en equipos heterogéneos con roles asignados, para construir una identidad positiva como estudiante de matemáticas, fomentar el bienestar personal y grupal y crear relaciones saludables (CCL5, CP3, STEM3, CPSAA1, CPSAA3, CC2, CC3)."
+    "1. Interpretar, modelizar y resolver problemas de la vida cotidiana y propios de las matemáticas, aplicando individual o colectivamente diferentes estrategias y formas de razonamiento, explorando distintas soluciones posibles y diferentes maneras de proceder.",
+    "2. Analizar las soluciones de un problema usando diferentes técnicas y herramientas, evaluando con ayuda las respuestas obtenidas, verificando su validez e idoneidad desde un punto de vista lógico y su repercusión global.",
+    "3. Formular y comprobar conjeturas sencillas o problemas de forma autónoma, reconociendo el valor del razonamiento y la argumentación y generando nuevos conocimientos tanto en el ámbito académico como en el ámbito social.",
+    "4. Utilizar los principios del pensamiento computacional organizando datos, descomponiendo en partes, reconociendo patrones, interpretando, modificando, generalizando y creando algoritmos, a través de la modelización de situaciones cotidianas y académicas que permita la resolución eficaz de problemas.",
+    "5. Reconocer y utilizar conexiones entre los diferentes elementos matemáticos, interconectando conceptos y procedimientos, con una visión integral de las matemáticas en situaciones y contextos diversos.",
+    "6. Identificar las matemáticas implicadas en otras materias y en situaciones reales susceptibles de ser abordadas en términos matemáticos, interrelacionando conceptos y procedimientos, para aplicarlos en situaciones diversas.",
+    "7. Representar conceptos, procedimientos, información y resultados matemáticos sencillos y presentes en situaciones cotidianas o académicas usando diferentes tecnologías, tanto individual como colaborativamente consiguiendo así visualizar ideas y estructurar procesos matemáticos.",
+    "8. Comunicar de forma individual y en grupo conceptos, procedimientos y argumentos matemáticos y presentes en situaciones cotidianas o académicas usando lenguaje oral, escrito o gráfico utilizando diferentes medios, incluidos los digitales, y utilizando la terminología matemática apropiada, dando así significado y coherencia a las ideas matemáticas.",
+    "9. Identificar y gestionar emociones, valorando el error como parte del proceso de aprendizaje, adaptándose a situaciones de incertidumbre que ocurren durante la resolución de retos, basados en contextos reales o científicos, en los que se aplican las matemáticas, con perseverancia y disfrutando en su aprendizaje.",
+    "10. Desarrollar destrezas sociales reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en equipos heterogéneos con funciones asignadas, para construir una identidad positiva como estudiante de matemáticas, fomentar el bienestar personal y grupal y crear relaciones saludables."
   ]
 }
