@@ -39,3 +39,24 @@ Currículos LOMLOE en archivos json
     * Física y química
     * Fundamentos artísticos
     * Geografía
+    * Geología y ciencias ambientales
+    * Griego
+    * Historia de España
+    * Historia de la Filosofía
+    * Historia de la música y la danza
+    * Historia del arte
+    * Historia del mundo contemporáneo
+    * Inteligencia artificial
+    * Latín
+    * Lengua castellana y literatura
+    * Lengua extranjera
+    * Lenguaje y práctica musical
+    * Literatura dramática
+    * Literatura universal
+    * Matemáticas
+    * Matemática aplicadas a las CCSS
+    * Matemáticas generales
+    * Movimientos culturales y artísticos
+    * Proyectos artísticos
+    * Psicología
+    * Química
