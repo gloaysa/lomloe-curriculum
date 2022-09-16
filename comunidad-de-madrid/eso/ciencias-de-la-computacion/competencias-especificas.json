@@ -1,0 +1,8 @@
+{
+    "competenciasEspecificas": [
+        "1.   Entender y utilizar algoritmos que lleven a la resolución de problemas concretos, aplicando los principios del pensamiento computacional y el razonamiento lógico. (CCL2, STEM1, STEM3, CD2, CD5, CPSAA5, CE3)",
+        "2.   Diseñar, escribir y depurar aplicaciones informáticas, en entornos de programación gráfica y textual, que den solución a problemas concretos, incluyendo el control de sistemas físicos y robóticos. (CP2, STEM1, STEM2, STEM3, CD5, CPSAA5)",
+        "3. Conocer los elementos componentes, tanto hardware como software, de los distintos sistemas informáticos, valorando la importancia de su mantenimiento y actualización, así como la manera en la que la información es tratada y almacenada en ellos. (CCL3, STEM3, CD2, CD4, CD5, CPSAA4, CPSAA5, CE1, CE3)",
+        "4.   Comprender cómo los equipos informáticos se comunican entre sí formando redes, desde las más pequeñas hasta internet, para compartir información, servicios y recursos, siendo conscientes de las amenazas que esto conlleva y de la importancia de la ciberseguridad (CCL2, STEM5, CD1, CD2, CD3, CD4)"
+    ]
+}
