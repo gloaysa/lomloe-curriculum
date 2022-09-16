@@ -20,5 +20,5 @@ Currículos LOMLOE en archivos json
 * Currículo Comunidad de Madrid
   * Infantil
   * Primaria
-  * ESO - En progreso
-  * Bachillerato
+  * ESO - OK
+  * Bachillerato - OK
