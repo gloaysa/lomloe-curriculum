@@ -22,3 +22,12 @@ Currículos LOMLOE en archivos json
   * Primaria
   * ESO - OK
   * Bachillerato - OK
+* Currículo Comunidad Valenciana
+  * Infantil
+  * Primaria
+  * ESO - En progreso...
+    * Biología y geología
+    * Digitalización
+    * Economía y emprendimiento
+    * Educación en valores cívicos y éticos
+  * Bachillerato
