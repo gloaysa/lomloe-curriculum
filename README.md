@@ -26,4 +26,17 @@ Currículos LOMLOE en archivos json
   * Infantil
   * Primaria
   * ESO - OK
-  * Bachillerato
+  * Bachillerato - En progreso...
+    * Actividad física para la salud...
+    * Análisis musical
+    * Artes escénicas
+    * Biología
+    * Biología humana y salud
+    * Biología, geología y ciencias ambientales
+    * Ciencias generales
+    * Coro y técnica vocal
+    * Cultura audiovisual
+    * Dibujo artístico
+    * Dibujo técnico
+    * Dibujo técnico aplicado...
+    * Diseño

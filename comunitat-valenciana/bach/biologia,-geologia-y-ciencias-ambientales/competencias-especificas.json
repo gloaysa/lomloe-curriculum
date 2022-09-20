@@ -1,10 +1,11 @@
 {
   "competenciasEspecificas": [
-                    "1. Interpretar y transmitir información y datos científicos, argumentando sobre estos con precisión y utilizando diferentes formatos para analizar procesos, métodos, experimentos o resultados de las ciencias biológicas, geológicas y medioambientales (CCL1, CCL2, CP1, STEM4, CPSAA4, CCEC3.2).",
-                    "2. Localizar y utilizar fuentes fiables, identificando, seleccionando y organizando información, evaluándola críticamente y contrastando su veracidad, para resolver preguntas planteadas relacionadas con las ciencias biológicas, geológicas y medioambientales de forma autónoma (CCL3, CP1, STEM4, CD1, CD2, CD4, CPSAA4, CPSAA5).",
-                    "3. Diseñar, planear y desarrollar proyectos de investigación siguiendo los pasos de las metodologías científicas, teniendo en cuenta los recursos disponibles de forma realista y buscando vías de colaboración, para indagar en aspectos relacionados con las ciencias biológicas, geológicas y medioambientales (CCL5, STEM1, STEM2, STEM3, CD1, CD2, CPSAA3.2, CE3).",
-                    "4. Buscar y utilizar estrategias en la resolución de problemas analizando críticamente las soluciones y respuestas halladas y reformulando el procedimiento si fuera necesario, para dar explicación a fenómenos relacionados con las ciencias biológicas, geológicas y medioambientales (CCL3, STEM1, STEM2, CD1, CD5, CPSAA5, CE1).",
-                    "5. Diseñar, promover y ejecutar iniciativas relacionadas con la conservación del medioambiente, la sostenibilidad y la salud, basándose en los fundamentos de las ciencias biológicas, geológicas y ambientales, para fomentar estilos de vida sostenibles y saludables (CCL1, STEM2, STEM5, CD4, CPSAA2, CC4, CE1, CE3).",
-                    "6. Analizar los elementos del registro geológico utilizando fundamentos científicos, para relacionarlos con los grandes eventos ocurridos a lo largo de la historia de la Tierra y con la magnitud temporal en que se desarrollaron."
-                ]
+    "1. Diseñar, planificar y desarrollar proyectos de investigación siguiendo los pasos de lasdiversas metodologías científicas.",
+    "2. Explicar fenómenos y resolver problemas relacionados con las ciencias biológicas,geológicas y medioambientales, utilizando la lógica científica y analizando críticamente lassoluciones halladas",
+    "3. Localizar y utilizar fuentes fiables, seleccionando y organizando la información,contrastando su veracidad, comunicando mensajes científicos, argumentando con precisión yresolviendo las preguntas planteadas de forma autónoma.",
+    "4. Diseñar, promover y ejecutar iniciativas compatibles con los objetivos para el desarrollosostenible de las Naciones Unidas, basándose en fundamentos científicos.",
+    "5. Utilizar el conocimiento geológico sobre el funcionamiento y composición del planetaTierra como sistema para analizar las causas y consecuencias de los fenómenos geológicos yrelacionarlos con la prevención de riesgos y el aprovechamiento de los recursos geológicos.",
+    "6. Utilizar los elementos del registro geológico, relacionarlos con los grandes eventosocurridos a lo largo de la historia de la Tierra y reconocer la teoría de la selección natural comola principal teoría explicativa de la biodiversidad actual y de las adaptaciones que presentan losseres vivos.",
+    "7. Comprender y valorar la diversidad biológica a partir del análisis e interpretación delconocimiento biológico sobre la composición, estructura y funcionamiento de los seres vivos."
+  ]
 }
