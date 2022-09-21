@@ -40,3 +40,22 @@ Currículos LOMLOE en archivos json
     * Dibujo técnico
     * Dibujo técnico aplicado...
     * Diseño
+    * Economía
+    * Economía, emprendimiento...
+    * Educación física
+    * Empresa y diseño...
+    * Filosofía
+    * Física
+    * Física y química
+    * Fundamentos artísticos
+    * Geografía
+    * Geología y ciencias ambientales
+    * Griego
+    * Historia de España
+    * Historia de la filosofía
+    * Historia de la música y la danza
+    * Historia del arte
+    * Historia del mundo contemporáneo
+    * Latín
+    * Lengua castellana y literatura
+    * Valenciano lengua y literatura
