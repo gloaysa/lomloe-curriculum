@@ -1,0 +1,8 @@
+{
+    "competenciasEspecificas": [
+        "CE.MTD.1. Reconocer la importancia de la aritmética modular en un contexto tecnológico y digital, comprendiendo la necesidad y los fundamentos básicos de algoritmos de codificación sencillos y siendo capaz de aplicarlos de forma efectiva en situaciones concretas.",
+        "CE.MTD.2. Identificar la utilidad de la teoría de grafos para modelizar situaciones y problemas reales de la vida cotidiana y de materias del ámbito científico y tecnológico, empleándola para explorar distintas formas de proceder y para obtener y comunicar posibles soluciones.",
+        "CE.MTD.3. Utilizar la teoría de juegos para modelizar situaciones y problemas reales de la vida cotidiana y de materias del ámbito de las ciencias sociales y de la economía, reconociendo su aplicación a la toma de decisiones y obteniendo y expresando soluciones posibles en situaciones diversas.",
+        "CE.MTD.4. Emplear herramientas de cálculo simbólico u otras herramientas digitales para representar resultados y procedimientos, explorar, conjeturar y comprobar propiedades, y resolver problemas, desarrollando e implementando algoritmos matemáticos sencillos."
+    ]
+}

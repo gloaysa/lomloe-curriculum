@@ -27,3 +27,11 @@ Currículos LOMLOE en archivos json
   * Primaria
   * ESO - OK
   * Bachillerato - OK
+* Currículo Aragón
+  * Infantil
+  * Primaria
+  * ESO - OK
+  * Bachillerato 
+
+
+Acceso a los currículos autonómicos: https://educagob.educacionyfp.gob.es/curriculo/nuevo-curriculo/curriculos-ccaa.html
