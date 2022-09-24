@@ -9,7 +9,7 @@ const materiasAragon = {
         "Lengua Castellana y Literatura",
         "Matemáticas",
         "Música",
-        "Lengua Extranjera Inglés",
+        "Lengua Extranjeranglés",
         "Segunda Lengua Extranjera Francés",
     ],
     eso2: [
@@ -21,7 +21,7 @@ const materiasAragon = {
         "Geografía e Historia",
         "Lengua Castellana y Literatura",
         "Matemáticas",
-        "Lengua Extranjera Inglés",
+        "Lengua Extranjeranglés",
         "Segunda Lengua Extranjera Francés",
         "Tecnología y digitalización",
     ],
@@ -36,7 +36,7 @@ const materiasAragon = {
         "Lengua Castellana y Literatura",
         "Matemáticas",
         "Música",
-        "Lengua Extranjera Inglés",
+        "Lengua Extranjeranglés",
         "Tecnología y digitalización",
         "Cultura Clásica",
         "Economía social",
@@ -51,7 +51,7 @@ const materiasAragon = {
         "Biología y Geología",
         "Cultura y Patrimonio de Aragón",
         "Cultura Científica",
-        "Cultura Clásica II",
+        "Cultura Clásica",
         "Digitalización",
         "Economía y Emprendimiento",
         "Educación Física",
@@ -62,7 +62,7 @@ const materiasAragon = {
         "Geografía e Historia",
         "Latín",
         "Lengua Castellana y Literatura",
-        "Lengua Extranjera Inglés",
+        "Lengua Extranjeranglés",
         "Matemáticas A o Matemáticas B",
         "Matemáticas para la toma de decisiones",
         "Música",
@@ -70,10 +70,7 @@ const materiasAragon = {
         "Segunda Lengua extranjera Francés",
         "Tecnología",
     ],
-    bach1: [
+    bach1: ['Anatomía Aplicada', 'Análisis Musical', 'Aragonés', 'Artes Escénicas', 'Biología, Geología y Ciencias Ambientales', 'Catalán', 'Coro y Técnica Vocal', 'Cultura Audiovisual', 'Cultura y Patrimonio de Aragón', 'Dibujo Artístico', 'Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño', 'Dibujo Técnico', 'Economía, Emprendimiento y Actividad Empresarial', 'Economía', 'Educación Física', 'Educación para la Ciudadanía y los Derechos Humanos', 'Filosofía', 'Física y Química', 'Griego', 'Historia del mundo contemporáneo', 'Informática', 'Latín', 'Lengua Castellana y Literatura', 'Lengua Extranjera Inglés', 'Lenguaje y Práctica Musical', 'Literatura universal', 'Matemáticas Aplicadas a las Ciencias Sociales', 'Matemáticas Generales', 'Matemáticas', 'Oratoria', 'Proyectos Artísticos', 'Segunda Lengua Extranjera', 'Tecnología engeniería', 'Volumen'],
 
-    ],
-    bach2: [
-
-    ],
+    bach2: ['Análisis Musical', 'Aragonés', 'Artes Escénicas', 'Biología', 'Catalán', 'Ciencias Generales', 'Ciencias de la Tierra y del Medio Ambiente', 'Coro y Técnica Vocal', 'Cultura y Patrimonio de Aragón', 'Dibujo Artístico', 'Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño', 'Dibujo Técnico', 'Diseño', 'Educación Física y Vida Activa', 'Empresa y Diseño de Modelos de Negocio', 'Fundamentos Artísticos', 'Fundamentos de Administración y Gestión', 'Física', 'Geografía', 'Geología y Ciencias Ambientales', 'Griego', 'Historia de España', 'Historia de la Filosofía', 'Historia de la Música y de la Danza', 'Historia del Arte', 'Imagen y Sonido', 'Informática', 'Latín', 'Lengua Castellana y Literatura', 'Lengua Extranjera Inglés', 'Literatura Dramática', 'Matemáticas Aplicadas a las Ciencias Sociales', 'Matemáticas', 'Movimientos Culturales y Artísticos', 'Oratoria', 'Proyecto de Investigación en Inovaciónntegrado', 'Psicología', 'Química', 'Segunda Lengua Extranjera', 'Tecnología engeniería', 'Técnicas de Expresión Gráfico-plástica', 'Unión Europea'],
 }

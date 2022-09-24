@@ -1,0 +1,10 @@
+{
+    "competenciasEspecificas": [
+        "CE.I.1. Conocer la evolución histórica de la Informática y el origen de los computadores, así como los conceptos básicos de hardware y software como elementos de un sistema informático que procesa información, realizando el montaje y configuración de dichos elementos.",
+        "CE.I.2. Conocer las componentes básicas y fundamentos técnicos de funcionamiento de las redes con las que interactúa, así como los servicios habituales de la red Internet, instalando, configurando y usando dichas redes y servicios aplicando competencias propias para la resolución de problemas.",
+        "CE.I.3. Aplicar el pensamiento computacional para analizar, diseñar e implementar sistemas de computación en entornos diversos: computadores, entorno web, dispositivos móviles y sistemas físicos y aplicar procedimientos rigurosos de prueba y depuración de programas, así como de resolución de problemas en todas las fases de desarrollo de software.",
+        "CE.I.4. Utilizar un software de hoja de cálculo para el manejo sencillo de información, realizar el diseño completo de una base de datos relacional sencilla plasmado en un sistema gestor de bases de datos relacional en entorno ofimático, y conocer y comprender la noción de datos masivos, así como las oportunidades y riesgos, tanto sociales como personales, de su tratamiento.",
+        "CE.I.5. Comprender los principios básicos de funcionamiento de la inteligencia artificial y su impacto en nuestra sociedad, conocer los diferentes elementos de la inteligencia artificial y los bloques básicos para ser capaces de construir sistemas sencillos: uno de aprendizaje automático y otro que interactúe con el mundo real a través de un dispositivo móvil que abarque como mínimo los bloques de percepción y actuación.",
+        "CE.I.6. Conocer y saber aplicar los principios fundamentales de la seguridad Informática y desarrollar hábitos que fomenten el bienestar digital, aplicando medidas preventivas y correctivas, para proteger dispositivos, comunicaciones, datos personales y la propia salud en relación con la tecnología."
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "criteriosEvaluacion": [
+        "1.1. Reconocer la curiosidad natural del ser humano como origen de la investigación. ",
+        "1.2. Conocer la evolución de la investigación entendiendo su significado y practicidad. ",
+        "1.3. Comprender la investigación como elemento constructor de la sociedad del conocimiento.",
+        "2.1. Ser capaz de diseñar un proyecto de investigación, reconociendo los métodos analítico, sintético, inductivo y deductivo para aplicarlo a un diseño de investigación.",
+        "2.2. Distinguir los enfoques cualitativo y cuantitativo de investigación según la realidad a indagar.",
+        "2.3. Vincular la problemática de investigación al correspondiente tipo de indagación.",
+        "2.4. Especificar en el diseño de investigación los marcos contextuales y teóricos básicos.",
+        "3.1. Ser capaz de reconocer un tema o pregunta de investigación teniendo en cuenta su relevancia científica.",
+        "3.2. Conocer los distintos tipos de fuentes de investigación y su accesibilidad o posibilidades de consulta.",
+        "3.3. Buscar, analizar, contrastar y verificar la información procedente de las fuentes.",
+        "3.4. Reconocer todos los elementos y técnicas propios del proceso de investigación para llevar a cabo el proceso de manera adecuada.",
+        "3.5. Manejar herramientas y recursos TAC de procesamiento de la información.",
+        "4.1. Conocer todos los componentes formales para una correcta presentación de un informe final de investigación.",
+        "4.2. Manejar los distintos modelos de informes existentes y las partes que los componen.",
+        "4.3. Comprender los principios éticos de la ciencia para asegurar el avance del conocimiento, la comprensión y mejora de la condición humana y el progreso de la sociedad.",
+        "4.4. Usar diversos formatos tradicionales y digitales para  la visibilización de los resultados de la investigación."
+    ],
+    "saberes": [
+        "A. Fundamentos de la investigación",
+        "- Significado y sentido de la investigación: La curiosidad natural del ser humano y el origen histórico de la investigación.",
+        "- La sociedad del conocimiento.",
+        "- El proceso de investigación: sus métodos “lógicos” (analítico, sintético, inductivo y deductivo).",
+        "- El proceso de investigación: sus enfoques (cuantitativo y cualitativo).",
+        "- Los tipos de investigación. ",
+        "- Los grandes marcos (contextual y teórico) en la investigación.",
+        "B. Metodología de la investigación",
+        "- La selección del tema o pregunta de investigación. ",
+        "- Uso de las fuentes de investigación y sus tipos. El tratamiento de la información en la era digital.",
+        "- Elementos de investigación (variables, muestra y operativización). ",
+        "- Técnicas de investigación.",
+        "- Las estrategias para analizar la información o datos de investigación.",
+        "- Herramientas y recursos de procesamiento de la información. Las TAC al servicio de la investigación.",
+        "C. El informe de investigación",
+        "- Estructura del informe de investigación.",
+        "- Presentación de resultados cualitativos y cuantitativos",
+        "- La ética en la presentación del informe de investigación.",
+        "- Aspectos formales para la presentación: citas, referencias, notas a pie, bibliografía.",
+        "- Formatos de presentación visual y oral."
+    ]
+}
