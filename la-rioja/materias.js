@@ -1,0 +1,56 @@
+const materiasRioja = {
+    eso1: [
+        "Biología y Geología",
+        "Educación Física",
+        "Educación Plástica, Visual y Audiovisual",
+        "Física y Química",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Música",
+        "Tecnología y Digitalización",
+        "Segunda Lengua Extranjera",
+        "Cultura Clásica",
+    ],
+    eso2: [
+        "Educación Física",
+        "Educación Plástica, Visual y Audiovisual",
+        "Física y Química",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Música",
+        "Tecnología y Digitalización",
+        "Segunda Lengua Extranjera",
+        "Cultura Clásica",
+    ],
+    eso3: [
+        "Biología y Geología",
+        "Educación Física",
+        "Educación Plástica, Visual y Audiovisual",
+        "Física y Química",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Música",
+        "Segunda Lengua Extranjera",
+        "Cultura Clásica",
+    ],
+    eso4: [
+        "Educación Física",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas A",
+        "Matemáticas B",
+    ],
+    bach1: [
+
+    ],
+    bach2: [
+
+    ],
+}
