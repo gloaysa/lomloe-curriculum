@@ -1,0 +1,39 @@
+{
+  "saberes": [
+    "A. Materiales y herramientas.",
+    "• Manejo de herramientas manuales de uso común en el hogar.",
+    "• Herramientas eléctricas portátiles.",
+    "• Criterios de seguridad y salud en el uso de herramientas.",
+    "• Materiales técnicos de uso doméstico. Selección y adecuación de recursos.",
+    "• Materiales de construcción. Clasificación y uso adecuado en interior y exterior de la vivienda.",
+    "• Elaboración y gestión de presupuestos.",
+    "B. Instalaciones en viviendas.",
+    "• Instalaciones de agua. Elementos constituyentes, averías características y mantenimiento.",
+    "• Instalaciones de electricidad. Cuadro general de control y protección. Circuitos característicos en viviendas y criterios de seguridad en su manipulación.",
+    "• Instalaciones de telecomunicaciones. Antena de televisión, teléfono e internet. Circuitos característicos en viviendas y criterios de seguridad en su manipulación.",
+    "• Instalaciones de calefacción. Sistemas de calefacción y circuitos característicos.",
+    "C. Domótica, Arquitectura bioclimática y sostenibilidad.",
+    "• Internet de las cosas. Conexión y configuración de elementos inteligentes.",
+    "• Arquitectura energética pasiva.",
+    "• Criterios de ahorro energético en viviendas.",
+    "• Clasificación, reutilización y reciclado de residuos urbanos."
+  ],
+  "criteriosEvaluacion": [
+    "Competencia específica 1",
+    "1.1 Constituir equipos de trabajo basados en principios de equidad, coeducación e igualdad entre hombres y mujeres, utilizando estrategias que faciliten la identificación y optimización de los recursos humanos necesarios que conduzcan a la consecución del reto propuesto.",
+    "1.2 Cooperar y colaborar en las distintas fases de diseño y resolución para trabajar con mayor eficiencia, respetando la diversidad y la igualdad de género, desarrollando la superación de los tópicos y el alejamiento de estereotipos.",
+    "1.3 Valorar y respetar las aportaciones de los demás en las distintas dinámicas de trabajo y fases del proceso llevado a cabo, respetando las decisiones tomadas de forma colectiva.",
+    "Competencia específica 2",
+    "2.1 Reconocer la influencia de la actividad tecnológica doméstica en la sociedad y en la sostenibilidad ambiental, identificando sus aportaciones y repercusiones y valorando su importancia para el desarrollo sostenible.",
+    "2.2 Superar los proyectos propuestos a partir de ideas y soluciones innovadoras y sostenibles, evaluando sus ventajas e inconvenientes, así como el impacto que pudieran generar a nivel personal y social.",
+    "2.3 Proponer y adoptar hábitos sostenibles, analizando de una manera crítica las actividades propias y ajenas a partir de los propios razonamientos, de los conocimientos adquiridos y de la información disponible.",
+    "Competencia específica 3",
+    "3.1 Proponer soluciones sostenibles y éticas a situaciones domésticas que planteen un reto técnico, ideando un estudio previo del problema.",
+    "3.2 Emplear de manera autónoma, segura y respetuosa, materiales, utensilios y herramientas manuales y automáticas.",
+    "3.3 Solventar con éxito tareas básicas del ámbito doméstico evaluando mediante diferentes criterios los resultados propios y ajenos, intercambiando valoraciones con respeto y tolerancia.",
+    "Competencia específica 4",
+    "4.1 Dar explicación y resolver problemas o averías propuestas en diferentes instalaciones, poniendo en práctica habilidades sociales, de comunicación abierta, de motivación, de liderazgo y de cooperación.",
+    "4.2 Integrar controladores automáticos y domóticos en la vivienda, configurando sus principales características, de manera óptima y segura, entendiendo su repercusión en el reparto equitativo e igualitario de las tareas domésticas.",
+    "4.3 Conocer los principios de la arquitectura bioclimática, identificando los elementos característicos y los fundamentos de diseño que condicionan su elección, entendiendo, a su vez, su impacto sobre la eficiencia energética y la sostenibilidad del desarrollo urbanístico."
+  ]
+}

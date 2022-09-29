@@ -35,8 +35,7 @@ Currículos LOMLOE en archivos json
 * Currículo La Rioja
   * Infantil
   * Primaria
-  * ESO - En progreso...
-    * Biología y Geología
+  * ESO - OK
   * Bachillerato
 
 * Andalucía - NO PUBLICADO POR LA ADMÓN.
