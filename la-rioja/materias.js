@@ -71,7 +71,7 @@ const materiasRioja = {
         "Volumen",
         "Análisis musical",
         "Artes escénicas",
-        "Coro y técnica vocal ",
+        "Coro y técnica vocal",
         "Lenguaje y práctica musical",
         "Biología, Geología y Ciencias ambientales",
         "Dibujo técnico",
