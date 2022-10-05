@@ -1,0 +1,43 @@
+{
+  "saberes": [
+    "A. Comunicación",
+    "- Elementos de la comunicación.",
+    "- Actitud de cooperación y respeto en situaciones de aprendizaje compartido.",
+    "- Comprensión de textos propios de la vida cotidiana y de las relaciones sociales en ámbitos próximos a la experiencia del alumnado.",
+    "- Participación en debates, coloquios y conversaciones espontáneas, observando y respetando las normas básicas de interacción, intervención y cortesía y respeto que regulan estas.",
+    "B. Educación literaria",
+    "- Desarrollo e implicación de la autonomía lectora a partir de una preselección de textos variados de autoras y autores.",
+    "- Iniciación a la organización de las obras en géneros y subgéneros literarios.",
+    "- Lectura con perspectiva de género.",
+    "- Desarrollo de la autonomía lectora y aprecio por la literatura como fuente de placer y de conocimiento del mundo.",
+    "- Lectura de fragmentos de obras adecuadas, en extensión y contenido, a la edad.",
+    "- Creación de textos sencillos y breves a partir de modelos dados (imitación, transformación, continuación).",
+    "C. Reflexión sobre la lengua",
+    "- Nociones básicas de acentuación y puntuación.",
+    "- Conocimiento y uso reflexivo de las normas ortográficas, apreciando su valor social y la necesidad de ceñirse a la norma lingüística en los escritos.",
+    "- Refuerzo y apoyo en el estudio de las clases de palabras. El sustantivo y el adjetivo El pronombre y el determinante. El verbo. El adverbio. La preposición y la conjunción.",
+    "- Fenómenos semánticos: polisemia, sinonimia, antonimia, homonimia. Ejemplos sencillos.",
+    "- Iniciación a los procedimientos de ampliación léxica. Ejemplos sencillos.",
+    "- Identificación de los usos discriminatorios de la lengua. Lenguaje inclusivo."
+  ],
+  "criteriosEvaluacion": [
+    "Competencia específica 1",
+    "1.1 Comprender y valorar el sentido global y la información relevante de textos orales y escritos sencillos, realizando lecturas y audiciones guiadas. (CCL2, CP2, STEM4, CD1, CD2, CD4, CE1)",
+    "1.2 Planificar la producción de textos orales sencillos (narrativos, expositivos y dialogados) sobre temas variados en diferentes soportes, estructurando la información con base en principios de coherencia, cohesión y adecuación. (STEM4, CD1, CD2, CD3, CD4, CPSAA3, CPSAA5)",
+    "Competencia específica 2",
+    "2.1 Participar de manera activa y adecuada en debates orales informales, trabajando en equipo, con actitud de respeto y colaboración. (CCL1, CCL5, CD2, CD3, CPSAA1, CPSAA3, CPSAA4, CE1)",
+    "2.2. Redactar textos escritos sencillos (narrativos, expositivos y dialogados) sobre temas de carácter personal y social en diferentes soportes, respetando los principios de coherencia cohesión y adecuación. (CCL1, CD2, CD3, CPSAA4, CPSAA5)",
+    "Competencia específica 3",
+    "3.1 Localizar, seleccionar y contrastar información de diferentes fuentes y soportes, de manera progresivamente autónoma evaluando su fiabilidad. (CCL2, CCL3, STEM1, CD1, CD2, CD4, CPSAA4)",
+    "3.2 Elaborar trabajos escritos sencillos, teniendo en cuenta sus gustos y motivaciones. (CCL3, CP2, STEM1, CD3, CD4, CPSAA5, CC1, CC3, CE1)",
+    "Competencia específica 4",
+    "4.1 Seleccionar y leer fragmentos de textos sencillos, a partir de preselecciones y según los propios gustos propiciando una progresiva autonomía. (CCL2, CCL4, CPSAA1, CCEC1, CCEC2, CCEC4)",
+    "4.2 Compartir la experiencia de lectura en diferentes soportes, dejando constancia del propio itinerario lector. (CCL1, CCL4, CD3, CPSAA1, CPSAA3, CPSAA5, CCEC1, CCEC3, CCEC4)",
+    "Competencia específica 5",
+    "5.1 Identificar y subsanar problemas de producción y comprensión de textos básicos, utilizando los conocimientos sobre la lengua y su uso. (CCL1, CCL2, CCL3, CP2, CD1, CD2, CD4, CPSAA4, CPSAA5)",
+    "5.2 Elaborar textos sencillos con corrección ortográfica y gramatical, a partir de la reflexión metalingüística respetando las propiedades textuales básicas. (CCL1, CCL2, CCL3, CP2, CD1, CD2, CD3, CD4, CPSAA4, CPSAA5)",
+    "Competencia específica 6",
+    "6.1 Valorar el uso de la lengua como herramienta de convivencia democrática y estrategia para la resolución de dialogada de conflictos, identificando el potencial de la palabra como vía más adecuada. (CCL3, CCL5, CP3, CPSAA3, CC1, CC2, CC3)",
+    "6.2 Identificar y desterrar usos discriminatorios de la lengua, comparando y modificando enunciados breves propuestos. (CCL3, CCL5, CPSAA3, CC1, CC2, CC3)"
+  ]
+}

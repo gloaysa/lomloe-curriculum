@@ -1,0 +1,7 @@
+{
+  "competenciasEspecificas": [
+    "1. Identificar los diferentes componentes de un sistema de control y distinguir sus tipos, valorando la idoneidad de usar unos lazos u otros en función de sus propósitos, para diseñar y gestionar de modo eficaz los mecanismos de control que actúen en diversos ámbitos. CCL1, CCL2, CCL3, STEM1, STEM2.",
+    "2. Distinguir y gestionar los componentes electrónicos que forman parte de un sistema robótico, implementando circuitos con sensores y actuadores de modo físico y/o con simuladores, para culminar el montaje físico y/o simulado de unidades de control aptas para la comunicación con ordenadores y otros dispositivos digitales, de modo alámbrico e inalámbrico. CCL3, STEM1, STEM2, STEM4, CD2, CPSAA4.",
+    "3. Diseñar y construir un sistema robótico, diseñando el software textual y/o por bloques de control adecuado, depurando y autocorrigiendo posibles errores de programación, subiendo el programa resultante a la unidad de control, colaborando activamente con los compañeros y respetando las normas de seguridad e higiene en el trabajo, para resolver el problema tecnológico planteado con eficiencia y documentar adecuadamente la solución elegida. CCL3, CP2, CP3, STEM2, STEM3, STEM4, CD2, CD5, CPSAA3, CPSAA5, CC2, CE1, CE3, CCEC4."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "saberes": [
+    "A. Fundamentos de los sistemas automáticos de control.",
+    "- Sistemas automáticos de control. Definición y componentes característicos: adaptadores, comparadores, controladores y actuadores.",
+    "- Tipos de sistemas de control: Lazo abierto y cerrado. Representación gráfica de sistemas automáticos de control. Necesidades y aplicaciones de los sistemas automáticos de control. Ámbito industrial y domótica.",
+    "B. Fundamentos de electrónica aplicados a la robótica.",
+    "- Origen y evolución de la robótica. Clasificación general de los robots. Aplicaciones de los robots.",
+    "- Arquitectura de un robot: sensores, actuadores, microprocesador y memoria.",
+    "- Movimientos y localización: grados de libertad (articulaciones) y sistemas de posicionamiento para robot.",
+    "- Tipos de sensores. Sensores digitales: pulsador, interruptor y de equilibrio. Sensores analógicos: de intensidad de luz, de temperatura, de rotación, optoacopladores y de distancia. Características técnicas y funcionamiento. Circuitos típicos para sensores.",
+    "- Actuadores: zumbadores, relés, motores de corriente continua servomotores, leds, pantallas LCD.",
+    "- Características técnicas y funcionamiento. Circuitos típicos para actuadores.",
+    "- Características de la unidad de control compatible con hardware y software libres. Conexión de sensores y actuadores con la unidad de control.",
+    "- Tipos de entradas y salidas (analógicas y digitales).",
+    "- Comunicación con el ordenador y otros dispositivos digitales. Conexión alámbrica e inalámbrica (wifi, infrarrojos, bluetooth y telefonía móvil). Internet de las Cosas (IoT).",
+    "C. Programación asociada a Control y Robótica.",
+    "- Concepto de programa. Lenguajes de programación.",
+    "- Software de control a través de programación visual con bloques. Diagramas de flujo: simbología. Bloques de programación. Estructura secuencial y de control (condicionales y bucles).",
+    "- Software libre de control a través de lenguaje textual de programación por código: Estructura, tipos de datos, variables, funciones, condicionales, bucles, operadores aritméticos y compuestos, librerías.",
+    "- Depuración de programas de control. Defectos de precisión: mecanismos de autocorrección.",
+    "- Proceso de subida del programa de software a la unidad de control. Documentación técnica de un proyecto. Tipos de licencias para compartir documentación y programas."
+  ],
+  "criteriosEvaluacion": [
+    "Competencia específica 1",
+    "1.1 Reconocer sistemas automáticos de control en el entorno cotidiano, identificando cada una de las partes que lo constituyen y explicando el funcionamiento del conjunto. (CCL2, CCL3, STEM1, STEM2).",
+    "1.2 Valorar la importancia de los sistemas automáticos de control tanto en el ámbito industrial como en el civil y doméstico, ejemplificando en artefactos tecnológicos cotidianos. (CCL1, STEM1, STEM2).",
+    "Competencia específica 2",
+    "2.1 Identificar los diferentes tipos de robots existentes, valorando la contribución de estos a la resolución de problemas en los diferentes sectores de la sociedad (industrial, civil y doméstico). (STEM1, CD2, CPSAA4).",
+    "2.2 Identificar y clasificar las distintas partes que componen un robot, describiendo la función que realizan dentro del mismo, así como los principios que rigen su funcionamiento. (CCL3, STEM2, STEM4).",
+    "2.3 Conocer los tipos de movimientos que realiza un robot, comprendiendo los métodos utilizados para posicionarlo conociendo la relación entre las articulaciones y grados de libertad del mismo. (STEM1, STEM2, STEM4).",
+    "2.4 Conocer y distinguir los diferentes tipos de sensores y actuadores que pueden formar parte de un robot, implementando de modo físico y/o simulado sus circuitos característicos en función de sus características técnicas. (STEM1, STEM4, CD2).",
+    "2.5 Conocer las características de las unidades de control, compatibles con el hardware y software libres, utilizando de modo físico y/o simulado sus conexiones, entradas y salidas tanto analógicas como digitales y describiendo sus diferentes partes, conociendo los sistemas de comunicación que pueden utilizar. (STEM1, STEM4, CD2).",
+    "2.6 Conocer las conexiones de distintos elementos de entrada y salida a unidades de control, compatibles con el hardware y software libres, conectándolas con el ordenador y otros dispositivos digitales, tanto de forma alámbrica como inalámbrica, poniendo en valor la potencialidad del Internet de las Cosas (IoT). (STEM2, CD2, CPSAA4).",
+    "Competencia específica 3",
+    "3.1 Comprender la función que cumplen los programas y lenguajes de programación en la resolución de problemas, aplicando dicha compresión a la casuística de la robótica. (CP2, CP3, STEM3, STEM4, CD2, CC2).",
+    "3.2 Diseñar programas completos de control mediante programación por bloques, a través de diverso distinto software, compatible con software libre, resolviendo los requerimientos inicialmente fijados en los retos, y depurando y autocorrigiendo defectos. (STEM2, STEM4, CD2, CD5, CPSAA5, CE1).",
+    "3.3 Diseñar programas completos de control mediante software de lenguaje textual, compatible con software libre, resolviendo los requerimientos inicialmente fijados en los retos, y depurando y autocorrigiendo defectos. (STEM2, STEM4, CD2, CD5, CPSAA5, CE1).",
+    "3.4 Subir adecuadamente los programas creados a la unidad de control, formando parte de la documentación técnica de resolución de proyectos y utilizando adecuadamente las licencias necesarias para la compartición de documentos y programas. (CCL3, STEM3, CD5, CPSAA3, CE3, CCEC4)."
+  ]
+}

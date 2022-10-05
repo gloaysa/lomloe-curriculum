@@ -1,0 +1,22 @@
+{
+  "saberes": [
+    "A. Introducción a la programación",
+    "- Pensamiento Computacional: Definición. Estrategias para la resolución de problemas mediante pensamiento computacional.",
+    "- Lenguaje de programación: Definición. Lenguajes de alto y bajo nivel. Características.",
+    "B. Entornos de programación gráfica por bloques.",
+    "- Aplicaciones para ordenador y otros dispositivos digitales de programación por bloques. Apariencia, movimientos, bucles, eventos, realimentaciones, comparadores, operadores, variables de entorno y sensórica. Licencias y uso de materiales en la red y propios.",
+    "- Aplicaciones –appspara dispositivos móviles (tabletas y teléfonos inteligentes). Paletas de bloques, eventos, variables, procedimientos y pantallas de interacción. Sensores, simulación, conectividad y publicación. Licencias y uso de materiales en la red y propios.",
+    "C. Lenguajes de programación mediante código.",
+    "- Elementos de un lenguaje de programación. Sintaxis. Variables.",
+    "- Estructuras de control. Vectores. Arrays. Funciones. Objetos. Imágenes y archivos multimedia. Compiladores. Depuración de errores. Licencias y uso de materiales en la Red y propios. Processing."
+  ],
+  "criteriosEvaluacion": [
+    "Competencia específica 1",
+    "1.1 Identificar la solución óptima de un problema planteado, proponiendo diferentes alternativas a través del pensamiento computacional, y seleccionando de manera argumentada la mejor de ellas. (CCL2, CCL3, CP1, CP2, STEM1, STEM2, CD1, CD5) 1.2 Analizar los diferentes niveles de los lenguajes de programación, distinguiendo las características, necesidad, conveniencia y aplicación de cada uno de ellos. (STEM2) ",
+    "Competencia específica 2",
+    "2.1 Utilizar con destreza un entorno de programación gráfica por bloques, enfocando sus potencialidades hacia la generación de juegos y animaciones para ordenadores y otros dispositivos digitales, seleccionando las herramientas más apropiadas para generar nuevo contenido digital de manera creativa, respetando derechos de autor y licencias. (CCL2, CCL3, STEM1, STEM2, STEM3, STEM4, CD1, CD2, CD3, CD5, CPSAA1, CPSAA4, CPSAA5, CC2, CE1, CE3, CCEC4)",
+    "2.2 Desarrollar, programar y publicar aplicaciones -appsen entornos de programación por bloques para dispositivos móviles, seleccionando las herramientas más apropiadas para generar contenido digital de modo creativo, respetando derechos de autor y licencias. (CCL2, CCL3, STEM1, STEM2, STEM3, STEM4, CD1, CD2, CD3, CD5, CPSAA1, CPSAA4, CPSAA5, CC2, CE1, CE3, CCEC4)",
+    "Competencia específica 3",
+    "3.1 Desarrollar programas en el lenguaje de programación textual de código abierto Processing, gestionando sus potencialidades multimedia, exportando sus archivos finales y depurando los posibles errores sobrevenidos en el diseño del código, atendiendo además a derechos de autor y licencias de uso. (CCL2, CCL3, CP2, STEM1, STEM2, STEM3, STEM4, CD1, CD2, CD3, CD5, CPSAA1, CPSAA4, CPSAA5, CC2, CE1, CE3, CCEC4)"
+  ]
+}
