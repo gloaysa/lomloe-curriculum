@@ -85,7 +85,7 @@ const materiasRioja = {
         "Latín",
         "Literatura universal",
         "Matemáticas aplicadas a las ciencias sociales",
-        "Segunda lengua extranjera Francés",
+        "Segunda lengua extranjera",
     ],
     bach2: [
         "Historia de España",
@@ -115,6 +115,6 @@ const materiasRioja = {
         "Historia del arte",
         "Latín",
         "Matemáticas aplicadas a las ciencias sociales",
-        "Segunda lengua extranjera Francés",
+        "Segunda lengua extranjera",
     ],
 }
