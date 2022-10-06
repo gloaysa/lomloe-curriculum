@@ -1,0 +1,27 @@
+{
+    "criteriosEvaluacion": [
+        "Competencia específica 1",
+        "1.1 Editar webs multimedia que comuniquen eficazmente una idea, utilizando editores web basados en sistemas de gestión de contenidos (Content Management System – CMS) y edición de HTML. (CCL1, STEM 1, STEM3, CD1, CD3, CD5, CPSAA2, CPSAA3.1, CPSAA 3.2, CPSAA4, CPSAA5, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2) 1.2 Crear presentaciones multimedia que difundan eficazmente una idea, haciendo uso de herramientas en la nube (Cloud Computing). (CCL1, CCL3, STEM3, CD1, CD2, CD3, CD5, CPSAA2, CPSAA3.1, CPSAA3.2, CPSAA4, CPSAA5, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2)",
+        "1.3 Maquetar documentos tales como folletos, tarjetas de visita o infografías, entre otros, que comuniquen de modo visualmente eficaz una idea, empleando herramientas en la nube (Cloud Computing). (CCL1, CCL3, STEM3, STEM4, CD1, CD2, CD3, CD5, CPSAA2, CPSAA3.1, CPSAA3.2, CPSAA4, CPSAA5, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2)",
+        "1.4 Crear y publicar archivos de audio y vídeo digitales que comuniquen eficazmente una idea, trabajando con editores de escritorio y en la nube, y alojando contenidos en plataformas de almacenamiento web de audio y vídeo. (CCL1, STEM3, CD3, CD5, CPSAA2, CPSAA3.1, CPSAA 3.2, CPSAA4, CPSAA5, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2)",
+        "Competencia específica 2",
+        "2.1 Diseñar logotipos que constituyan la identidad digital o marca de una idea emprendedora, utilizando software adecuado para la edición de imágenes vectoriales en dos dimensiones. (STEM1, STEM2, STEM3, STEM4, CD3, CD5, CPSAA3.1, CPSAA4, CPSAA5, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2)",
+        "2.2 Diseñar espacios y equipamientos adecuados para la puesta en marcha de una idea emprendedora, haciendo uso de software de edición de gráficos vectoriales en tres dimensiones. (STEM1, STEM2, STEM3, STEM4, CD3, CD5, CPSAA3.1, CPSAA4, CPSAA5, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2.)",
+        "2.3 Conocer los procedimientos de micromecenazgo a través de medios digitales, valorando su papel en la consecución de objetivos asociados a ideas emprendedoras, planteados de modo colectivo. (CCL2, CCL5, CP3, STEM5, CD1, CD2, CPSAA2, CC4) Competencia específica 3",
+        "3.1 Desarrollar programas haciendo uso de lenguajes de programación y entornos integrados de desarrollo básicos, respetando la sintaxis y depurando los posibles errores, haciendo hincapié en sus potencialidades multimedia y su interactividad con el usuario, para crear proyectos visuales de propósito lúdico. (CP3, STEM1, STEM3, CD1, CD3, CD5, CPSAA3.1, CPSAA4, CPSAA5, CC4, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2)"
+    ],
+    "saberes": [
+        "A. Proyecto TIC. Publicación y difusión de contenidos.",
+        "- Edición y publicación web con herramientas CMS y/o editores web HTML.",
+        "- Diseño y publicación de presentaciones con herramientas Cloud Computing.",
+        "- Edición de maquetación con herramientas Cloud Computing.",
+        "- Edición avanzada de audio y vídeo digitales. Tipos de archivos de audio y vídeo.",
+        "Alojamiento en servidores web.",
+        "B. Digitalización del entorno personal de aprendizaje.",
+        "- Imagen vectorial 2D, software de diseño 2D, logotipado y estrategias de creación de marca. Espacios de trabajo. Trazos y rellenos. Distribución y alineaciones. Nodos, formas, rellenos, trayectos, filtros, capas.",
+        "- Elementos gráficos en 3D. Diseño de espacios y pautas de visualización comunicativa. Plantillas, edición, modelado, extrusión, texturas, componentes, materiales. Paseos virtuales.",
+        "C. Programación.",
+        "- Aplicaciones interactivas con programación.",
+        "- Sintaxis. Variables. Estructuras de control. Vectores. Arrays. Funciones. Objetos. Imágenes y archivos multimedia. Compiladores. Depuración de errores. Licencias y uso de materiales en la red y propios. Micromecenazgo."
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "criteriosEvaluacion": [
+        "Competencia específica 1",
+        "1.1 Generar sitios web de un nivel avanzado con contenido multimedia, usando edición de código HTML, CSS y JavaScript, depurando errores, integrando widgets externos, optimizando la experiencia de usuario y alojando el contenido en servidores web utilizando sistemas de transferencia de archivos. (CCL1, CCL3, STEM1, STEM3, STEM4, CD1, CD3, CD5, CPSAA3.1, CPSAA4, CPSAA5, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2)",
+        "1.2 Publicar contenidos web breves (textos, fotos, diálogos, links, citaciones, vídeo y música) de forma rápida, visual y comunicativamente eficaz, usando plataformas online de microblogging, optimizando la experiencia de usuario y ofreciendo la posibilidad de interactuar con otras plataformas y redes sociales. (CCL1, CCL3, STEM1, STEM3, STEM4, CD1, CD2, CD3, CD5, CPSAA2, CPSAA3.1, CPSAA 3.2, CPSAA4, CPSAA5, CE3, CCEC3.2, CCEC4.1, CCEC4.2)",
+        "1.3 Crear contenidos multimedia a través de entornos colaborativos (Cloud Computing), usando de modo eficaz plataformas online que permitan la edición multiusuario, la revisión, el control de cambios y los comentarios de retroalimentación. (CCL1, CCL3, STEM1, STEM3, STEM4, CD1, CD2, CD3, CD5, CPSAA2, CPSAA3.1, CPSAA3.2, CPSAA4, CPSAA5, CE3, CCEC3.2, CCEC4.1, CCEC4.2)",
+        "1.4 Insertar eficazmente geolocalizaciones en webs creadas con lenguaje HTML, empleando interfaces de programación de aplicaciones que faciliten la generación de código y ofrezcan una adecuada experiencia de usuario. (STEM1, STEM3, STEM4, CD1, CD3, CD5, CPSAA3.1, CPSAA4, CPSAA5, CE3, CCEC3.2, CCEC4.1, CCEC4.2) Competencia específica 2",
+        "2.1 Crear una base de datos previamente diseñada, usando herramientas adecuadas, y prestando atención a la entrada, la salida, la integridad y la seguridad de los datos, respetando, además, las licencias y derechos de autor. (STEM1, STEM3, CD3, CD5, CPSAA3.1, CPSAA4, CPSAA5, CE1, CE3)",
+        "2.2 Maquetar documentos eficientes en lo que a su capacidad comunicativa se refiere, haciendo uso de programas adecuados, y respetando las licencias y los derechos de autor. (CCL2, CCL5, STEM1, STEM3, STEM4, CD3, CD5, CPSAA3.1, CPSAA4, CPSAA5, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2.)",
+        "2.3 Crear aplicaciones de realidad aumentada a partir de marcadores, activadores y conexiones a Internet, incorporando elementos propios de la realidad virtual, discriminando los diversos usos de estas aplicaciones, optimizando la experiencia de usuario, y respetando las licencias y los derechos de autor. (CCL5, CP3, STEM1 STEM2, STEM3, STEM4, STEM5, CD1, CD2, CD3, CD5, CPSAA2, CPSAA3.1, CPSAA4, CPSAA5, CC4, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2.)",
+        "Competencia específica 3",
+        "3.1 Desarrollar programas en un lenguaje de programación textual, empleando diversos entornos integrados de desarrollo, respetando su sintaxis y depurando los posibles errores, prestando especial atención a los derechos de autor y a las licencias. (STEM1, STEM3, CD3, CD5, CPSAA3.1, CPSAA4, CPSAA5, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2)",
+        "3.2 Desarrollar aplicaciones propias del aprendizaje automático (machine learning), reconociendo patrones en textos, números, imágenes y sonidos, utilizando las herramientas adecuadas y exportando el modelo final a aplicaciones. (CP3, STEM1, STEM3, CD1, CD3, CD5, CPSAA3.1, CPSAA4, CPSAA5, CC4, CE1, CE3, CCEC3.2, CCEC4.1, CCEC4.2)"
+    ],
+    "saberes": [
+        "A. Proyecto TIC. Publicación y difusión de contenidos",
+        "- Creación y publicación web avanzada. Códigos HTML, CSS y JavaScript.",
+        "Widgets. Publicación en servidores en remoto. FTP.",
+        "- Experiencia de usuario. Interacción con los dispositivos. Diseño y confiabilidad del producto web.",
+        "- Microblogging. Publicación de contenidos o posts con interacción multiplataforma.",
+        "- Entornos multimedia y multidispositivo de trabajo colaborativo a partir de Cloud Computing. Modos de edición, revisión, control de cambios, comentarios.",
+        "- Geolocalización; Interfaces de Programación de Aplicaciones para geolocalizar en HTML, inserción web.",
+        "B. Digitalización del entorno personal de aprendizaje",
+        "- Bases de datos. Sistemas gestores de bases de datos. Creación y gestión de una base de datos. Bases de datos relacionales y no relacionales. Paquetes. Relación con diseño web. Indexación y consulta de datos.",
+        "- Maquetación avanzada con software de escritorio. Edición. Plantillas, texturas. elementos de diseño. Eficacia comunicativa.",
+        "- Realidad virtual, aumentada y mixta. Hardware, componentes y software de recreación de distintas realidades. Técnicas de realidad virtual. Marcadores. Activadores plataformas de realidad aumentada.",
+        "C. Programación.",
+        "- Diseño de algoritmos para la resolución de problemas. Diagramas de flujo.",
+        "Descomposición modular de un problema. Bloques funcionales.",
+        "- Tipos de lenguajes de programación. Sintaxis. Entornos integrados de desarrollo. Pseudocódigo.",
+        "- Clases, objetos, atributos y métodos. Tipos de datos. Estructuras de control. Variables. Funciones. Bibliotecas. Proceso de detección y depuración de errores.",
+        "- Inteligencia artificial y machine learning. Desarrollo de aplicaciones. Reconocimiento de textos, números, imágenes y sonidos. Producto final en clones en la web de programación por bloques y/o aplicaciones de Python."
+    ]
+}
