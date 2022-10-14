@@ -42,6 +42,11 @@ Currículos LOMLOE en archivos json
   * Primaria
   * ESO - OK
   * Bachillerato - OK 
+* Currículo Galicia
+  * Infantil
+  * Primaria
+  * ESO 
+  * Bachillerato - En progreso...
 
 * Andalucía - NO PUBLICADO POR LA ADMÓN.
 * Canarias - NO PUBLICADO POR LA ADMÓN.
