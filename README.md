@@ -50,8 +50,8 @@ Currículos LOMLOE en archivos json
 * Currículo Navarra
   * Infantil
   * Primaria
-  * ESO - En progreso...
-  * Bachillerato 
+  * ESO - OK
+  * Bachillerato - OK 
 * Andalucía - NO PUBLICADO POR LA ADMÓN.
 * Canarias - NO PUBLICADO POR LA ADMÓN.
 * Murcia - NO PUBLICADO POR LA ADMÓN.
