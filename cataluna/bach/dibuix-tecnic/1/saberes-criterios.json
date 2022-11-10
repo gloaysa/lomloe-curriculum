@@ -1,0 +1,37 @@
+{
+    "criteriosEvaluacion": [
+        "1.1 Analitzar, al llarg de la història, la relació entre les matemàtiques i el dibuix geomètric valorant-ne la importància en diferents camps com l’arquitectura o l’enginyeria.",
+        "2.2 Solucionar gràficament càlculs matemàtics i transformacions bàsiques aplicant conceptes i propietats de la geometria plana.",
+        "2.2 Traçar gràficament construccions poligonals basant-se en les seves propietats i mostrant interès per la precisió, la claredat i la neteja.",
+        "2.3 Resoldre gràficament tangències i traçar corbes aplicant-ne les propietats amb una actitud de rigor en la seva execució.",
+        "3.1 Representar en sistema dièdric directe els elements bàsics a l’espai i determinar- ne la relació de pertinença, posició i distància.",
+        "3.2 Definir en sistemes axonomètrics elements i figures planes valorant-ne la importància com a mètodes de representació espacial.",
+        "3.3 Dibuixar elements a l’espai fent servir la perspectiva cònica.",
+        "4.1 Documentar gràficament objectes senzills mitjançant les vistes acotades aplicant la normativa UNE ISO en la utilització de sintaxi, escales i formats, valorant la importància d’usar un llenguatge tècnic comú.",
+        "4.2 Crear figures planes i tridimensionals mitjançant programes de dibuix vectorial, fent ús de les eines que aporten i les tècniques associades.",
+        "4.3 Recrear virtualment peces en tres dimensions per a la presentació de projectes en grup."
+    ],
+    "saberes": [
+        "Fonaments geomètrics",
+        "- Comprensió i anàlisi de la presència de la geometria i el desenvolupament del dibuix tècnic aplicat als àmbits de l’arquitectura i l’urbanisme, el disseny industrial, l’electrònica, la geologia, valorant la necessitat de la qualitat gràfica i precisió en els traçats.",
+        "- Identificació i traçat dels llocs geomètrics fonamentals incloent-hi l’arc capaç, aplicant-los amb criteri a les construccions fonamentals.",
+        "- Comparació i traçat de formes poligonals aplicant amb criteri les relacions de proporcionalitat i semblança, així com d’equivalència.",
+        "- Traçat dels polígons, concretament de triangles, quadrilàters i polígons regulars, aplicant amb criteri mètodes de construcció i propietats pròpies.",
+        "- Anàlisi i traçat de tangències bàsiques i corbes tècniques aplicant amb criteri mètodes de construcció propis.",
+        "Geometria projectiva",
+        "- Comprensió i anàlisi dels sistemes de representació atenent els fonaments de la geometria projectiva.",
+        "- Anàlisi i traçat en sistema dièdric directe de punt, recta i pla atenent les condicions de pertinença i les diferents possibilitats de determinació del pla.",
+        "- Anàlisi i traçat de les relacions entre elements, intersecció, paral·lelisme i perpendicularitat, en sistema dièdric directe.",
+        "- Anàlisi dels sistemes axonomètrics ortogonals i oblics atenent el càlcul dels diferents coeficients de reducció.",
+        "- Anàlisi i traçat de sòlids polièdrics fent ús dels sistemes axonomètrics normalitzats.",
+        "- Anàlisi i valoració del sistema de plans acotats aplicat al traçat d’elements fonamentals i la interpretació en representacions topogràfiques.",
+        "- Anàlisi i traçat dels fonaments del sistema cònic frontal i oblic atenent els seus elements fonamentals.",
+        "Documentació gràfica de projectes: normalització i DAO",
+        "- Ús i traçat d’escales numèriques i gràfiques aplicades al desenvolupament de projectes gràfics.",
+        "- Anàlisi del concepte de normalització atenent el desenvolupament de projectes gràfics.",
+        "- Comprensió i anàlisi de la normalització aplicada a l’acotació, línies normalitzades i els seus significats, i al format i plegat de plànols.",
+        "- Experimentació i ús del traçat de croquis a mà alçada en la representació i l’anàlisi de sòlids del disseny industrial.",
+        "- Avaluació i tria de les vistes dièdriques significatives en el desenvolupament de projectes gràfics i de narrativa visual.",
+        "- Experimentació i ús de les eines DAO de dibuix vectorial en 2D i 3D en el desenvolupament de projectes gràfics i de narrativa visual."
+    ]
+}

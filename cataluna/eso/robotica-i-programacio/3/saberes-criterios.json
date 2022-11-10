@@ -1,0 +1,38 @@
+{
+  "saberes": [
+    "A. Estratègies de pensament de disseny i gestió de projectes col·laboratius",
+    "- Disseny de solucions a problemes plantejats d’acord amb el pensament de disseny.",
+    "- Aplicació d’estratègies bàsiques de gestió de projectes: definició d’objectius, planificació, execució del projecte i avaluació.",
+    "B. Pensament computacional, llenguatges i estructures de programació",
+    "- Aplicació de tècniques de pensament computacional en la resolució de problemes i el disseny de solucions.",
+    "- Anàlisi i descomposició de problemes complexos en reptes senzills. Estratègies de resolució eficient.",
+    "- Representació de solucions fent servir diagrames de flux, tenint en compte la normativa específica.",
+    "- Ús de llenguatges de programació amb aplicació de diferents estructures lògiques: seqüències, condicionals i repeticions.",
+    "- Desenvolupament de funcions específiques.",
+    "C. Disseny i construcció de robots",
+    "- Anàlisi d’elements mecànics i identificació del seu funcionament.",
+    "- Configuració i programació dels diferents elements de control: sensors, actuadors i dispositius de comandament.",
+    "- Disseny i construcció d’elements i/o estructures senzilles, tant de forma real com mitjançant simuladors gràfics, programes de disseny 3D i 2D.",
+    "- Muntatge físic d’estructures i mecanismes, fent ús adient de les eines i aplicant les mesures de seguretat.",
+    "- Aplicació de tècniques de creació manual i fabricació digital.",
+    "- Valoració crítica dels avenços tecnològics, la seva influència en el medi ambient, la salut i el benestar individual i col·lectiu i en la societat en general."
+  ],
+  "criteriosEvaluacion": [
+    "1.1 Identificar i analitzar problemes o reptes concrets, descomponent-los en parts més senzilles que permetin la seva solució.",
+    "1.2 Definir i avaluar de forma col·laborativa les possibles solucions als problemes i reptes analitzats, valorant-ne la viabilitat i la seva sostenibilitat.",
+    "1.3 Argumentar i compartir idees en grup per donar solució a un problema comú, amb actitud respectuosa.",
+    "1.4 Plantejar dissenys, tenint en compte les funcionalitats a desenvolupar, amb actitud emprenedora i creativa, integrant els elements mecànics i electrònics adients.",
+    "1.5 Utilitzar diferents eines i suports per al disseny del prototip i per a la seva valoració prèvia.",
+    "2.1 Analitzar processos fent servir estratègies de pensament lògic.",
+    "2.2 Descriure i representar seqüències lògiques que ajudin a comprendre processos o algoritmes fent servir diagrames de flux.",
+    "2.3 Desenvolupar programes que impliquin la seqüenciació de passos, la iteració, i el testatge, la validació i la depuració de seqüències.",
+    "2.4 Comparar els programes propis amb altres algoritmes que donin solució a un mateix problema, incorporant els canvis necessaris o combinant diferents programes per elaborar noves solucions.",
+    "3.1 Desenvolupar programes, o reelaborar-ne a partir de programes existents, fent servir el programari i els llenguatges de programació de manera apropiada.",
+    "3.2 Utilitzar les estructures lògiques de forma apropiada, tenint en compte criteris d’optimització de programes.",
+    "3.3 Identificar, corregir i depurar errors de programació en programes informàtics, fent ús de depuradors.",
+    "3.4 Configurar i programar sensors i actuadors, ajustant-los a les necessitats del prototip i fent ús correcte de les seves funcionalitats.",
+    "4.1 Dissenyar, fent servir les eines digitals i programari adient, els elements necessaris per a la construcció física dels prototips ideats, l’assemblatge de sensors, actuadors i els sistemes mecànics.",
+    "4.2 Produir o fabricar els elements necessaris per a la implementació d’estructures i mecanismes, utilitzant de manera segura les eines, dispositius, tècniques i materials adequats.",
+    "4.3 Realitzar el muntatge físic d’estructures i mecanismes, i avaluar el disseny i la construcció."
+  ]
+}

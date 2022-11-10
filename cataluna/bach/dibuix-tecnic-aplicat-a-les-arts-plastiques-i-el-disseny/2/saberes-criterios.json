@@ -1,0 +1,27 @@
+{
+    "criteriosEvaluacion": [
+        "1.1 Distingir tipologies i estructures geomètriques presents a l’art, al disseny, a l’entorn físic i a la natura, visualitzant-les i analitzant-les gràficament, valorant la seva funció i la seva idoneïtat per elaborar propostes.",
+        "2.1 Dissenyar elements bidimensionals i/o tridimensionals, fent ús dels procediments propis del disseny modular atenent les alteracions que les transformacions geomètriques possibiliten, mostrant interès per la precisió i la qualitat gràfica.",
+        "2.2 Dissenyar elements bidimensionals i/o tridimensionals, fent ús dels enllaços per generar línies compostes aplicables a la resolució de formes, com per exemple la geometrització de traços a mà alçada i la concreció de les generatrius en sòlids de revolució com els envasos, entre d’altres, mostrant interès per la precisió i la qualitat gràfica.",
+        "2.3 Traçar formes volumètriques amb corbes, aplicant els procediments propis de les axonometries normalitzades, mostrant interès per la precisió i la qualitat gràfica.",
+        "2.4 Modelar formes implicades en propostes creatives representades en perspectiva cònica, aplicant els procediments més apropiats per representar llums i ombres.",
+        "3.1 Crear propostes de l’àmbit del disseny de productes i d’interiors, l’escultura, la instal·lació, la curadoria, etc., elaborant projectes gràfics compartits, fent ús dels sistemes de representació i les convencions pròpies de la normalització necessàries per poder comunicar-se de manera eficient, mostrant interès per la precisió i la qualitat gràfica."
+    ],
+    "saberes": [
+        "Geometria, art i entorn",
+        "- Anàlisi i experimentació gràfiques i volumètriques mitjançant l’ús d’estructures modulars en els camps del disseny, l’art i l’arquitectura, entre d’altres.",
+        "- Anàlisi i experimentació dels mètodes geomètrics implícits en la creació d’il·lusions òptiques i d’espais il·lusoris i onírics.",
+        "- Diferenciació, anàlisi i ús de les corbes còniques i la seva presència en l’art, la natura, l’entorn i el disseny.",
+        "- Anàlisi i diferenciació dels diferents sistemes de representació de l’espai aplicats a la creació contemporània en disseny i art.",
+        "- Experimentació i ús de les transformacions geomètriques aplicades a les composicions fonamentades en estructures modulars, incloent-hi eines digitals.",
+        "- Experimentació i ús de les tangències i els enllaços al disseny i a la creació de formes, incloent-hi eines digitals.",
+        "Sistemes de representació de l’espai",
+        "- Experimentació i ús dels sistemes axonomètrics normalitzats en la representació de sòlids polièdrics amb corbes, en l’àmbit de l’arquitectura, el disseny i l’escultura, entre d’altres.",
+        "- Anàlisi i experimentació d’estructures polièdriques i cossos platònics atenent l’entorn immediat i a la seva aplicació en projectes col·lectius i col·laboratius.",
+        "- Anàlisi i traçat de sòlids i formes tridimensionals i sistema cònic frontal i oblic fent ús del programari DAO més adequat per facilitar que l’alumnat experimenti les diverses possibilitats d’aquest sistema de perspectiva sense la limitació del format paper.",
+        "- Experimentació i ús de la representació d’ombres en l’àmbit de les perspectives axonomètriques i còniques aplicades al disseny d’espais i objectes.",
+        "Disseny de projectes i normalització",
+        "- Diferenciació i anàlisi de les fases del projecte gràfic aplicat al disseny i elaboració de croquis i plànols.",
+        "- Experimentació i ús de la representació normalitzada aplicant l’acotació, els talls, les seccions i els trencaments."
+    ]
+}

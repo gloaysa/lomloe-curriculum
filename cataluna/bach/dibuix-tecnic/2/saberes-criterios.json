@@ -1,0 +1,34 @@
+{
+    "criteriosEvaluacion": [
+        "1.1 Analitzar l’evolució de les formes geomètriques a l’arquitectura i a les enginyeries contemporànies valorant la influència de la tecnologia i les eines digitals en camps com l’arquitectura o l’enginyeria.",
+        "2.1 Construir figures planes aplicant els traçats propis de les transformacions geomètriques.",
+        "2.2 Resoldre tangències aplicant els conceptes de potència, valorant la necessitat de la precisió dels traçats.",
+        "2.3 Representar corbes còniques i les seves tangents aplicant propietats i mètodes de construcció, valorant la necessitat de la precisió dels traçats.",
+        "3.1 Valorar els procediments propis de l’operativitat dièdrica (abatiment, canvi de pla i gir) resolent i concretant formes en sistema dièdric directe i avaluant la idoneïtat de cada procediment.",
+        "3.2 Representar sòlids polièdrics i de revolució aplicant els fonaments del sistema dièdric directe.",
+        "3.3 Representar sòlids polièdrics aplicant els procediments de les perspectives axonomètriques.",
+        "3.4 Dissenyar projectes gràfics senzills fent ús del sistema de plans acotats.",
+        "4.1 Desenvolupar projectes col·laboratius elaborant la documentació gràfica (croquis, plànols) necessària fent ús de les convencions pròpies de la normalització.",
+        "4.2 Desenvolupar projectes col·laboratius integrant les eines digitals CAD, valorant les possibilitats que aporten al desenvolupament de projectes compartits."
+    ],
+    "saberes": [
+        "Fonaments geomètrics",
+        "- Comprensió i anàlisi de la presència i l’evolució de la geometria atenent la transformació tecnològica a l’arquitectura i l’enginyeria a partir de la revolució industrial fins als nostres dies.",
+        "- Anàlisi i traçat de les transformacions geomètriques i l’aplicació de l’homologia i l’afinitat a la resolució de problemes als sistemes de representació, com per exemple la secció plana de sòlids.",
+        "- Anàlisi i traçat del concepte de potència d’un punt respecte a una circumferència, eix radical i centre radical aplicant-los amb criteri a la resolució de tangències.",
+        "- Anàlisi i traçat de corbes còniques i les seves tangents atenent les seves propietats, aplicant amb criteri els mètodes de construcció.",
+        "Geometria projectiva",
+        "- Anàlisi i traçat de l’operativitat dièdrica: abatiment, canvi de pla i gir atenent les seves aplicacions, com per exemple a l’obtenció de verdaderes magnituds i la resolució de problemes de distàncies, entre d’altres.",
+        "- Anàlisi i traçat de sòlids polièdrics, concretament de la piràmide i del prisma en sistema dièdric directe.",
+        "- Anàlisi i traçat de cossos de revolució, concretament del con i el cilindre rectes en sistema dièdric directe.",
+        "- Anàlisi i traçat de poliedres regulars, concretament del tetraedre, l’hexaedre i l’octaedre en sistema dièdric directe.",
+        "- Anàlisi i traçat de seccions planes i la seva verdadera magnitud en sistema dièdric aplicades als sòlids anteriors.",
+        "- Anàlisi i traçat de sòlids polièdrics amb corbes fent ús dels sistemes axonomètrics normalitzats.",
+        "- Anàlisi i traçat de cobertes simples i representació de perfils i seccions de terrenys partint de la seva representació amb corbes de nivell en sistema acotat.",
+        "- Anàlisi i traçat de sòlids i formes tridimensionals, sistema cònic frontal i oblic, fent ús del programari DAO més adequat per facilitar que l’alumnat experimenti les diverses possibilitats d’aquest sistema de perspectiva sense la limitació del format paper.",
+        "Documentació gràfica de projectes: normalització i DAO",
+        "- Comprensió i anàlisi de sòlids i volums senzills fent ús del croquis i representant-los desenvolupant projectes gràfics, aplicant amb criteri els talls, les seccions i els trencaments adequats, així com les perspectives normalitzades necessàries.",
+        "- Disseny i proposta de la documentació gràfica necessària en el desenvolupament de projectes en col·laboració i fent ús de les eines DAO.",
+        "- Avaluació crítica de projectes i propostes, incloent-hi les pròpies propostes atenent criteris d’ecologia i sostenibilitat."
+    ]
+}

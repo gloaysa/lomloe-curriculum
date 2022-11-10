@@ -1,0 +1,33 @@
+{
+    "criteriosEvaluacion": [
+        "1.1 Distingir tipologies i estructures geomètriques presents a l’art, al disseny, a l’entorn físic i a la natura, visualitzant-les i analitzant-les gràficament.",
+        "2.1 Trobar els procediments i els recursos propis de la geometria plana, aplicant-los al traçat de formes poligonals simples, tangències i simetries, aplicades al disseny, valorant la necessitat d’adequació dels traçats a la claredat i la precisió pròpies del llenguatge tècnic aplicat.",
+        "2.2 Deduir la geometria implícita en formes i espais de l’entorn, examinant-los amb el traçat de croquis a mà alçada i recollint les dades gràfiques i dimensionals necessàries per la seva construcció.",
+        "2.3 Decidir els sistemes de representació adequats, tenint en compte la finalitat de la representació.",
+        "2.4 Idear i representar formes volumètriques simples, tenint en compte els procediments propis del sistema dièdric directe, mostrant interès per la precisió i la qualitat gràfica.",
+        "2.5 Idear i representar formes volumètriques polièdriques simples, tenint en compte els procediments propis de les perspectives axonomètriques normalitzades, mostrant interès per la precisió i la qualitat gràfica.",
+        "2.6 Idear i desenvolupar propostes creatives en l’àmbit de la il·lustració, el còmic, la pintura mural, l’escultura, la instal·lació i la curadoria, entre d’altres, experimentant i construint la visualització d’espais en projectes compartits, aplicant els procediments propis de la perspectiva cònica i situant de manera coherent els elements necessaris.",
+        "3.1 Visualitzar formes i espais donats o imaginats, recreant-los amb el traçat de croquis a mà alçada indicant les dades gràfiques i dimensionals necessàries per la seva realització, aplicant les convencions pròpies de la normalització necessàries, mostrant interès per la precisió i la qualitat gràfica.",
+        "3.2 Representar formes i espais donats o imaginats, ideant i planificant projectes gràfics compartits fent ús dels sistemes de representació i les convencions pròpies de la normalització necessàries, mostrant interès per la precisió i la qualitat gràfica.",
+        "3.3 Adaptar i combinar les eines digitals vectorials en 2D i el modelat de sòlids i espais en 3D elaborant projectes compartits de l’àmbit del disseny de productes i d’interiors, l’escultura, la instal·lació, la curadoria, la pintura mural i l’escultura, entre d’altres."
+    ],
+    "saberes": [
+        "Geometria, art i entorn",
+        "- Anàlisi de la presència de la geometria a l’art i a la natura.",
+        "- Diferenciació i comparació dels mètodes geomètrics de representació de l’espai a l’art.",
+        "- Identificació i traçat dels llocs geomètrics fonamentals incloent-hi l’arc capaç, aplicant-los amb criteri a les construccions fonamentals pròpies del disseny.",
+        "- Experimentació i creació fent ús de les relacions geomètriques com la igualtat i la simetria, així com amb la proporcionalitat i les escales en projectes a l’entorn de l’art i el disseny.",
+        "- Identificació i aplicació de construccions poligonals al disseny i la creació de formes i volums.",
+        "- Identificació i aplicació de les tangències bàsiques i les corbes tècniques al disseny i la creació de formes i volums.",
+        "Sistemes de representació de l’espai",
+        "- Comprensió i classificació de la projectivitat i anàlisi dels diferents sistemes de representació atenent la seva finalitat i idoneïtat.",
+        "- Experimentació i ús del sistema dièdric europeu en la representació de sòlids polièdrics en l’àmbit de l’arquitectura, el disseny i l’escultura, entre d’altres.",
+        "- Experimentació i ús dels sistemes axonomètrics normalitzats en la representació de sòlids polièdrics en l’àmbit del disseny i l’escultura, entre d’altres.",
+        "- Experimentació i ús de la perspectiva cònica frontal, obliqua i de quadre inclinat en l’àmbit de la representació gràfica vinculada a la narrativa visual (còmic, pintura mural i il·lustració, entre d’altres).",
+        "Disseny de projectes, normalització i eines digitals per al disseny",
+        "- Comprensió i anàlisi de la normalització atenent la seva finalitat en el desenvolupament de projectes gràfics i de representació d’objectes i volums a l’espai.",
+        "- Experimentació i ús del traçat de croquis a mà alçada en la representació i l’anàlisi de formes en l’àmbit de l’arquitectura, el disseny i l’escultura, entre d’altres.",
+        "- Experimentació i ús dels sistemes de representació, la normalització i el croquis en el desenvolupament de projectes gràfics i de narrativa visual.",
+        "- Experimentació i ús de les eines DAO de dibuix vectorial en 2D i 3D en el desenvolupament de projectes gràfics i de narrativa visual."
+    ]
+}

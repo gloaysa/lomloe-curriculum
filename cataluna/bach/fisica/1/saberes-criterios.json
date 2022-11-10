@@ -1,0 +1,34 @@
+{
+    "criteriosEvaluacion": [
+        "1.1 Aplicar les teories, els principis i les lleis de la física en l’anàlisi de fenòmens quotidians, comprenent les causes que els produeixen i explicant-les utilitzant diversitat de suports i mitjans de comunicació.",
+        "1.2 Resoldre problemes plantejats a partir de situacions quotidianes, aplicant les lleis i les teories científiques per trobar i argumentar les solucions i expressant adequadament els resultats.",
+        "1.3 Identificar situacions problemàtiques a l’entorn quotidià, emprendre iniciatives i cercar solucions sostenibles des de la física, analitzant críticament l’impacte produït en la societat i el medi ambient.",
+        "2.1 Formular i verificar hipòtesis com a respostes a diferents problemes i observacions de l’entorn proper, mitjançant l’ús amb destresa del treball experimental, la indagació, la recerca d’evidències i el raonament logicomatemàtic.",
+        "2.2 Utilitzar diferents mètodes per trobar la resposta a una sola qüestió o observació, confrontant els resultats obtinguts per garantir-ne la coherència i la fiabilitat.",
+        "2.3 Integrar els models, les teories i les lleis de la física en el procés de validació de les hipòtesis formulades, aplicant relacions qualitatives i quantitatives entre les diferents variables, de manera que el procés sigui més fiable i coherent amb el coneixement científic.",
+        "3.1 Utilitzar i relacionar de manera rigorosa el Sistema Internacional d’Unitats (SI) i altres sistemes d’unitats, emprant correctament la seva notació i les seves equivalències, reconeixent el seu paper com a eina de comunicació efectiva entre la comunitat científica.",
+        "3.2 Extreure, interpretar i expressar informació provinent de diferents formats relativa a un procés concret, relacionant entre si la informació i extraient-ne el més rellevant durant la resolució d’un problema.",
+        "3.3 Posar en pràctica els coneixements adquirits en l’experimentació científica al laboratori o altres entorns, incloent-hi l’ús correcte dels aparells de mesura i de recollida de dades i la normativa bàsica d’ús, així com les normes de seguretat pròpies d’aquests espais.",
+        "4.1 Interactuar amb altres membres de la comunitat educativa mitjançant diferents entorns d’aprenentatge, reals i virtuals, utilitzant de manera autònoma i eficient recursos variats, tradicionals analògics i digitals, de manera rigorosa i respectuosa i analitzant críticament totes les aportacions",
+        "4.2 Gestionar de manera autònoma i versàtil, individualment i en grup, la informació i la creació de continguts, amb fonament científic, utilitzant amb criteri i rigor les fonts i eines més adequades, millorant així l’aprenentatge propi i col·lectiu.",
+        "5.1 Participar de manera activa en la construcció del coneixement científic, evidenciant la presència de la interacció, la cooperació i l’avaluació entre iguals, millorant la capacitat de qüestionament, la reflexió i el debat per assolir el consens en la resolució d’un problema o situació d’aprenentatge.",
+        "5.2 Construir i produir coneixements a través del treball col·lectiu, mitjançant l’anàlisi, la discussió i la síntesi i obtenint com a resultat productes representats en informes, pòsters, presentacions, articles científics o de divulgació, etc.",
+        "5.3 Debatre, de manera informada i argumentada, sobre les diferents qüestions mediambientals, socials i ètiques relacionades amb el desenvolupament de les ciències, aconseguint un consens en l’impacte d’aquests avenços en la societat i proposant solucions creatives en comú a les qüestions plantejades.",
+        "6.1 Identificar i argumentar científicament les repercussions de les accions que l’alumne o alumna emprèn en la seva vida quotidiana, analitzant com la física pot ajudar a millorar-les com a manera de participar activament en la construcció d’una societat igualitària, saludable i sostenible.",
+        "6.2 Detectar les necessitats de la societat sobre les quals aplicar els coneixements científics adequats que ajudin a millorar-la, incidint especialment en aspectes com el desenvolupament sostenible i la preservació de la salut."
+    ],
+    "saberes": [
+        "Cinemàtica",
+        "- Anàlisi, càlcul i representació gràfica de l’evolució temporal de les variables cinemàtiques en funció del temps en els diferents moviments que pot tenir un objecte, amb forces externes o sense: resolució de situacions reals relacionades amb la física i l’entorn quotidià.",
+        "- Variables que influeixen en un moviment rectilini i circular: magnituds i unitats emprades. Anàlisi qualitativa i quantitativa de moviments quotidians que presenten aquests tipus de trajectòria.",
+        "- Descripció i argumentació de la relació de la trajectòria d’un moviment compost amb les magnituds que el descriuen.",
+        "Estàtica i dinàmica",
+        "- Predicció, a partir de la composició vectorial, del comportament estàtic o dinàmic d’una partícula o un sòlid rígid.",
+        "- Descripció i argumentació de la relació entre la mecànica vectorial aplicada sobre una partícula o un sòlid rígid amb el seu estat de repòs o moviment: aplicacions estàtiques o dinàmiques de la física en altres camps, com l’enginyeria o l’esport.",
+        "- Interpretació de les lleis de la dinàmica en termes de magnituds com ara el moment lineal i l’impuls mecànic: aplicacions al món real i en situacions contextualitzades (esports, mobilitat, etc.).",
+        "Energia",
+        "- Conceptes de treball i potència: elaboració d’hipòtesis sobre el consum energètic de sistemes mecànics o elèctrics de l’entorn quotidià i el seu rendiment.",
+        "- Càlcul de l’energia potencial i l’energia cinètica d’un sistema senzill: aplicació a la conservació de l’energia mecànica en sistemes conservatius i no conservatius i a l’estudi de  les causes que produeixen el moviment dels objectes al món real.",
+        "- Anàlisi de les variables termodinàmiques d’un sistema en funció de les condicions: determinació de les variacions de temperatura que experimenta i les transferències d’energia que es produeixen amb el seu entorn."
+    ]
+}

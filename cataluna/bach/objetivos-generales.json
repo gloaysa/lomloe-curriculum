@@ -1,19 +1,19 @@
 {
- "objetivosGenerales": [
-        "a) Ejercer la ciudadanía democrática, desde una perspectiva global, y adquirir una conciencia cívica responsable, inspirada por los valores de la Constitución Española, así como por los derechos humanos, que fomente la corresponsabilidad en la construcción de una sociedad justa y equitativa.",
-        "b) Consolidar una madurez personal, afectivo-sexual y social que les permita actuar de forma respetuosa, responsable y autónoma y desarrollar su espíritu crítico. Prever, detectar y resolver pacíficamente los conflictos personales, familiares y sociales, así como las posibles situaciones de violencia.",
-        "c) Fomentar la igualdad efectiva de derechos y oportunidades de mujeres y hombres, analizar y valorar críticamente las desigualdades existentes, así como el reconocimiento y enseñanza del papel de las mujeres en la historia e impulsar la igualdad real y la no discriminación por razón de nacimiento, sexo, origen racial o étnico, discapacidad, edad, enfermedad, religión o creencias, orientación sexual o identidad de género o cualquier otra condición o circunstancia personal o social.",
-        "d) Afianzar los hábitos de lectura, estudio y disciplina, como condiciones necesarias para el eficaz aprovechamiento del aprendizaje, y como medio de desarrollo personal.",
-        "e) Dominar, tanto en su expresión oral como escrita, la lengua castellana y, en su caso, la lengua cooficial de su comunidad autónoma.",
-        "f) Expresarse con fluidez y corrección en una o más lenguas extranjeras.",
-        "g) Utilizar con solvencia y responsabilidad las tecnologías de la información y la comunicación.",
-        "h) Conocer y valorar críticamente las realidades del mundo contemporáneo, sus antecedentes históricos y los principales factores de su evolución. Participar de forma solidaria en el desarrollo y mejora de su entorno social.",
-        "i) Acceder a los conocimientos científicos y tecnológicos fundamentales y dominar las habilidades básicas propias de la modalidad elegida.",
-        "j) Comprender los elementos y procedimientos fundamentales de la investigación y de los métodos científicos. Conocer y valorar de forma crítica la contribución de la ciencia y la tecnología en el cambio de las condiciones de vida, así como afianzar la sensibilidad y el respeto hacia el medio ambiente.",
-        "k) Afianzar el espíritu emprendedor con actitudes de creatividad, flexibilidad, iniciativa, trabajo en equipo, confianza en uno mismo y sentido crítico.",
-        "l) Desarrollar la sensibilidad artística y literaria, así como el criterio estético, como fuentes de formación y enriquecimiento cultural.",
-        "m) Utilizar la educación física y el deporte para favorecer el desarrollo personal y social. Afianzar los hábitos de actividades físico-deportivas para favorecer el bienestar físico y mental, así como medio de desarrollo personal y social.",
-        "n) Afianzar actitudes de respeto y prevención en el ámbito de la movilidad segura y saludable.",
-        "o) Fomentar una actitud responsable y comprometida en la lucha contra el cambio climático y en la defensa del desarrollo sostenible."
-    ] 
+    "objetivosGenerales": [
+        "a) Exercir la ciutadania democràtica, des d'una perspectiva global, i adquirir una consciència cívica responsable, inspirada en la Declaració Universal dels Drets Humans i en els valors de l'ordenament jurídic d'àmbit autonòmic i estatal, que fomenti la corresponsabilitat en la construcció d'una societat justa i equitativa, i afavoreixi la sostenibilitat.",
+        "b) Consolidar una maduresa personal, afectivosexual i social que els permeti actuar de manera respectuosa, responsable i autònoma i desenvolupar l'esperit crític. Preveure, detectar i resoldre pacíficament els conflictes personals, familiars i socials, així com les possibles situacions de violència.",
+        "c) Fomentar la igualtat efectiva de drets i oportunitats de dones i homes, analitzar i valorar críticament les desigualtats existents, així com el reconeixement i l'ensenyament del paper de les dones en la història, i impulsar la igualtat real i la no-discriminació per raó de naixement, sexe, origen racial o ètnic, discapacitat, edat, malaltia, religió o creences, orientació sexual o identitat de gènere o qualsevol altra condició o circumstància personal o social.",
+        "d) Refermar els hàbits de lectura, estudi i disciplina i rigor en el treball, com a condicions necessàries per a l'aprofitament eficaç de l'aprenentatge, i com a mitjà de desenvolupament personal.",
+        "e) Dominar, tant en l'expressió oral com escrita, la llengua catalana i la llengua castellana.",
+        "f) Comprendre amb eficàcia una o més llengües estrangeres i expressar-s'hi amb fluïdesa i correcció.",
+        "g) Usar amb solvència i responsabilitat les tecnologies digitals de l'aprenentatge.",
+        "h) Conèixer i valorar críticament les realitats del món contemporani, els seus antecedents històrics i els principals factors de la seva evolució. Participar de manera solidària en el desenvolupament i la millora del seu entorn social i reconèixer l'aportació dels homes i de les dones que han contribuït a crear-lo.",
+        "i) Accedir als coneixements científics i tecnològics fonamentals i dominar les habilitats bàsiques pròpies de la modalitat triada.",
+        "j) Comprendre els elements i procediments fonamentals de la investigació i dels mètodes científics. Conèixer i valorar de manera crítica la contribució de la ciència i la tecnologia en el canvi de les condicions de vida, així com refermar la sensibilitat i el respecte cap al medi ambient.",
+        "k) Refermar l'esperit emprenedor, tant individual com col·lectiu, amb actituds de creativitat, flexibilitat, iniciativa, treball en equip, confiança en si mateix i sentit crític.",
+        "l) Desenvolupar la sensibilitat artística i literària, així com el criteri estètic, com a fonts de formació, enriquiment cultural i creixement personal.",
+        "m) Utilitzar l'educació física i l'esport per afavorir el desenvolupament personal i social i refermar els hàbits d'activitats fisicoesportives per millorar el benestar físic i mental, així com a mitjà de desenvolupament personal i social.",
+        "n) Promoure i consolidar actituds de respecte i prevenció en l'àmbit de la seguretat viària.",
+        "o) Fomentar una actitud crítica, responsable i compromesa en la lluita contra el canvi climàtic i en la defensa del desenvolupament sostenible, i en particular amb relació a les problemàtiques subjacents als objectius de desenvolupament sostenible (ODS)."
+    ]
 }
