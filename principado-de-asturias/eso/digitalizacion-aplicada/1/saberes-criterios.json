@@ -1,0 +1,29 @@
+{
+  "saberes": [
+    "Bloque A. Configuración del Entorno Digital de Aprendizaje",
+    "- Dispositivos digitales: componentes, características y resolución de problemas de manera guiada.",
+    "- Utilidades básicas de los sistemas operativos: propiedades del sistema, almacenamiento, seguridad, actualizaciones, instalación y eliminación de software.",
+    "- Transmisión de datos: conexiones alámbricas e inalámbricas.",
+    "- Acceso y configuración de cuentas con especial atención a las institucionales. Datos personales, términos y condiciones de uso.",
+    "Bloque B. Uso del Entorno Digital de Aprendizaje",
+    "- Búsqueda y selección de información de diferentes recursos y fuentes confiables. Palabras clave, operadores y búsqueda avanzada.",
+    "- Edición y creación de contenidos digitales haciendo uso de los recursos que ofrecen los distintos centros educativos del Principado de Asturias.",
+    "- Comunicación y colaboración en red.",
+    "Bloque C. Pensamiento computacional",
+    "- Resolución y análisis de problemas: descomposición, secuenciación, formulación y verificación de algoritmos.",
+    "- Conceptos básicos de programación: sentencia, expresión condicional, bucles, variables y constantes.",
+    "- Implementación de un algoritmo. Prueba, errores y mejoras."
+  ],
+  "criteriosEvaluacion": [
+    "1.1. Identificar los dispositivos digitales del entorno, describiendo los componentes principales, su funcionalidad y opciones de configuración.",
+    "1.2. Gestionar las cuentas de usuario, configurando opciones de accesibilidad y mecanismos de seguridad.",
+    "1.3. Usar las utilidades del sistema operativo y los ajustes de las herramientas del entorno de aprendizaje para mejorar el uso de las distintas tecnologías.",
+    "1.4. Conectar dispositivos a redes cableadas o inalámbricas para la transmisión de datos.",
+    "2.1. Adaptar la formulación de una consulta y usar las distintas opciones de las herramientas de búsqueda de información para recuperar resultados pertinentes y de interés, identificando aquellos datos que provienen de una fuente fiable y segura.",
+    "2.2. Crear, integrar y reelaborar contenidos digitales de forma individual o colectiva, seleccionando las herramientas más apropiadas para generar nuevo conocimiento y contenidos digitales de manera creativa, teniendo en cuenta aspectos relacionados con la propiedad intelectual.",
+    "2.3. Interactuar con compañeros, compartiendo y comentando creaciones digitales a través del uso de herramientas y opciones colaborativas.",
+    "3.1. Descomponer un problema en módulos, reconociendo las fases de resolución de un problema y expresando de manera formal los pasos del algoritmo de solución.",
+    "3.2. Implementar una solución a través de un lenguaje de programación, usando para ello las estructuras y los elementos básicos de la codificación.",
+    "3.3. Probar y validar la solución implementada, buscando errores y mejoras."
+  ]
+}
