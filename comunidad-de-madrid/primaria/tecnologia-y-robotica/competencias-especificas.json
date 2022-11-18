@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "competenciasEspecificas": [
         "1. Utilizar el pensamiento computacional para la resolución de problemas, generando un producto creativo y original que responda a cada uno de los retos planteados o generados a través de la observación del entorno. CCL1, CP1, STEM1, STEM2, STEM3, STEM4, STEM5, CD1, CD2, CD3, CD4, CD5, CPSAA3, CPSAA4, CPSAA5, CC3, CE1, CE3.",
@@ -8,15 +7,4 @@
         "5. Manejar los dispositivos y herramientas de forma segura y responsable para trabajar de forma individual o conjunta de acuerdo a las necesidades del contexto educativo. CCL1, CCL2, CCL3, STEM4, CPSAA2, CPSAA5, CD1, CD2, CD3, CD4, CD5, CE3.",
         "6. Conocer y utilizar los distintos sistemas y aplicaciones de realidad virtual o aumentada para explorar el entorno y disfrutar de un aprendizaje interactivo y enriquecedor. CCL2, STEM1, STEM2, STEM3, STEM4, STEM5, CD1, CD2, CD3, CD4, CD5, CPSAA3, CPSAA4, CPSAA5, CC3, CE1, CE3."
     ]
-=======
-{
-    "competenciasEspecificas": [
-        "1. Utilizar el pensamiento computacional para la resolución de problemas, generando un producto creativo y original que responda a cada uno de los retos planteados o generados a través de la observación del entorno. CCL1, CP1, STEM1, STEM2, STEM3, STEM4, STEM5, CD1, CD2, CD3, CD4, CD5, CPSAA3, CPSAA4, CPSAA5, CC3, CE1, CE3.",
-        "2. Resolver problemas planteados aplicando los conocimientos de mecánica, electricidad, diseño y programación, desarrollando soluciones automatizadas, diseñando o construyendo sistemas de control programables y/o robóticos adecuados a su nivel. CCL1, STEM1, STEM2, STEM3, STEM4, STEM5, CD1, CD2, CD3, CD4, CD5, CPSAA2, CPSAA4, CPSAA5, CE1, CE3.",
-        "3. Observar, comprender e interpretar las distintas situaciones del entorno para identificar problemas y buscar soluciones, actuando de manera individual y en grupo en su resolución, poniendo en práctica la interconexión digital de dispositivos con internet. STEM1, STEM2, STEM3, STEM4, STEM5, CD1, CD2, CD3, CD4, CD5, CPSAA4, CPSAA5, CC3, CE1, CE3.",
-        "4. Conocer y valorar las posibilidades que tiene la inteligencia artificial para actuar con las máquinas o sistemas de manera que faciliten el trabajo y lo mejoren gradualmente. CP1, STEM1, STEM2, STEM3, STEM4, STEM5, CD1, CD2, CD3, CD4, CD5, CPSAA4, CPSAA5, CC3, CE1, CE3.",
-        "5. Manejar los dispositivos y herramientas de forma segura y responsable para trabajar de forma individual o conjunta de acuerdo a las necesidades del contexto educativo. CCL1, CCL2, CCL3, STEM4, CPSAA2, CPSAA5, CD1, CD2, CD3, CD4, CD5, CE3.",
-        "6. Conocer y utilizar los distintos sistemas y aplicaciones de realidad virtual o aumentada para explorar el entorno y disfrutar de un aprendizaje interactivo y enriquecedor. CCL2, STEM1, STEM2, STEM3, STEM4, STEM5, CD1, CD2, CD3, CD4, CD5, CPSAA3, CPSAA4, CPSAA5, CC3, CE1, CE3."
-    ]
->>>>>>> 1d4def5484ef39bc3f5962700b420d8e4d25a7a1
 }
