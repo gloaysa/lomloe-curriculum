@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "saberes": [
         "A. Cultura científica ",
@@ -58,4 +59,66 @@
         "6.1. Promover estilos de vida adecuados y consecuentes con el respeto, los cuidados, y la protección de las personas y del planeta, a partir del análisis de la intervención humana en el entorno.",
         "6.2. Participar en la búsqueda, contraste y evaluación de propuestas para afrontar problemas, buscar soluciones y actuar para su resolución. Conocer algunos hitos tecnológicos y digitales, y sus consecuencias, a lo largo de las etapas de la historia de la humanidad."
     ]
+=======
+{
+    "saberes": [
+        "A. Cultura científica ",
+        "    Iniciación en la actividad científica - Fases de la investigación científica (observación sistemática, formulación de preguntas, hipótesis y predicciones, planificación y realización de experimentos y modelos, control de variables y muestras, recogida y análisis de información y datos, comunicación y presentación de resultados...).",
+        "        - Instrumentos y dispositivos apropiados para realizar observaciones y mediciones precisas, usados en condiciones de seguridad, de acuerdo con las necesidades de la investigación.",
+        "        - Vocabulario científico, técnico y aplicado básico, adecuado a su edad, relacionado con las diferentes investigaciones.",
+        "        - Fomento de la curiosidad, la iniciativa, la constancia y el sentido de la responsabilidad en la realización de las diferentes investigaciones.",
+        "        - El ensayo y error en el método científico.",
+        "        - La ciencia, la tecnología y la ingeniería. Profesiones actuales relacionadas.",
+        "        - La relación entre los avances en matemáticas, ciencia, ingeniería y tecnología para comprender la evolución de la sociedad en el ámbito científico-tecnológico.",
+        "    La vida en nuestro planeta ",
+        "        - El ser humano y sus necesidades vitales: obtención de energía (procesos metabólicos), interacción con el entorno y reproducción.",
+        "            • Identificación y localización de los órganos, aparatos y sistemas implicados en la función de nutrición: respiratorio, digestivo, circulatorio y excretor.",
+        "            • Identificación y localización de los órganos implicados en la función de relación: órganos de los sentidos, sistema nervioso (nervios, neuronas y cerebro) y aparato locomotor (esqueleto y musculatura).",
+        "            • Identificación y localización de los órganos implicados en la función de reproducción: aparatos reproductores masculino y femenino. Fecundación, desarrollo embrionario y parto.",
+        "        - Los cambios que conllevan la pubertad y la adolescencia para aceptarlos de forma positiva tanto en uno mismo como en los demás. Educación afectiva.",
+        "        - Pautas para una alimentación saludable: menús saludables y equilibrados, la importancia de la cesta de la compra y del etiquetado de los productos alimenticios para conocer sus nutrientes y su aporte energético.",
+        "        - Otros aspectos que favorecen la salud: hábitos y rutinas de sueño, prevención y consecuencias del consumo de drogas, aprovechamiento del tiempo libre o de ocio, uso responsable de dispositivos electrónicos, relaciones sociales adecuadas y fomento de los cuidados a personas, con especial hincapié en las personas mayores.",
+        "        - Pautas para la prevención de riesgos y accidentes. Conocimiento de actuaciones básicas de primeros auxilios.",
+        "        - Clasificación básica de rocas y minerales. Usos y explotación de los recursos geológicos.",
+        "        - Procesos geológicos básicos de formación y modelado del relieve.",
+        "    Materia, fuerzas y energía - Propiedades de la materia: generales (masa, volumen…) y específicas (color, dureza, densidad…).",
+        "        - Masa y volumen. Instrumentos para calcular la masa y la capacidad de un objeto. Concepto de densidad y su relación con la flotabilidad de un objeto en un líquido.",
+        "        - La energía eléctrica. Fuentes, transformaciones, transferencia y uso en la vida cotidiana. Los circuitos eléctricos y las estructuras robotizadas.",
+        "        - Las formas de energía, las fuentes y las transformaciones. Las fuentes de energías renovables y no renovables y su influencia en la contribución al desarrollo de la sociedad.",
+        "        - Artefactos voladores. Principios básicos del vuelo.",
+        "        - Artefactos marinos. Principios básicos de flotabilidad e inmersión.",
+        "        - Artefactos terrestres. Principios básicos del movimiento a través del rozamiento y de la rodadura.",
+        "B. Tecnología y digitalización ",
+        "    Uso de los recursos digitales con responsabilidad - Dispositivos y recursos digitales. Estrategias de búsquedas de información seguras y eficientes en internet (valoración, discriminación, selección, organización y propiedad intelectual).",
+        "        - Estrategias de recogida, almacenamiento y representación de datos para facilitar su comprensión y análisis.",
+        "        - Reglas básicas de seguridad, privacidad y buen uso de la tecnología para navegar por internet y para proteger el entorno digital personal de aprendizaje.",
+        "        - Recursos y plataformas digitales restringidas y seguras para comunicarse con otras personas. Etiqueta digital, reglas básicas de cortesía y respeto y estrategias para resolver problemas en la comunicación digital.",
+        "        - Estrategias para fomentar un buen uso. Reconocimiento de los riesgos asociados a un uso inadecuado y poco seguro de las tecnologías digitales (tiempo excesivo de uso, ciberacoso, dependencia tecnológica, acceso a contenidos inadecuados, etc.), y estrategias de actuación.",
+        "    Proyectos de diseño y pensamiento computacional - Fases de los proyectos de diseño: identificación de necesidades, diseño, prototipado, prueba, evaluación y comunicación.",
+        "        - Fases del pensamiento computacional (descomposición de una tarea en partes más sencillas, reconocimiento de patrones y creación de algoritmos sencillos para la resolución del problema...).",
+        "        - Materiales, herramientas, objetos, dispositivos y recursos digitales (programación por bloques, sensores, motores, simuladores, impresoras 3D) seguros y adecuados a la consecución del proyecto.",
+        "        - Estrategias de aprendizaje: ensayo-error.",
+        "    Evolución de la tecnología y la digitalización en las diversas etapas de la historia de la humanidad ",
+        "        - Cronología de los principales hitos de la revolución digital: el chip, el circuito electrónico, los programas informáticos, los ordenadores personales, internet, el correo electrónico, los teléfonos inteligentes, los robots y la cibernética."
+    ],
+    "criteriosEvaluacion": [
+        "1.1. Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma responsable, segura, eficiente y autónoma, buscando información, comunicándose y trabajando de forma individual, en equipo y en red, reelaborando y creando contenidos digitales sencillos.",
+        "2.1. Formular preguntas y realizar predicciones razonadas sobre el medio mostrando y manteniendo la curiosidad, aplicando una metodología hipotético-inductiva.",
+        "2.2. Buscar, seleccionar y contrastar información, de diferentes fuentes seguras y fiables, usando los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, y utilizándola en investigaciones relacionadas con el medio.",
+        "2.3. Diseñar y realizar experimentos guiados, cuando la investigación lo requiera, utilizando diferentes técnicas de indagación y modelos, empleando de forma segura los instrumentos y dispositivos apropiados, realizando observaciones objetivas y estructuradas y mediciones precisas y registrándolas correctamente.",
+        "2.4. Proponer posibles respuestas a las preguntas planteadas, a través del análisis y la interpretación de la información y los resultados obtenidos, valorando la coherencia de las posibles soluciones y comparándolas con las predicciones realizadas.",
+        "2.5. Comunicar los resultados de las investigaciones adaptando el mensaje y el formato a la audiencia a la que va dirigido, utilizando lenguaje científico o aplicado y explicando los pasos seguidos de forma pormenorizada y aportando argumentos para defender las propuestas que considere veraces.",
+        "3.1. Plantear problemas de necesidad, uso y diseño que se resuelvan con la creación de un prototipo o solución digital, evaluando necesidades del entorno y estableciendo objetivos concretos.",
+        "3.2. Diseñar posibles soluciones a los problemas planteados de acuerdo con técnicas sencillas de los proyectos de diseño y pensamiento computacional, mediante estrategias básicas de gestión de proyectos conjuntos, teniendo en cuenta los recursos necesarios y estableciendo criterios concretos para evaluar el proyecto, verificando si la solución cumple los criterios objetivos de validez y calidad establecidos.",
+        "3.3. Desarrollar un producto final que dé solución a un problema de diseño, probando en equipo diferentes prototipos o soluciones digitales y utilizando de forma segura las herramientas, dispositivos, técnicas y materiales adecuados.",
+        "3.4. Comunicar el diseño de un producto final, adaptando el mensaje y el formato a la audiencia, explicando los pasos seguidos, justificando por qué ese prototipo o solución digital cumple con los requisitos del proyecto y proponiendo posibles retos para futuros proyectos.",
+        "4.1. Promover actitudes que fomenten la seguridad emocional, gestionando las emociones propias y respetando las de los demás, reflexionando ante los usos de la tecnología y la gestión del tiempo libre.",
+        "4.2. Adoptar estilos de vida saludables valorando la importancia de una alimentación variada y equilibrada, el ejercicio físico, el contacto con la naturaleza, el descanso, el ocio, la higiene, la prevención de enfermedades y el uso adecuado de nuevas tecnologías.",
+        "5.1. Identificar y analizar las características, la organización y las propiedades de los elementos del medio natural, a través de la indagación, utilizando las herramientas y procesos adecuados.",
+        "5.2. Establecer conexiones sencillas mediante hipótesis e inducción entre diferentes elementos del medio natural mostrando comprensión de las relaciones que se establecen e iniciando razonamiento hipotético-deductivo.",
+        "5.3. Valorar, proteger y mostrar actitudes de conservación y mejora del patrimonio natural y cultural.",
+        "6.1. Promover estilos de vida adecuados y consecuentes con el respeto, los cuidados, y la protección de las personas y del planeta, a partir del análisis de la intervención humana en el entorno.",
+        "6.2. Participar en la búsqueda, contraste y evaluación de propuestas para afrontar problemas, buscar soluciones y actuar para su resolución. Conocer algunos hitos tecnológicos y digitales, y sus consecuencias, a lo largo de las etapas de la historia de la humanidad."
+    ]
+>>>>>>> 1d4def5484ef39bc3f5962700b420d8e4d25a7a1
 }

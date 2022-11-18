@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "saberes": [
         "A. Sociedades y territorios ",
@@ -39,4 +40,47 @@
         "5.2. Identificar instituciones cercanas, señalando y valorando las funciones que realizan en pro de una buena convivencia.",
         "5.3. Conocer e interiorizar normas básicas para la convivencia en el uso de los espacios públicos, especialmente como peatones o como usuarios de los medios de locomoción, tomando conciencia de la importancia de la movilidad segura y saludable tanto para las personas como para el planeta."
     ]
+=======
+{
+    "saberes": [
+        "A. Sociedades y territorios ",
+        "    Retos del mundo actual ",
+        "        - La Tierra en el universo. Elementos, movimientos y dinámicas relacionados con la Tierra y el universo y sus consecuencias en la vida diaria y en el entorno. Secuencias temporales y cambios estacionales.",
+        "        - La vida en la Tierra. Fenómenos atmosféricos y su repercusión en los ciclos biológicos y en la vida diaria. Observación y registro de datos atmosféricos.",
+        "        - Existencia y distribución del agua en la Tierra: océanos, mares, ríos y lagos.",
+        "        - Identificación de las principales unidades del relieve: isla, archipiélago, península, montaña, cordillera, llanura, meseta, valle, río…",
+        "        - La Comunidad de Madrid: situación, relieve, ríos…",
+        "        - Retos sobre situaciones cotidianas. Funciones básicas del pensamiento espacial y temporal para la interacción con el medio y la resolución de situaciones de la vida cotidiana. Itinerarios y trayectos, puntos cardinales, desplazamientos y viajes.",
+        "    Sociedades en el tiempo ",
+        "        - La percepción del tiempo. Medida del tiempo en la vida cotidiana: año, mes, semana, día y hora. El ciclo vital y las relaciones intergeneracionales.",
+        "        - Uso de objetos y artefactos de la vida cotidiana como fuentes para reflexionar sobre el cambio y la continuidad, las causas y consecuencias.",
+        "        - Recursos y medios analógicos y digitales. Las fuentes orales. La historia local y la biografía familiar; mujeres y hombres como sujetos de la historia.",
+        "        - Las expresiones y producciones artísticas a través del tiempo. El patrimonio material e inmaterial local. Principales monumentos de la Comunidad de Madrid.",
+        "        - Acercamiento a los hitos históricos, costumbres y tradiciones de la Comunidad de Madrid.",
+        "    Alfabetización cívica ",
+        "        - La vida en sociedad. La familia. Compromisos, participación y normas en el entorno familiar, vecinal y escolar. Prevención, gestión y resolución dialogada de conflictos.",
+        "        - La vida en sociedad. Espacios, recursos y servicios del entorno. Formas y modos de interacción social en espacios públicos con referentes de igualdad entre hombres y mujeres. Relaciones humanas.",
+        "        - Ciudades y pueblos más importantes de la Comunidad de Madrid.",
+        "        - Identidad y cultura: existencia de realidades diferentes y aproximación a las distintas etnoculturas presentes en el entorno. La convivencia con los demás y el rechazo a las actitudes discriminatorias. Cultura de paz y no violencia en libertad.",
+        "        - Ocupación y trabajo. Identificación de las principales actividades profesionales y laborales en el entorno y, de manera específica, en la Comunidad de Madrid.",
+        "        - Igualdad y conducta no discriminatoria. Igualdad entre hombres y mujeres y empatía entre personas.",
+        "        - Seguridad vial. La ciudad como espacio de convivencia. Normas básicas en los desplazamientos como peatones o como usuarios de los medios de locomoción. Significado de algunas señales de tráfico.",
+        "    Conciencia social y medioambiental - Conocimiento de nuestro entorno. Paisajes naturales y paisajes humanizados, y sus elementos. La acción humana sobre el medio y sus consecuencias.",
+        "        - Responsabilidad social y medioambiental. Acciones para la conservación, mejora y uso de los bienes comunes. El maltrato animal y su prevención. Prácticas de respeto hacia el entorno más cercano.",
+        "        - Estilos de vida adecuados. El uso responsable del agua, la movilidad segura y saludable, y la prevención y la gestión de los residuos."
+    ],
+    "criteriosEvaluacion": [
+        "1.1. Reconocer las características, la organización y las propiedades de los elementos del medio a través de la indagación, utilizando las herramientas y procesos adecuados de forma pautada.",
+        "1.2. Reconocer conexiones sencillas y directas entre diferentes elementos del medio a través de la observación, la manipulación y la experimentación.",
+        "1.3. Mostrar actitudes de respeto ante el patrimonio natural y cultural.        ",
+        "2.1. Mostrar estilos de vida adecuados y valorar la importancia del respeto, los cuidados, y la protección de los elementos y seres del planeta, identificando la relación de la vida de las personas con sus acciones sobre los elementos y recursos del medio, como el suelo y el agua.",
+        "3.1. Ordenar temporalmente hechos del entorno cercano, empleando nociones básicas de medida y sucesión.",
+        "3.2. Conocer personas y grupos sociales relevantes de la historia, así como formas de vida del pasado y sus creencias, incorporando referentes de igualdad entre hombres y mujeres.",
+        "4.1. Recoger información acerca de manifestaciones culturales del entorno, mostrando respeto, valorando su diversidad y riqueza, y apreciándolas como fuente de aprendizaje.",
+        "4.2. Mostrar actitudes que fomenten la igualdad, el respeto, la libertad y todas las conductas no discriminatorias, reconociendo modelos positivos en el entorno cercano e identificar las cualidades individuales adecuadas para vivir en sociedad.",
+        "5.1. Establecer acuerdos de forma democrática como parte de la sociedad, identificando las responsabilidades individuales y empleando un lenguaje respetuoso.",
+        "5.2. Identificar instituciones cercanas, señalando y valorando las funciones que realizan en pro de una buena convivencia.",
+        "5.3. Conocer e interiorizar normas básicas para la convivencia en el uso de los espacios públicos, especialmente como peatones o como usuarios de los medios de locomoción, tomando conciencia de la importancia de la movilidad segura y saludable tanto para las personas como para el planeta."
+    ]
+>>>>>>> 1d4def5484ef39bc3f5962700b420d8e4d25a7a1
 }
