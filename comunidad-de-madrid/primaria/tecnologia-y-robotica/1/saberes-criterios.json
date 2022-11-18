@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "saberes": [
         "A. Pensamiento computacional",
@@ -52,59 +51,4 @@
         "6.1. Utilizar los distintos sistemas de realidad virtual o aumentada para facilitar los procesos de aprendizaje.",
         "6.2. Crear proyectos en los que incluyan la realidad virtual o aumentada como recurso."
     ]
-=======
-{
-    "saberes": [
-        "A. Pensamiento computacional",
-        "    - Iniciación a la programación a través de recursos analógicos (actividades desenchufadas) y de recursos digitales (plataformas digitales de programación por bloques) adaptados al nivel lector del alumnado.",
-        "    - Interpretación y ejecución de algoritmos sencillos (rutinas, instrucciones con pasos ordenados, reglas de juegos, instrucciones, secuencias, patrones repetitivos, programación por bloques).",
-        "    - Fundamentos de la programación: bucles, condicionales, operadores, mensajes, variables, funciones, eventos, depuración (debugging).",
-        "    - Extensiones de programación por bloques y aplicación a la robótica educativa (música, dibujo, sensor de vídeo, texto a voz, traductor…).",
-        "    - Fases del pensamiento computacional: Descomposición de una tarea en partes más sencillas, reconocimiento de patrones y creación de algoritmos sencillos para la resolución del problema.",
-        "    - Proceso de modelización de forma guiada (dibujos, esquemas, diagramas, objetos manipulables, dramatizaciones...) en la comprensión y resolución de problemas de la vida cotidiana.",
-        "    - Mostrar interés por el pensamiento computacional participando en la resolución de problemas de programación.",
-        "    - Estrategias básicas de trabajo en equipo.",
-        "B. Mecánica– Ingeniería (Diseño)",
-        "    - Herramientas y útiles necesarios para la fabricación y montaje de artefactos. Funcionamiento de engranajes y poleas.",
-        "    - Técnicas de diseño y fabricación manual y mecánica.",
-        "    - Técnicas de diseño y fabricación digital. Impresión 3D y corte.",
-        "    - Herramientas de diseño asistido por dispositivo tecnológico, para la representación en 2D y 3D y/o fabricación de piezas aplicadas a proyectos.",
-        "    - Diseño y construcción de robots sencillos.",
-        "    - Técnicas sencillas para el trabajo en equipo y estrategias para la gestión de conflictos. Respeto de las normas y cuidado en el uso de las herramientas.",
-        "C. Electricidad",
-        "    - Electricidad y electrónica básica: cables y conectores, actuadores, circuitos, sensores, motores, baterías (fuentes de energía).",
-        "    - Energía y movimiento. Energías renovables y su influencia en la contribución al desarrollo de la sociedad.",
-        "    - Primeros diseños y aplicación en proyectos.",
-        "    - Fomento de la curiosidad, interés, motivación e iniciativa en el desarrollo y la realización de las actividades.",
-        "D. Inteligencia artificial (IA)",
-        "    - La inteligencia artificial como respuesta del aprendizaje a través de la obtención de datos y creación de patrones. Principios para la utilización de la IA.",
-        "    - Estrategias para el aprendizaje automático o aprendizaje de las máquinas.",
-        "    - Uso de aplicaciones informáticas sencillas para ordenador y dispositivos móviles e introducción a la inteligencia artificial.",
-        "E. Internet de las cosas (IoT)",
-        "    - Funcionamiento de la red. Reglas básicas para la utilización de los recursos de forma segura y eficiente trabajando de forma individual, en equipo y en red y estrategias para resolver problemas en la comunicación digital.",
-        "    - Dispositivos conectables. Pautas para la instalación de dispositivos que puedan conectarse entre sí y controlarse de forma centralizada desde un ordenador, tablet o móvil.",
-        "    - Sistemas de control programado y uso de simuladores y dispositivos.",
-        "F. Realidad virtual o aumentada",
-        "    - Uso de aplicaciones y software específico que permita recrear la realidad y dar vida a los objetos para su estudio.",
-        "    - Iniciación a la edición y creación de códigos QR o contenidos con realidad aumentada.",
-        "    - Desarrollo de marcadores para aplicaciones de realidad virtual, aumentada y mixta."
-    ],
-    "criteriosEvaluacion": [
-        "1.1. Conocer los fundamentos básicos de la programación por bloques.",
-        "1.2. Realizar un conjunto de operaciones sistemáticas o algoritmos que cumplan un patrón previamente fijado para el funcionamiento correcto del programa.",
-        "1.3. Recabar información del entorno que nos permita obtener datos necesarios para generar un producto que dé una solución tecnológica sobre una situación concreta.",
-        "2.1. Aplicar los conocimientos elementales de electricidad y mecánica para el montaje de artefactos.",
-        "2.2. Realizar, de forma guiada, un producto final sencillo que dé solución a un problema de diseño, probando en equipo, diferentes prototipos y utilizando de forma segura los materiales de mecánica, electricidad o programación.",
-        "2.3. Mostrar de forma oral o gráfica el producto final de los proyectos de diseño, explicando los pasos seguidos y la finalidad del proyecto.",
-        "2.4. Desarrollar diseños en 2D o en 3D utilizando técnicas de prototipado o distintas aplicaciones informáticas para construir un objeto determinado.",
-        "3.1. Conocer los procesos que permiten conectar elementos físicos a internet.",
-        "3.2. Utilizar el volumen de datos que generan los dispositivos conectados para realizar un análisis de estos y utilizar esta información.",
-        "4.1. Conocer aplicaciones informáticas o tecnológicas digitales emergentes sobre la inteligencia artificial.",
-        "4.2. Integrar programaciones en las máquinas o sistemas que permitan su autonomía de forma responsable.",
-        "5.1. Utilizar los dispositivos y las herramientas de forma segura de acuerdo con las necesidades del contexto educativo.",
-        "5.2. Buscar de forma segura y eficiente información para crear contenidos digitales, trabajando de manera individual y conjunta.",
-        "6.1. Utilizar los distintos sistemas de realidad virtual o aumentada para facilitar los procesos de aprendizaje.",
-        "6.2. Crear proyectos en los que incluyan la realidad virtual o aumentada como recurso."
-    ]
->>>>>>> 1d4def5484ef39bc3f5962700b420d8e4d25a7a1
 }
