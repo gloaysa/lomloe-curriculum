@@ -20,16 +20,16 @@ Currículos LOMLOE en archivos json
 * Currículo Comunidad de Madrid
   * Infantil - OK
   * Primaria - OK
-  * ESO - OK
-  * Bachillerato - OK
+  * ESO - En progreso...
+  * Bachillerato - En progreso...
 * Currículo Comunidad Valenciana
   * Infantil
   * Primaria
   * ESO - OK
   * Bachillerato - OK
 * Currículo Aragón
-  * Infantil
-  * Primaria
+  * Infantil - En progreso...
+  * Primaria - En progreso...
   * ESO - OK
   * Bachillerato - OK
 * Currículo La Rioja
