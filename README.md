@@ -8,8 +8,8 @@ Currículos LOMLOE en archivos json
   * ESO - OK
   * Bachillerato - OK
 * Currículo Castilla-La Mancha
-  * Infantil
-  * Primaria
+  * Infantil - En progreso...
+  * Primaria - En progreso...
   * ESO - OK
   * Bachillerato - OK
 * Curríuclo Extremadura
@@ -18,8 +18,8 @@ Currículos LOMLOE en archivos json
   * ESO - OK
   * Bachillerato - OK
 * Currículo Comunidad de Madrid
-  * Infantil - OK
-  * Primaria - OK
+  * Infantil - En progreso...
+  * Primaria - En progreso...
   * ESO - OK
   * Bachillerato - OK
 * Currículo Comunidad Valenciana
@@ -28,8 +28,8 @@ Currículos LOMLOE en archivos json
   * ESO - OK
   * Bachillerato - OK
 * Currículo Aragón
-  * Infantil
-  * Primaria
+  * Infantil - En progreso...
+  * Primaria - En progreso...
   * ESO - OK
   * Bachillerato - OK
 * Currículo La Rioja

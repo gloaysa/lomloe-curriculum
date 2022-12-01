@@ -1,6 +1,56 @@
-const eso = {
-    nombre: "Decreto 82/2022, de 12 de julio, por el que se establece la ordenación y el currículo de Educación Secundaria Obligatoria en la comunidad autónoma de Castilla-La Mancha",
-    primero: [
+const materiasClm = {
+    ei: ["Todas las áreas"],
+    ep1: [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Educación Artística",
+        "Educación Física",
+
+    ],
+    ep2: [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Educación Artística",
+        "Educación Física",
+    ],
+    ep3: [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Educación Artística",
+        "Educación Física",
+    ],
+    ep4: [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Educación Artística",
+        "Educación Física",
+    ],
+    ep5: [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Educación Artística",
+        "Educación Física",
+        "Educación en Valores cívicos y éticos",
+    ],
+    ep6: [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Educación Artística",
+        "Educación Física",
+    ],
+    eso1: [
         "Lengua Castellana y Literatura",
         "Matemáticas",
         "Lengua Extranjera",
@@ -13,7 +63,7 @@ const eso = {
         "Taller de Emprendimiento y finanzas Personales",
         "Proyectos de Artes Plásticas y Visuales"
     ],
-    segundo: [
+    eso: [
         "Lengua Castellana y Literatura",
         "Matemáticas",
         "Lengua Extranjera",
@@ -27,7 +77,7 @@ const eso = {
         "Cultura Clásica",
         "Desarrollo Digital"
     ],
-    tercero: [
+    eso3: [
         "Lengua Castellana y Literatura",
         "Matemáticas",
         "Lengua Extranjera",
@@ -41,7 +91,7 @@ const eso = {
         "Emprendimiento, Sostenibilidad y consumo responsable",
         "Música Activa, Movimiento y Folclore"
     ],
-    cuarto: [
+    eso4: [
         "Lengua Castellana y Literatura",
         "Matemáticas A",
         "Matemáticas B",
@@ -63,11 +113,9 @@ const eso = {
         "Cultura Científica",
         "Proyectos de Robótica",
         "Artes Escénicas, Danza y Folclore"
-    ]
-}
+    ],
 
-const bach = {
-    primero: [
+    bach1: [
         // ciencias y tecnología
         "Educación Física",
         "Filosofía",
@@ -88,7 +136,7 @@ const bach = {
         "Economía",
         "Griego I",
         "Historia del Mundo Contemporáneo",
-        "Literatura Universal",       
+        "Literatura Universal",
         "Lenguaje y Práctica Musical",
         "Psicología",
 
@@ -108,7 +156,7 @@ const bach = {
         "Matemáticas Generales",
         "Economía, Emprendimiento y Actividad Empresarial"
     ],
-    segundo: [
+    bach2: [
         // ciencias y tecnología
         "Historia de España",
         "Historia de la Filosofía",
@@ -134,7 +182,7 @@ const bach = {
         "Griego II",
         "Historia del Arte",
         "Historia de la Música y la Danza",
-        "Fundamentos de Administración y Gestión",       
+        "Fundamentos de Administración y Gestión",
 
         // artes
         "Dibujo Artístico II",
