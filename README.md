@@ -13,12 +13,11 @@ Currículos LOMLOE en archivos json
   * ESO - OK
   * Bachillerato - OK
 * Curríuclo Extremadura
-  * Infantil
-  * Primaria
+  * Infantil - En progreso...
+  * Primaria - En progreso...
   * ESO - OK
   * Bachillerato - OK
 * Currículo Comunidad de Madrid
-<<<<<<< HEAD
   * Infantil - En progreso...
   * Primaria - En progreso...
   * ESO - OK

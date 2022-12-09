@@ -1,88 +1,81 @@
 {
-            "saberes": [
-                "A. Recepción y análisis.",
-
-                "– Propuestas artísticas de diferentes corrientes estéticas, procedencias y épocas producidas por creadores y creadoras locales, regionales y nacionales.",
-
-                "– Estrategias de recepción activa.",
-
-                "– Normas comunes de comportamiento y actitud positiva en la recepción de propuestas artísticas en diferentes espacios. El silencio como elemento y condición indispensable para el mantenimiento de la atención durante la recepción.",
-
-                "– Vocabulario específico de uso común en las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.",
-
-                "– Recursos digitales de uso común para las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.",
-
-                "– Estrategias básicas de análisis de propuestas artísticas desde una perspectiva de género.",
-
-                "B. Creación e interpretación.",
-
-                "– Fases del proceso creativo: planificación, interpretación y experimentación.",
-
-                "– Profesiones vinculadas con las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.",
-
-                "– Interés y valoración tanto por el proceso como por el producto final en producciones plásticas, visuales, audiovisuales, musicales, escénicas y performativas.",
-
-                "C. Artes plásticas, visuales y audiovisuales.",
-
-                "– Cultura visual. La imagen en el mundo actual: técnicas y estrategias básicas de lectura e interpretación.",
-
-                "– Elementos configurativos básicos del lenguaje visual y sus posibilidades expresivas: punto, línea, plano, textura, color.",
-
-                "– Materiales, instrumentos, soportes y técnicas de uso común utilizados en la expresión plástica y visual.",
-                "– Medios, soportes y materiales de expresión plástica y visual. Técnicas bidimensionales y tridimensionales en dibujos y modelados sencillos.",
-
-                "– Técnicas, materiales y recursos informáticos y tecnológicos básicos: su aplicación para la captura y manipulación de producciones plásticas y visuales.",
-
-                "– Registro y edición básica de elementos audiovisuales: conceptos, tecnologías, técnicas y recursos elementales y de manejo sencillo.",
-
-                "– Estrategias y técnicas de uso común de composición de historias audiovisuales.",
-
-                "– El cine como forma de narración.",
-
-                "– Géneros y formatos básicos de producciones audiovisuales.",
-
-                "– Producciones multimodales: iniciación en la realización con diversas herramientas.",
-
-                "– Características elementales del lenguaje audiovisual multimodal.",
-
-                "– Aproximación a las herramientas y las técnicas básicas de animación.",
-
-                "D. Música y artes escénicas y performativas.",
-
-                "– El sonido y sus cualidades: identificación visual y auditiva y representación elemental de diversidad de sonidos y estructuras rítmico-melódicas a través de diferentes grafías.",
-
-                "– La voz y los instrumentos musicales. Agrupaciones y familias. Identificación visual y auditiva. Objetos sonoros. Cotidiáfonos.",
-
-                "– El carácter, el tempo y el compás.",
-                "– Práctica instrumental, vocal y corporal: experimentación, exploración creativa, interpretación e improvisación a partir de sus posibilidades sonoras y expresivas.",
-
-                "– Construcción guiada de instrumentos.",
-
-                "– Lenguajes musicales: aplicación de sus conceptos básicos en la interpretación y en la improvisación de propuestas musicales vocales e instrumentales. El silencio como elemento fundamental de la música.",
-
-                "– Aplicaciones informáticas básicas de grabación y edición de audio: utilización en la audición y conocimiento de obras diversas.",
-
-                "– El cuerpo y sus posibilidades motrices y creativas: interés por la experimentación y la exploración a través de ejecuciones individuales y grupales vinculadas con el movimiento, la danza, la dramatización y la representación teatral como medios de expresión y diversión.",
-
-                "– Técnicas dramáticas y dancísticas de uso común. Lenguajes expresivos básicos. Actos performativos elementales. Improvisación guiada.",
-
-                "– Capacidades expresivas y creativas de uso común de la expresión corporal y dramática.",
-
-                "– Elementos básicos de la representación escénica: roles, materiales y espacios.  "     
-            ],
-            "criteriosEvaluacion": [
-                "Competencia específica 1.", 
-                "1.1 Reconocer propuestas artísticas de diferentes géneros, estilos, épocas y culturas, a través de la recepción activa y mostrando curiosidad y respeto por las mismas.", 
-                "1.2 Describir manifestaciones culturales y artísticas, explorando sus características con actitud abierta e interés y estableciendo relaciones básicas entre ellas.", 
-                "Competencia específica 2.", 
-                "2.1 Seleccionar y aplicar estrategias para la búsqueda guiada de información sobre manifestaciones culturales y artísticas, a través de canales y medios de acceso sencillos, tanto de forma individual como colectiva.", 
-                "2.2 Distinguir elementos característicos básicos de manifestaciones culturales y artísticas que forman parte del patrimonio, indicando los canales, medios y técnicas utilizados, analizando sus diferencias y similitudes y reflexionando sobre las sensaciones producidas, con actitud de interés y respeto.", 
-                "Competencia específica 3.", 
-                "3.1 Producir obras propias básicas, utilizando las posibilidades expresivas del cuerpo, el sonido, la imagen y los medios digitales básicos, y mostrando confianza en las capacidades propias.", 
-                "3.2 Expresar con creatividad ideas, sentimientos y emociones a través de manifestaciones artísticas básicas, experimentando con los diferentes lenguajes e instrumentos a su alcance.", 
-                "Competencia específica 4.", 
-                "4.1 Participar de manera guiada en el diseño de producciones culturales y artísticas, trabajando de forma cooperativa en la consecución de un resultado final planificado y asumiendo diferentes funciones, desde la igualdad y el respeto a la diversidad.", 
-                "4.2 Participar en el proceso cooperativo de producciones culturales y artísticas, de forma creativa y respetuosa, utilizando elementos básicos de diferentes lenguajes y técnicas artísticas.", 
-                "4.3 Compartir los proyectos creativos, empleando estrategias comunicativas básicas, explicando el proceso y el resultado final obtenido, y respetando y valorando las experiencias propias y las de los demás."           
-            ]
-        }
+    "saberes": [
+        "Bloque A. Recepción y análisis.",
+        "A.1. Propuestas artísticas.",
+        "A.1.2.1. Propuestas artísticas,  de diferentes corrientes estéticas,   épocas   yprocedencias variadas, priorizando las producidas por creadores  y creadoras locales, regionales, nacionales  e internacionales.",
+        "A.2. Estrategias de recepción activa.",
+        "A.2.2.1. Estrategias de recepción activa.",
+        "A.3. Normas. El silencio.",
+        "A.3.2.1. Normas comunes  de comportamiento  y actitud positiva en la recepción  de propuestas artísticas en  diferentes espacios. El silencio como elemento  y condición indispensable para el mantenimiento de la atención durante la recepción artística.",
+        "A.4. Vocabulario específico.",
+        "A.4.2.1. Vocabulario específico de uso común en las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas   y performativas, con especial dedicación a las creaciones artísticas  de Extremadura.",
+        "A.5. Recursos digitales.",
+        "A.5.2.1. Recursos digitales de uso común para las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.",
+        "A.5.2.2. Estrategias básicas de análisis de propuestas artísticas desde una perspectiva de género, con especial atención a las creaciones artísticas de Extremadura.",
+        "Bloque B. Creación e interpretación.",
+        "B.1. Proceso creativo.",
+        "B.1.2.1.   Planificación del trabajo y fases del proceso creativo partiendo de la percepción sensorial, organizando los materiales y recursos necesarios para abordar la producción con ilusión y confianza de la persona. Interpretación y experimentación.",
+        "B.2. Profesiones vinculadas a la creación e interpretación.",
+        "B.2.2.1. Profesiones vinculadas a la creación e interpretación de las artes plásticas y visuales, las artes audiovisuales, las artes escénicas y performativas y la música: compositores y compositoras, orquesta y dirección musical.",
+        "B.3. Ejecución colaborativa.",
+        "B.3.2.1. Ejecución colaborativa. Interés y valoración tanto por el proceso como porel producto final en producciones plásticas, visuales, audiovisuales, musicales,   escénicas y performativas",
+        "Bloque C. Artes plásticas, visuales y audiovisuales.",
+        "C.1. Cultura visual.",
+        "C.1.2.1. Cultura visual. La imagen en el mundo actual: técnicas y estrategias básicas de lectura e interpretación.",
+        "C. 2. Elementos configurativ os del lenguaje visual.",
+        "C.2.2.1. Elementos configurativos básicos del lenguaje visual y sus posibilidades expresivas. Punto, línea, plano, textura, color.",
+        "C.3. Materiales, medios, instrumento s, soportes y técnicas.",
+        "C.3.2.1. Indagación y observación de los diferentes materiales, medios, instrumentos, soportes y técnicas básicas utilizados en la expresión plástica y visual.",
+        "C.3.2.2. Investigación de las cualidades de los materiales   y tratamientos no convencionales de los mismos, contribuyendo  al reciclaje.",
+        "C.3.2.3.  Buscar información para la elaboración    de nuestras producciones creativas, fomentando     la autonomía en las mismas (videotutoriales).",
+        "C.3.2.4. Técnicas, materiales y recursos informáticos y tecnológicos básicos: su aplicación para la captura y manipulación         deproducciones plásticas y visuales.",
+        "C.4. Edición audiovisual.",
+        "C.4.2.1. Búsqueda de información para la elaboración   de nuestras producciones creativas, fomentando    la autonomía en las mismas (videotutoriales).",
+        "C.4.2.2. Estrategias de búsqueda y filtrado.",
+        "C.4.2.3. Estrategias y técnicas de uso común en la composición de historias audiovisuales.",
+        "C.4.2.4.  Propuestas audiovisuales elementales. El cine como forma de narración.",
+        "C.4.2.5. Géneros y formatos básicos de producciones audiovisuales.",
+        "C.4.2.6. Producciones multimodales: iniciación en  la realización  con diversas herramientas.",
+        "C.4.2.7. Reconocimiento  de características elementales del lenguaje audiovisual multimodal.",
+        "C.4.2.8. Aproximación a las herramientas y técnicas básicas de animación.",
+        "C.4.2.9. Mensajes audiovisuales elementales: experimentación y difusión.",
+        "Bloque D. Música y artes escénicas y performativas.",
+        "D.1. El sonido.",
+        "D.1.2.1. El sonido y sus   cualidades: identificación visual y auditiva, clasificación y representación elemental a través de diferentes grafías de sonidos y estructuras rítmico-melódicas. Inicio  a  la grafía convencional.",
+        "D.2. Instrumento s musicales.",
+        "D.2.2.1. Tipos de voz e instrumentos musicales de la orquesta  y tradicionales. Agrupaciones y familias. Identificación visual y auditiva de diferentes instrumentos. Cotidiáfonos.",
+        "D.3. El carácter, el compás y el tempo.",
+        "D.3.2.1. El carácter, el compás y el tempo: identificación,experimentación y descripción de los más característicos",
+        "D.4. Práctica instrumental, vocal y corporal.",
+        "D.4.2.1. Práctica instrumental: experimentación, exploración creativa, interpretación, improvisación  y composición a partir de sus posibilidades sonoras y expresivas.",
+        "D.4.2.2. Iniciación a la práctica instrumental de un instrumento melódico.",
+        "D.4.2.3. Construcción elemental de instrumentos.",
+        "D.4.2.4. Práctica vocal y corporal: exploración de lasposibilidades sonoras y expresivas de la voz y el cuerpo, composición e improvisación. Interpretación preferente de canciones y danzas populares propias del folklore y del mundo.",
+        "D.5. Lenguajes musicales.",
+        "D.5.2.1. Lenguajes musicales: aplicación de sus conceptos básicos en la interpretación y en la improvisación de propuestas musicales vocales e instrumentales, rítmicas y melódicas, relacionadas con el entorno e intereses del alumnado.",
+        "D.6. El silencio.",
+        "D.6.2.1. El silencio como elemento fundamental de la música antes, durante y después de la interpretación.",
+        "D.7. Recursos digitales para la educación auditiva.",
+        "D.7.2.1. Recursos digitales para la educación auditiva y la práctica instrumental y vocal. Uso de aplicaciones para la experimentación musical.",
+        "D.8. El cuerpo.",
+        "D.8.2.1. El cuerpo y sus posibilidades motrices y creativas: interés en la experimentación y exploración a través de ejecuciones individuales  y grupales vinculadas con el movimiento, la danza,  la dramatización y  la representación teatral como medio  de comunicación, diversión y expresión de sentimientos.",
+        "D.9. Técnicas dramáticas.",
+        "D.9.2.1. Técnicas básicas dramáticas y dancísticas.",
+        "D.9.2.2 Improvisación guiada. Práctica e interés.",
+        "D.10. Danzas de Extremadura",
+        "D.10.2.1. Pequeñas coreografías  de danzas de Extremadura.",
+        "D.11. Lenguajes expresivos.",
+        "D.11.2.1. Lenguajes expresivos  básicos. Capacidades expresivas y creativas de uso común de la expresión corporal y dramática."
+    ],
+    "criteriosEvaluacion": [
+        "Criterio 1.1. Reconocer diferentes corrientes, orígenes , estilos y géneros característicos de las manifestaciones culturales y artísticas, especialmente las de nuestra región, evidenciando interés y respeto hacia las mismas a través de la recepción activa y la escucha atenta, incorporando la perspectiva de género. Criterio 1.2. Describir manifestaciones culturales y artísticas seleccionadas, utilizando un lenguaje apropiado con apertur y estableciendo relaciones básicas entre ellas.",
+        "Criterio 2.1. Utilizar estrategias básicas para la búsqueda de información sobre manifestaciones culturales y artísticas, a través de canales y medios de acceso sencillos, con especial interés en medios digitales, de forma colaborativa.",
+        "Criterio 2.2. Conocer el significado de distintas manifestaciones culturales y artísticas que forman parte del patrimonio de diversos entornos, analizando de forma básica los elementos básicos que las caracterizan y reflexionando sobre las sensaciones producidas, con actitud de interés, diálogo y respeto.",
+        "Criterio 2.3. Identificar el patrimonio cultural y artístico de Extremadura, apreciando su valor cultural y mostrando una actitud de respeto, cuidado y conservación.",
+        "Criterio 3.1. Explorar las posibilidades expresivas y comunicativas del sonido, la imagen y el cuerpo y las distintas herramientas, instrumentos y medios de expresión artística, enriqueciendo la propia identidad.",
+        "Criterio 3.2. Producir y compartir de manera guiada propuestas artísticas elementales mediante la expresión de ideas, sentimientos y emociones, mostrando confianza en las propias capacidades y valorando las de los demás.",
+        "Criterio 4.1. Colaborar de manera guiada en el diseño de producciones culturales y artísticas trabajando con interés en la consecución de un resultado final que cumpla con unos objetivos acordados a través de un enfoque coeducativo basado en la igualdad y el respeto a la diversidad.",
+        "Criterio 4.2. Participar activamente en el proceso de creación, utilizando elementos básicos de diferentes lenguajes artísticos, mostrando interés , respeto y cuidado hacia los materiales, recursos y producciones plásticas y visuales, tanto propias como ajenas.",
+        "Criterio 4.3. Compartir la experiencia creativa, empleando diferentes estrategias comunicativas básicas, disfrutando del resultado final obtenido y valorando la opinión de otras personas, a través de un enfoque coeducativo basado en la igualdad y el respeto a la diversidad."
+    ]
+}
