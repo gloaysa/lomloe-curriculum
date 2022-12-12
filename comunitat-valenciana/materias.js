@@ -1,4 +1,75 @@
 const materiasCV = {
+    inf: [
+        "Todas las áreas"
+    ],
+    ep1: [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Plástica y Visual",
+        "Música y Danza",
+        "Educación Física",
+        "Valenciano: Lengua y Literatura",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+
+    ],
+    ep2: [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Plástica y Visual",
+        "Música y Danza",
+        "Educación Física",
+        "Valenciano: Lengua y Literatura",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+
+    ],
+    ep3: [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Plástica y Visual",
+        "Música y Danza",
+        "Educación Física",
+        "Valenciano: Lengua y Literatura",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+
+    ],
+    ep4: [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Plástica y Visual",
+        "Música y Danza",
+        "Educación Física",
+        "Valenciano: Lengua y Literatura",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+
+    ],
+    ep5: [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Plástica y Visual",
+        "Música y Danza",
+        "Educación Física",
+        "Valenciano: Lengua y Literatura",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Educación en Valores Cívicos y Éticos",
+
+    ],
+    ep6: [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Plástica y Visual",
+        "Música y Danza",
+        "Educación Física",
+        "Valenciano: Lengua y Literatura",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Educación en Valores Cívicos y Éticos",
+
+    ],
     eso1: ['Biología y Geología',
         'Biología y Geología',
         'Educación Física',
