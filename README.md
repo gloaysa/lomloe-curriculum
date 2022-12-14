@@ -38,8 +38,8 @@ Currículos LOMLOE en archivos json
   * ESO - OK
   * Bachillerato - OK
 * Currículo Castilla y León
-  * Infantil
-  * Primaria
+  * Infantil - En progreso...
+  * Primaria - En progreso...
   * ESO - OK
   * Bachillerato - OK 
 * Currículo Galicia
@@ -62,10 +62,12 @@ Currículos LOMLOE en archivos json
   * Primaria
   * ESO - OK
   * Bachillerato - OK
-* Andalucía - NO PUBLICADO POR LA ADMÓN.
-* Canarias - NO PUBLICADO POR LA ADMÓN.
-* Murcia - NO PUBLICADO POR LA ADMÓN.
-* País Vasco - NO PUBLICADO POR LA ADMÓN.
+* Andalucía 
+* Baleares
+* Canarias
+* Cantabria
+* Murcia
+* País Vasco
 
 
 Acceso a los currículos autonómicos: https://educagob.educacionyfp.gob.es/curriculo/curriculo-lomloe/curriculos-ccaa.html
