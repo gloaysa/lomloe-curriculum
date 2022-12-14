@@ -33,8 +33,8 @@ Currículos LOMLOE en archivos json
   * ESO - OK
   * Bachillerato - OK
 * Currículo La Rioja
-  * Infantil
-  * Primaria
+  * Infantil - En progreso...
+  * Primaria - En progreso...
   * ESO - OK
   * Bachillerato - OK
 * Currículo Castilla y León
