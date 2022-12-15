@@ -1,4 +1,7 @@
 const materiasGalicia = {
+    ei: [
+        'Todas las áreas'
+    ],
     eso1: ['Biología y Geología', 'Educación Física', 'Educación Plástica, Visual y Audiovisual', 'Geografía e Historia', 'Lengua Castellana y Literatura', 'Lengua Extranjera', 'Lengua Gallega y Literatura', 'Matemáticas', 'Segunda Lengua Extranjera', 'Tecnología y Digitalización'],
     eso2: ['Educación Física', 'Física y Química', 'Geografía e Historia', 'Lengua Castellana y Literatura', 'Lengua Extranjera', 'Lengua Gallega y Literatura', 'Matemáticas', 'Música', 'Segunda Lengua Extranjera', 'Tecnología y Digitalización'],
     eso3: ['Biología y Geología', 'Cultura Clásica', 'Educación Digital', 'Educación Física', 'Educación Plástica, Visual y Audiovisual', 'Educación en Valores Cívicos y Éticos', 'Física y Química', 'Geografía e Historia', 'Lengua Castellana y Literatura', 'Lengua Extranjera', 'Lengua Gallega y Literatura', 'Matemáticas', 'Música', 'Oratoria', 'Segunda Lengua Extranjera'],
