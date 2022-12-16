@@ -48,8 +48,8 @@ Currículos LOMLOE en archivos json
   * ESO - OK
   * Bachillerato - OK
 * Currículo Navarra
-  * Infantil
-  * Primaria
+  * Infantil - En progreso...
+  * Primaria - En progreso...
   * ESO - OK
   * Bachillerato - OK 
 * Currículo Catalunya (en catalán)
