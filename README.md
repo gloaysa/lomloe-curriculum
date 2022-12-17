@@ -58,8 +58,8 @@ Currículos LOMLOE en archivos json
   * ESO - OK
   * Bachillerato - OK 
 * Currículo Asturias
-  * Infantil
-  * Primaria
+  * Infantil - En progreso...
+  * Primaria - En progreso...
   * ESO - OK
   * Bachillerato - OK
 * Andalucía 
