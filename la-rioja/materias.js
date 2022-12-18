@@ -1,8 +1,5 @@
 const materiasRioja = {
-    ei1: [
-        'Todas las áreas'
-    ],
-    ei2: [
+    ei: [
         'Todas las áreas',
         'Lengua extranjera'
     ],

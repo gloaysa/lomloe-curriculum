@@ -1,4 +1,5 @@
 const materiasCam = {
+    ei: ['Todas las áreas'],
     ep1: [
         "Ciencias de la Naturaleza",
         "Ciencias Sociales",

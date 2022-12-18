@@ -1,5 +1,5 @@
 const materiasCV = {
-    inf: [
+    ei: [
         "Todas las áreas"
     ],
     ep1: [

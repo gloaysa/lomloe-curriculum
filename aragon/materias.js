@@ -1,5 +1,6 @@
 const materiasAragon = {
-    ep_1: [
+    ei: ['Todas las áreas'],
+    ep1: [
         "Ciencias de la Naturaleza.",
         "Ciencias Sociales.",
         "Educación Plástica y Visual.",
@@ -10,7 +11,7 @@ const materiasAragon = {
         "Matemáticas.",
         
     ],
-    ep_2: [
+    ep2: [
         "Ciencias de la Naturaleza.",
         "Ciencias Sociales.",
         "Educación Plástica y Visual.",
@@ -20,7 +21,7 @@ const materiasAragon = {
         "Lengua Extranjera.",
         "Matemáticas.",
     ],
-    ep_3: [
+    ep3: [
         "Ciencias de la Naturaleza.",
         "Ciencias Sociales.",
         "Educación Plástica y Visual.",
@@ -30,7 +31,7 @@ const materiasAragon = {
         "Lengua Extranjera.",
         "Matemáticas.",
     ],
-    ep_4: [
+    ep4: [
         "Ciencias de la Naturaleza.",
         "Ciencias Sociales.",
         "Educación Plástica y Visual.",
@@ -40,7 +41,7 @@ const materiasAragon = {
         "Lengua Extranjera.",
         "Matemáticas.",
     ],
-    ep_5: [
+    ep5: [
         "Ciencias de la Naturaleza.",
         "Ciencias Sociales.",
         "Educación Plástica y Visual.",
@@ -52,7 +53,7 @@ const materiasAragon = {
         "Educación en Valores Cívicos y Éticos",
         "Segunda Lengua Extranjera",
     ],
-    ep_6: [
+    ep6: [
         "Ciencias de la Naturaleza.",
         "Ciencias Sociales.",
         "Educación Plástica y Visual.",
