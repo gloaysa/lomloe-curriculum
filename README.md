@@ -62,10 +62,14 @@ Currículos LOMLOE en archivos json
   * Primaria - OK
   * ESO - OK
   * Bachillerato - OK
+* Cantabria
+  * Infantil - En progreso...
+  * Primaria - En progreso...
+  * ESO
+  * Bachillerato
 * Andalucía 
 * Baleares
 * Canarias
-* Cantabria
 * Murcia
 * País Vasco
 
