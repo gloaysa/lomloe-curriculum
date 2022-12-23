@@ -35,11 +35,11 @@ const materiasCantabria = {
     ep5: [
         "Conocimiento del Medio Natural, Social y Cultural",
         "Educación Artística",
+        "Educación en Valores Cívicos y Éticos",
         "Educación Física",
         "Lengua Castellana y Literatura",
         "Lengua Extranjera",
         "Matemáticas",
-        "Educación en Valores Cívicos y Éticos"
     ],
     ep6: [
         "Conocimiento del Medio Natural, Social y Cultural",
@@ -49,4 +49,39 @@ const materiasCantabria = {
         "Lengua Extranjera",
         "Matemáticas",
     ],
+    eso1: [
+        "Biología y Geología",
+        "Educación Física",
+        "Educación Plástica, Visual y Audiovisual",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Música",
+    ],
+    eso2: [
+        "Educación Física",
+        "Física y Química",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Música",
+        "Tecnología y Digitalización",
+    ],
+    eso3: [
+        "Biología y Geología",
+        "Educación Física",
+        "Educación en Valores cívicos y éticos",
+        "Educación Plástica, Visual y Audiovisual",
+        "Física y Química",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Tecnología y Digitalización",
+    ],
+    eso4: ['Biología y Geología', 'Digitalización', 'Economía y Emprendimiento', 'Educación Física', 'Expresión Artística', 'Formación y Orientación Personal y profesional', 'Física y Química', 'Geografía e Historia', 'Latín', 'Lengua Castellana y Literatura', 'Lengua Extranjera', 'Matemáticas A', 'Matemáticas B', 'Música', 'Segunda Lengua Extranjera', 'Tecnología'],
+    bach1: ['Análisis Musical', 'Artes Escénicas', 'Biología, Geología y Ciencias Ambientales', 'Coro y Técnica Vocal', 'Cultura Audiovisual', 'Dibujo Artístico', 'Dibujo Técnico', 'Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño', 'Educación Física', 'Filosofía', 'Física y Química', 'Lengua Castellana y Literatura', 'Lengua Extranjera', 'Lenguaje y Práctica Musical', 'Matemáticas                 ', 'Proyectos Artísticos', 'Tecnología e Ingeniería', 'Volumen'],
+    bach2: ['Análisis Musical', 'Artes Escénicas', 'Biología', 'Coro y Técnica Vocal', 'Dibujo Artístico', 'Dibujo Técnico', 'Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño', 'Diseño', 'Fundamentos Artísticos', 'Física', 'Geología y Ciencias Ambientales', 'Historia de España', 'Historia de la Filosofía', 'Historia de la Música y de la Danza', 'Lengua Castellana y Literatura', 'Lengua Extranjera', 'Literatura Dramática', 'Matemáticas ', 'Matemáticas Aplicadas a las Ciencias Sociales ', 'Química', 'Tecnología e Ingeniería', 'Técnicas de Expresión Gráfico-plástica']
 }

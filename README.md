@@ -63,10 +63,10 @@ Currículos LOMLOE en archivos json
   * ESO - OK | Primera lengua extranjera en inglés
   * Bachillerato - OK | Primera lengua extranjera en inglés
 * Cantabria
-  * Infantil - En progreso... | Primera lengua extranjera en inglés
-  * Primaria - En progreso... | Primera lengua extranjera en inglés
-  * ESO
-  * Bachillerato
+  * Infantil - OK
+  * Primaria - OK | Primera lengua extranjera en inglés
+  * ESO- OK | Primera lengua extranjera en inglés
+  * Bachillerato- OK | Primera lengua extranjera en inglés
 * Andalucía 
 * Baleares
 * Canarias
