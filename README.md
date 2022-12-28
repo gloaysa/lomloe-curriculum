@@ -65,9 +65,13 @@ Currículos LOMLOE en archivos json
 * Cantabria
   * Infantil - OK
   * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO- OK | Primera lengua extranjera en inglés
-  * Bachillerato- OK | Primera lengua extranjera en inglés
+  * ESO - OK | Primera lengua extranjera en inglés
+  * Bachillerato - OK | Primera lengua extranjera en inglés
 * Andalucía 
+  * Infantil - OK
+  * Primaria - OK | Primera lengua extranjera en inglés
+  * ESO
+  * Bachillerato
 * Baleares
 * Canarias
 * Murcia
@@ -75,3 +79,4 @@ Currículos LOMLOE en archivos json
 
 
 Acceso a los currículos autonómicos: https://educagob.educacionyfp.gob.es/curriculo/curriculo-lomloe/curriculos-ccaa.html
+https://www.juntadeandalucia.es/organismos/desarrolloeducativoyformacionprofesional/servicios/normativa/normas-elaboracion.html
