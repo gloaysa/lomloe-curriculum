@@ -9,68 +9,72 @@ Currículos LOMLOE en archivos json
   * Bachillerato - OK
 * Currículo Castilla-La Mancha
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO - OK | Primera lengua extranjera en inglés
-  * Bachillerato - OK | Primera lengua extranjera en inglés
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
 * Curríuclo Extremadura
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO - OK | Primera lengua extranjera en inglés
-  * Bachillerato - OK | Primera lengua extranjera en inglés
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
 * Currículo Comunidad de Madrid
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO - OK | Primera lengua extranjera en inglés
-  * Bachillerato - OK | Primera lengua extranjera en inglés
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
 * Currículo Comunidad Valenciana
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO - OK | Primera lengua extranjera en inglés
-  * Bachillerato - OK | Primera lengua extranjera en inglés
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
 * Currículo Aragón
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO - OK | Primera lengua extranjera en inglés
-  * Bachillerato - OK | Primera lengua extranjera en inglés
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
 * Currículo La Rioja
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO - OK | Primera lengua extranjera en inglés
-  * Bachillerato - OK | Primera lengua extranjera en inglés
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
 * Currículo Castilla y León
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO - OK | Primera lengua extranjera en inglés
-  * Bachillerato - OK | Primera lengua extranjera en inglés
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
 * Currículo Galicia
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO - OK | Primera lengua extranjera en inglés
-  * Bachillerato - OK | Primera lengua extranjera en inglés
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
 * Currículo Navarra
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO - OK | Primera lengua extranjera en inglés
-  * Bachillerato - OK | Primera lengua extranjera en inglés
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
 * Currículo Catalunya (en catalán)
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO - OK | Primera lengua extranjera en inglés
-  * Bachillerato - OK | Primera lengua extranjera en inglés
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
 * Currículo Asturias
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO - OK | Primera lengua extranjera en inglés
-  * Bachillerato - OK | Primera lengua extranjera en inglés
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
 * Cantabria
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO - OK | Primera lengua extranjera en inglés
-  * Bachillerato - OK | Primera lengua extranjera en inglés
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
 * Andalucía 
   * Infantil - OK
-  * Primaria - OK | Primera lengua extranjera en inglés
-  * ESO
+  * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+  * ESO - En progreso...
+    * Biología y Geología
+    * Digitalización
+    * Economía y emprendimiento
+    * Educación en valores cívicos y éticos
   * Bachillerato
 * Baleares
 * Canarias

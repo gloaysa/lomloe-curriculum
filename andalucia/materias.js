@@ -7,7 +7,7 @@ const materiasAndalucia = {
         "Lengua Castellana y Literatura",
         "Primera Lengua Extranjera",
         "Matemáticas",
-        
+
     ],
     ep2: [
         "Conocimiento del Medio Natural, Social y Cultural",
@@ -52,5 +52,66 @@ const materiasAndalucia = {
         "Matemáticas",
         "Segunda Lengua Extranjera",
         "Educación en Valores Cívicos",
+    ],
+    eso1: [
+        "Educación Física",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Primera Lengua Extranjera",
+        "Matemáticas",
+        "Biología y Geología",
+        "Música"
+
+    ],
+    eso2: [
+        "Educación Física",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Primera Lengua Extranjera",
+        "Matemáticas",
+        "Física y Química",
+        "Educación Plástica, Visual y Audiovisual",
+        "Tecnología y Digitalización",
+        "Valores Cívicos y Éticos"
+    ],
+    eso3: [
+        "Educación Física",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Primera Lengua Extranjera",
+        "Matemáticas",
+        "Biología y Geología",
+        "Física y Química",
+        "Educación Plástica, Visual y Audiovisual",
+        "Tecnología y Digitalización"
+    ],
+    eso4: [
+        "Educación Física",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Primera Lengua Extranjera",
+        "Matemáticas A",
+        "Matemáticas B",
+        "Biología y Geología",
+        "Digitalización",
+        "Economía y Emprendimiento",
+        "Expresión Artística",
+        "Física y Química",
+        "Formación y Orientación Personal y Profesional",
+        "Latín",
+        "Música",
+        "Segunda Lengua Extranjera",
+        "Tecnología",
+        "Artes escénicas y Danza",
+        "Cultura Científica",
+        "Ampliación de Cultura Clásica",
+        "Filosofía",
+        "Aprendizaje Social y Emocional"
+    ],
+    bach1: [
+
+    ],
+    bach2: [
+
     ],
 }
