@@ -40,7 +40,6 @@ const materiasAndalucia = {
         "Lengua Castellana y Literatura",
         "Primera Lengua Extranjera",
         "Matemáticas",
-        "Segunda Lengua Extranjera",
         "Educación en Valores Cívicos",
     ],
     ep6: [
@@ -50,7 +49,6 @@ const materiasAndalucia = {
         "Lengua Castellana y Literatura",
         "Primera Lengua Extranjera",
         "Matemáticas",
-        "Segunda Lengua Extranjera",
         "Educación en Valores Cívicos",
     ],
     eso1: [
@@ -60,7 +58,10 @@ const materiasAndalucia = {
         "Primera Lengua Extranjera",
         "Matemáticas",
         "Biología y Geología",
-        "Música"
+        "Música",
+        "Cultura Clásica",
+        "Computación y Robótica",
+        "Oratoria y Debate",
 
     ],
     eso2: [
@@ -71,8 +72,13 @@ const materiasAndalucia = {
         "Matemáticas",
         "Física y Química",
         "Educación Plástica, Visual y Audiovisual",
+        "Educación en Valores Cívicos y Éticos",
         "Tecnología y Digitalización",
-        "Valores Cívicos y Éticos"
+        "Valores Cívicos y Éticos",
+        "Cultura Clásica",
+        "Computación y Robótica",
+        "Música",
+        "Oratoria y Debate",
     ],
     eso3: [
         "Educación Física",
@@ -83,7 +89,11 @@ const materiasAndalucia = {
         "Biología y Geología",
         "Física y Química",
         "Educación Plástica, Visual y Audiovisual",
-        "Tecnología y Digitalización"
+        "Tecnología y Digitalización",
+        "Cultura Clásica",
+        "Computación y Robótica",
+        "Música",
+        "Oratoria y Debate",
     ],
     eso4: [
         "Educación Física",
@@ -100,13 +110,12 @@ const materiasAndalucia = {
         "Formación y Orientación Personal y Profesional",
         "Latín",
         "Música",
-        "Segunda Lengua Extranjera",
         "Tecnología",
         "Artes escénicas y Danza",
         "Cultura Científica",
         "Ampliación de Cultura Clásica",
         "Filosofía",
-        "Aprendizaje Social y Emocional"
+        "Aprendizaje Social y Emocional",
     ],
     bach1: [
 

@@ -1,0 +1,10 @@
+{
+  "competenciasEspecificas": [
+    "1. Comprender el impacto que la computación y la robótica tienen en nuestra sociedad y desarrollar el pensamiento computacional para realizar proyectos de construcción de sistemas digitales de forma sostenible. CCL3, STEM2, STEM3, CD1, CD4 , CPSAA1, CC4 y CE1.",
+    "2. Producir programas informáticos, colaborando en un equipo de trabajo y creando aplicaciones sencillas, mediante lenguaje de bloques, utilizando las principales estructuras de un lenguaje de programación para solventar un problema determinado o exhibir un comportamiento deseado. STEM1, STEM3, CD3, CD5, CPSAA3, CE3, CCEC3.",
+    "3. Diseñar y construir sistemas de computación físicos o robóticos sencillos, aplicando los conocimientos necesarios para desarrollar soluciones automatizadas a problemas planteados. STEM2, STEM3, STEM5, CD3, CD4, CD5, CC3, CE3.",
+    "4. Recopilar, almacenar y procesar datos, identificando patrones y descubriendo conexiones para resolver problemas mediante la Inteligencia Artificial entendiendo cómo nos ayuda a mejorar nuestra comprensión del mundo. STEM5, CD1, CD4, CPSAA5, CC3.",
+    "5. Utilizar y crear aplicaciones informáticas y web sencillas, entendiendo su funcionamiento interno, de forma segura, responsable y respetuosa, protegiendo la identidad online y la privacidad. STEM1, STEM3, CD5, CPSAA3, CPSAA4, CPSAA5, CC3, CE3.",
+    "6. Conocer y aplicar los principios de la ciberseguridad, adoptando hábitos y conductas de seguridad, para permitir la protección del individuo en su interacción en la red. STEM1, STEM3, CD1, CD4, CD5, CPSAA3, CC3, CCEC4."
+  ]
+}
