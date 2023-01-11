@@ -1,29 +1,34 @@
 {
-  "criteriosEvaluacion": [
-                        "1.1 Identificar y explicar la presencia de formas y relaciones geométricas en el arte y el diseño, comprendiendo el motivo o intencionalidad con la que se han utilizado.",
-                        "2.1 Diseñar patrones y mosaicos, aplicando las transformaciones geométricas al diseño de patrones y mosaicos.",
-                        "2.2 Diseñar formas creativas, empleando tangencias, enlaces y curvas cónicas.",
-                        "3.1 Dibujar, en las perspectivas isométrica y caballera, formas volumétricas incorporando curvas.",
-                        "3.2 Diseñar espacios o escenografías aplicando la perspectiva cónica, representando las luces y sombras de los objetos contenidos y reflexionando sobre el proceso realizado y el resultado obtenido.",
-                        "4.1 Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando de manera clara e inequívoca su forma y dimensiones mediante el uso de la normalización, aplicando estrategias y destrezas que agilicen el trabajo colaborativo.",
-                        "5.1 Realizar y presentar proyectos, aprovechando las posibilidades que las herramientas de dibujo vectorial aportan a los campos del diseño y el arte."
-                    ],
-                    "saberes": [
-                        "A. Geometría, arte y entorno.",
-                        "− Composiciones modulares en el diseño gráfico, de objetos y de espacios.",
-                        "− Geometría e ilusiones ópticas en el arte y el diseño.",
-                        "− Las curvas cónicas en la naturaleza, el entorno, el arte y el diseño.",
-                        "− La representación del espacio en el diseño y arte contemporáneo.",
-                        "− Transformaciones geométricas aplicadas a la creación de mosaicos y patrones. Trazado con y sin herramientas digitales.",
-                        "− Enlaces y tangencias. Aplicación en el diseño gráfico mediante trazado manual y digital.",
-                        "B. Sistemas de representación del espacio aplicado.",
-                        "− Representación de la circunferencia y de sólidos sencillos en perspectivas isométrica y caballera. Aplicación al diseño de formas tridimensionales.",
-                        "− Estructuras poliédricas. Los sólidos platónicos. Aplicación en la Arquitectura y el diseño.",
-                        "− Aplicaciones de la perspectiva cónica, frontal, oblicua y de cuadro inclinado, al diseño de espacios y objetos. Representación de luces y sombras.",
-                        "C. Normalización y diseño de proyectos.",
-                        "− Fases de un proyecto de diseño: del croquis al plano de taller.",
-                        "− Representación de objetos mediante sus vistas acotadas. Cortes, secciones y roturas.",
-                        "D. Herramientas digitales para el diseño.",
-                        "− Dibujo asistido por ordenador aplicado a proyectos de arte y diseño."
-                    ]
+    "criteriosEvaluacion": [
+        "1.1. Identificar y explicar la presencia de formas y relaciones geométricas en el arte y el diseño, comprendiendo el motivo o intencionalidad con la que se han utilizado.",
+        "2.1. Diseñar patrones y mosaicos, aplicando las transformaciones geométricas al diseño de patrones y mosaicos, mostrando interés por la precisión, claridad y limpieza.",
+        "2.2. Diseñar formas creativas, y producciones del campo de diseño gráfico, empleando formas geométricas, tangencias, enlaces y curvas cónicas, mostrando interés por la precisión, claridad y limpieza.",
+        "3.1. Dibujar, en las perspectivas isométrica y caballera, formas volumétricas incorporando curvas.",
+        "3.2. Diseñar espacios o escenografías aplicando la perspectiva cónica, representando las luces y sombras de los objetos contenidos y reflexionando sobre el proceso realizado y el resultado obtenido.",
+        "3.3. Emplear la proyecciones diédricas en los proyectos de diseño de objetos y espacios.",
+        "3.4. Realizar las producciones gráfico-plásticas seleccionando el procedimiento más adecuado, su rigor y precisión geométrica en función de finalidad de la representación.",
+        "4.1. Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando de manera clara e inequívoca su forma y dimensiones mediante el uso de la normalización, aplicando estrategias y destrezas que agilicen el trabajo colaborativo.",
+        "5.1. Realizar y presentar proyectos, aprovechando las posibilidades que las herramientas de dibujo vectorial aportan a los campos del diseño y el arte."
+    ],
+    "saberes": [
+        "A. Geometría, arte y entorno",
+        "DTAP.2.A.1. La representación del espacio en el diseño y arte contemporáneo. Referentes en el diseño y la arquitectura contemporánea en Andalucía.",
+        "DTAP.2.A.2. Geometría e ilusiones ópticas en el arte y el diseño.",
+        "DTAP.2.A.3. Los campos del diseño: diseño industrial, diseño arquitectónico, diseño gráfico, diseño decorativo, diseño de moda.",
+        "DTAP.2.A.4. Composiciones modulares en el diseño gráfico y decorativo, de objetos y de espacios. ",
+        "DTAP.2.A.5.Transformaciones geométricas aplicadas a la creación de mosaicos y patrones. Diseños modulares, ritmos decorativos y unidades ornamentales. Trazado con y sin herramientas digitales. La tracería de los diseños usados en el arte arábigo-andaluz",
+        "DTAP.2.A.6. La geometría como herramienta del diseño gráfico: síntesis y estilización, grados de iconicidad, aplicaciones en la señalética y pictogramas, símbolos, logotipos y tipografías.",
+        "DTAP.2.A.7. Enlaces y tangencias. Aplicación en el diseño gráfico mediante trazado manual y digital. ",
+        "DTAP.2.A.8. Las curvas cónicas en la naturaleza, el entorno, el arte y el diseño.",
+        "B. Sistemas de representación del espacio aplicado",
+        "DTAP.2.B.1. Representación de la circunferencia y de sólidos sencillos en perspectivas isométrica y caballera. Aplicación al diseño de formas tridimensionales.",
+        "DTAP.2.B.2. Estructuras poliédricas. Los sólidos platónicos. Aplicación en la Arquitectura y el diseño. ",
+        "DTAP.2.B.3. Aplicación de las vistas principales de la representación diédrica al diseño de espacios y objetos. ",
+        "DTAP.2.B.4. Aplicaciones de la perspectiva cónica, frontal, oblicua y de cuadro inclinado, al diseño de espacios y objetos. Representación de luces y sombras.",
+        "C. Normalización y diseño de proyectos",
+        "DTAP.2.C.1. Fases de un proyecto de diseño: del croquis al plano de taller.",
+        "DTAP.2.C.2. Representación de objetos mediante sus vistas acotadas. Normalización. Normas de acotación. Cortes, secciones y roturas.",
+        "D. Herramientas digitales para el diseño",
+        "DTAP.2.D.1. Dibujo asistido por ordenador aplicado a proyectos de arte y diseño."
+    ]
 }

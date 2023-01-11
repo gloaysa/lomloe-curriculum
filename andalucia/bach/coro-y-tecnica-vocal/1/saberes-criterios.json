@@ -1,34 +1,34 @@
 {
-  "criteriosEvaluacion": [
-          "1.1 Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena.",
-          "2.1 Realizar ejercicios e improvisaciones para el desarrollo de la escucha activa y de la capacidad vocal, aplicando técnicas vocales y corporales sanas, y reforzando la autoestima y la autoconfianza.",
-          "3.1 Participar como intérprete de coro, demostrando eficacia, escucha activa y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección.",
-          "4.1 Mostrar, en la actuación, una actitud escénica adecuada y respeto por el público.",
-          "4.2 Participar activamente en el montaje de proyectos escénicos con responsabilidad y conciencia de grupo."
-      ],
-      "saberes": [
-          "A. Análisis.",
-          "− Vocabulario específico.",
-          "− Estrategias de escucha activa.",
-          "− Características básicas de los estilos, géneros y culturas musicales seleccionados.",
-          "− Piezas vocales sencillas, de diferentes épocas y estilos del ámbito occidental, así como de otros ámbitos culturales y de origen popular.",
-          "B. Técnica vocal.",
-          "− Práctica de la relajación y la concentración.",
-          "− Cuidado de la voz y postura del cuerpo.",
-          "− Elementos de la producción vocal: respiración, emisión, articulación, resonancias y dinámica.",
-          "− Técnicas de expresión corporal. Relación de la emisión vocal y el movimiento.",
-          "− Ejercicios y vocalizaciones. Improvisaciones.",
-          "− El oído armónico y la afinación: entonación de intervalos melódicos y armónicos sencillos.",
-          "C. Práctica de conjunto.",
-          "− El sonido de conjunto: respiración, ataque, afinación, articulación, ritmo, fraseo y dinámica. Equilibrio entre voces y planos sonoros.",
-          "− Premisas para el desarrollo de la improvisación.",
-          "− La percusión corporal y otros diseños coreográficos.",
-          "− La lectura básica de partituras con notación convencional y no convencional.",
-          "− La memoria musical.",
-          "− Compromiso con los objetivos grupales.",
-          "− Indicaciones y gestos de la dirección coral.",
-          "− Repertorio de coro de diferentes épocas y estilos del ámbito occidental, así como de otros ámbitos culturales, de nivel básico, con o sin acompañamiento instrumental.",
-          "− El texto y su métrica como base de la articulación, la velocidad y la precisión rítmica.",
-          "− Actitud escénica y relación con el público."
-      ]
+    "criteriosEvaluacion": [
+        "1.1. Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena.",
+        "1.2. Valorar la influencia e importancia de la música vocal a lo largo de la historia y en la actualidad, analizando críticamente su relación con la cultura y la sociedad, prestando especial atención al de la comunidad andaluza.",
+        "2.1. Realizar ejercicios e improvisaciones sencillas para el desarrollo de la escucha activa y de la capacidad vocal, aplicando técnicas vocales y corporales sanas, y reforzando la autoestima y la autoconfianza.",
+        "2.2. Reconocer las intencionalidades de la práctica coral y el canto, tanto en la música de nuestra tradición occidental, en especial en la andaluza, como en la de otras culturas, distinguiendo y valorando las características de sus lenguajes.",
+        "3.1. Participar como intérprete de coro, demostrando eficacia, escucha activa y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección.",
+        "3.2. Conocer las diferentes técnicas interpretativas y utilizarlas en las creaciones individuales y grupales.",
+        "4.1. Mostrar, en la actuación, una actitud escénica adecuada y respeto por el público.",
+        "4.2. Participar creativa y activamente en el montaje de proyectos escénicos con responsabilidad y conciencia de grupo."
+    ],
+    "saberes": [
+        "A. Análisis",
+        "CORO.1.A.1. Vocabulario específico para el análisis de obras corales.",
+        "CORO.1.A.2. Estrategias de escucha activa de obras de diferentes estilos y géneros incluyendo obras propias del patrimonio musical andaluz.",
+        "CORO.1.A.3. Identificación auditiva de las características básicas de los estilos, géneros y culturas musicales seleccionados.",
+        "CORO.1.A.4. Análisis de audiciones o visionados del repertorio coral de diferentes épocas y estilos de la música culta occidental, así como de otros ámbitos culturales, prestando especial interés al repertorio andaluz, tanto culto como popular.",
+        "CORO.1.A.5. La relación texto-música. El texto a través del análisis fonético.",
+        "B. Técnica vocal",
+        "CORO.1.B.1. Práctica de la relajación y la concentración.",
+        "CORO.1.B.2. Técnicas para el cuidado de la voz y la postura del cuerpo.",
+        "CORO.1.B.3. Elementos de la producción vocal. El aparato de fonación: relajación, respiración, vocalización, dicción, articulación, emisión y control del sonido. Impostación.",
+        "CORO.1.B.4. Técnicas de expresión corporal. Relación de la emisión vocal y el movimiento. CORO.1.B.5. Práctica de ejercicios y vocalizaciones. Improvisaciones.",
+        "CORO.1.B.6. El oído armónico y la afinación: entonación de intervalos melódicos y armónicos sencillos. CORO.1.B.7. Valoración del silencio para una buena escucha e interpretación musical.",
+        "C. Práctica de conjunto",
+        "CORO.1.C.1.El sonido de conjunto: respiración, ataque, afinación, articulación, ritmo, fraseo y dinámica. Equilibrio entre voces y planos sonoros.",
+        "CORO.1.C.2. La improvisación vocal y corporal en el conjunto.",
+        "CORO.1.C.3. La percusión corporal y otros diseños coreográficos, como acompañamiento de la práctica coral. CORO.1.C.4. La memoria musical en la interpretación coral.",
+        "CORO.1.C.5. Los ensayos: finalidades y organización en la práctica coral. CORO.1.C.6. Indicaciones y gestos de la dirección coral.",
+        "CORO.1.C.7. Repertorio de coro de diferentes épocas y estilos del ámbito occidental, así como de otros ámbitos culturales, de nivel básico, con o sin acompañamiento instrumental y dando relevancia al de nuestra comunidad autónoma.",
+        "CORO.1.C.8. Actitud escénica y relación con el público.",
+        "CORO.1.C.9. Utilización de medios audiovisuales e informáticos para favorecer la interpretación y la escucha de las producciones propias."
+    ]
 }

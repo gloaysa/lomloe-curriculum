@@ -70,12 +70,8 @@ Currículos LOMLOE en archivos json
 * Andalucía 
   * Infantil - OK
   * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
-  * ESO - En progreso...
-    * Biología y Geología
-    * Digitalización
-    * Economía y emprendimiento
-    * Educación en valores cívicos y éticos
-  * Bachillerato
+  * ESO - OK
+  * Bachillerato - OK
 * Baleares
 * Canarias
 * Murcia

@@ -1,0 +1,7 @@
+{
+  "competenciasEspecificas": [
+    "1. Desarrollar el pensamiento computacional y cultivar la creatividad algorítmica y la interdisciplinaridad, así como desarrollar proyectos de construcción de software que cubran el ciclo de vida de desarrollo, integrándose en un equipo de trabajo fomentando habilidades como la capacidad de resolución de conflictos y de llegar a acuerdos. CCL1, CCL3, STEM3, CD2, CD3, CD5, CPSAA3.2, CPSAA4, CE3.",
+    "2. Comprender el impacto de las ciencias de la computación en nuestra sociedad y convertirse en ciudadanos con un alto nivel de alfabetización digital, que sepan emplear software específico para simulación de procesos y aplicar los principios de la Inteligencia Artificial en la creación de un agente inteligente, siendo conscientes y críticos con las implicaciones en la cesión del uso de los datos, la opacidad y el sesgo inherentes a aplicaciones basadas en las Ciencias de datos, la Simulación y la Inteligencia Artificial. CCL1, CCL3, STEM2, STEM3, STEM4, CD1, CPSAA4, CC4, CE1.",
+    "3. Entender el hacking ético como un conjunto de técnicas encaminadas a mejorar la seguridad de los sistemas informáticos y aplicarlas según sus fundamentos en base a las buenas prácticas establecidas. CCL1, STEM2, STEM4, CD4, CPSAA4."
+  ]
+}
