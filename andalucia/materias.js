@@ -6,7 +6,7 @@ const materiasAndalucia = {
         "Educación Física",
         "Lengua Castellana y Literatura",
         "Matemáticas",
-        "Primera Lengua Extranjera",
+        "Lengua Extranjera",
 
     ],
     ep2: [
@@ -15,7 +15,7 @@ const materiasAndalucia = {
         "Educación Física",
         "Lengua Castellana y Literatura",
         "Matemáticas",
-        "Primera Lengua Extranjera",
+        "Lengua Extranjera",
     ],
     ep3: [
         "Conocimiento del Medio Natural, Social y Cultural",
@@ -23,7 +23,7 @@ const materiasAndalucia = {
         "Educación Física",
         "Lengua Castellana y Literatura",
         "Matemáticas",
-        "Primera Lengua Extranjera",
+        "Lengua Extranjera",
     ],
     ep4: [
         "Conocimiento del Medio Natural, Social y Cultural",
@@ -31,7 +31,7 @@ const materiasAndalucia = {
         "Educación Física",
         "Lengua Castellana y Literatura",
         "Matemáticas",
-        "Primera Lengua Extranjera",
+        "Lengua Extranjera",
     ],
     ep5: [
         "Conocimiento del Medio Natural, Social y Cultural",
@@ -40,7 +40,7 @@ const materiasAndalucia = {
         "Educación Física",
         "Lengua Castellana y Literatura",
         "Matemáticas",
-        "Primera Lengua Extranjera",
+        "Lengua Extranjera",
     ],
     ep6: [
         "Conocimiento del Medio Natural, Social y Cultural",
@@ -49,7 +49,7 @@ const materiasAndalucia = {
         "Educación Física",
         "Lengua Castellana y Literatura",
         "Matemáticas",
-        "Primera Lengua Extranjera",
+        "Lengua Extranjera",
     ],
     eso1: [
         "Biología y Geología",
@@ -61,7 +61,7 @@ const materiasAndalucia = {
         "Matemáticas",
         "Música",
         "Oratoria y Debate",
-        "Primera Lengua Extranjera",
+        "Lengua Extranjera",
 
     ],
     eso2: [
@@ -76,12 +76,12 @@ const materiasAndalucia = {
         "Matemáticas",
         "Música",
         "Oratoria y Debate",
-        "Primera Lengua Extranjera",
+        "Lengua Extranjera",
         "Tecnología y Digitalización",
         "Valores Cívicos y Éticos",
     ],
-    eso3: ['Biología y Geología', 'Computación y Robótica', 'Cultura Clásica', 'Educación Física', 'Educación Plástica, Visual y Audiovisual', 'Física y Química', 'Geografía e Historia', 'Lengua Castellana y Literatura', 'Matemáticas', 'Música', 'Oratoria y Debate', 'Primera Lengua Extranjera', 'Tecnología y Digitalización'],
-    eso4: ['Ampliación de Cultura Clásica', 'Aprendizaje Social y Emocional', 'Artes escénicas y Danza', 'Biología y Geología', 'Cultura Científica', 'Digitalización', 'Economía y Emprendimiento', 'Educación Física', 'Expresión Artística', 'Filosofía', 'Formación y Orientación Personal y Profesional', 'Física y Química', 'Geografía e Historia', 'Latín', 'Lengua Castellana y Literatura', 'Matemáticas A', 'Matemáticas B', 'Música', 'Primera Lengua Extranjera', 'Tecnología'],
+    eso3: ['Biología y Geología', 'Computación y Robótica', 'Cultura Clásica', 'Educación Física', 'Educación Plástica, Visual y Audiovisual', 'Física y Química', 'Geografía e Historia', 'Lengua Castellana y Literatura', 'Matemáticas', 'Música', 'Oratoria y Debate', 'Lengua Extranjera', 'Tecnología y Digitalización'],
+    eso4: ['Ampliación de Cultura Clásica', 'Aprendizaje Social y Emocional', 'Artes escénicas y Danza', 'Biología y Geología', 'Cultura Científica', 'Digitalización', 'Economía y Emprendimiento', 'Educación Física', 'Expresión Artística', 'Filosofía', 'Formación y Orientación Personal y Profesional', 'Física y Química', 'Geografía e Historia', 'Latín', 'Lengua Castellana y Literatura', 'Matemáticas A', 'Matemáticas B', 'Música', 'Lengua Extranjera', 'Tecnología'],
     bach1: ['Análisis Musical', 'Artes Escénicas', 'Biología, Geología y Ciencias Ambientales', 'Coro y Técnica Vocal', 'Cultura Audiovisual', 'Dibujo Artístico', 'Dibujo Técnico', 'Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño', 'Economía', 'Economía, Emprendimiento y Actividad Empresarial ', 'Educación Física', 'Filosofía', 'Física y Química', 'Griego', 'Historia del Mundo Contemporáneo', 'Latín', 'Lengua Castellana y Literatura', 'Lengua Extranjera', 'Lenguaje y Práctica Musical', 'Literatura Universal', 'Matemáticas', 'Matemáticas Aplicadas a las Ciencias Sociales', 'Matemáticas Generales ', 'Proyectos Artísticos', 'Tecnología e Ingeniería', 'Volumen'],
     bach2: ['Análisis Musical', 'Artes Escénicas', 'Biología', 'Ciencias Generales ', 'Coro y Técnica Vocal', 'Dibujo Artístico', 'Dibujo Técnico', 'Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño', 'Diseño', 'Empresa y Diseño de Modelos de Negocio', 'Fundamentos Artísticos', 'Física', 'Geografía', 'Geología y Ciencias Ambientales', 'Griego', 'Historia de España', 'Historia de la Filosofía', 'Historia de la Música y de la Danza', 'Historia del Arte', 'Latín', 'Lengua Castellana y Literatura', 'Lengua Extranjera', 'Literatura Dramática', 'Matemáticas', 'Matemáticas Aplicadas a las Ciencias Sociales', 'Movimientos Culturales y Artísticos ', 'Química', 'Tecnología e Ingeniería', 'Técnicas de Expresión Gráfico-plástica'],
 }
