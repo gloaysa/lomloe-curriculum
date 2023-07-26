@@ -1,29 +1,33 @@
 {
-  "criteriosEvaluacion": [
-                        "1.1 Identificar los elementos que constituyen una obra musical y su función dentro de la composición a través de la escucha activa y con apoyo de la partitura.",
-                        "1.2 Describir las características musicales básicas de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos.",
-                        "2.1 Analizar, de forma guiada, obras musicales, identificando la estructura formal y los procedimientos compositivos utilizados.",
-                        "2.2 Asociar las obras analizadas con su contexto de creación, investigando sobre su autor o autora y su época.",
-                        "3.1 Expresar una opinión propia, informada y fundamentada, sobre las obras analizadas, utilizando un vocabulario musical adecuado.",
-                        "3.2 Publicar reseñas musicales en los medios disponibles, analógicos y digitales, respetando los derechos de autor y la propiedad intelectual.",
-                        "4.1 Reproducir patrones melódicos, rítmicos, armónicos y formales de obras analizadas, aplicando estrategias de memorización y utilizando la interpretación vocal, corporal o instrumental en proyectos musicales grupales.",
-                        "4.2 Generar nuevas ideas musicales, combinando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interiorizados.",
-                        "4.3 Utilizar, de forma guiada, las tecnologías digitales en la composición musical.",
-                        "5.1 Identificar las funciones que cumple la música cuando se asocia con otras formas de expresión (cine, teatro, danza…), analizando sus características y el efecto que genera en el espectador."
-                    ],
-                    "saberes": [
-                        "A. Iniciación al análisis musical.",
-                        "− La escucha activa y el estudio de partituras como soportes para el análisis.",
-                        "− Elementos básicos de la música y la relación entre ellos: ritmo, tempo, melodía, armonía, textura, timbre, dinámica y agógica.",
-                        "− Técnicas de análisis auditivo de obras de diferentes estilos y géneros.",
-                        "− Estrategias de análisis de los elementos musicales de la partitura con apoyo de la audición.",
-                        "− Reseñas musicales.",
-                        "− Recursos digitales para la investigación, la composición y la difusión musical.",
-                        "− Derechos de autor y propiedad intelectual.",
-                        "B. La forma musical.",
-                        "− Elementos estructurales: célula, motivo, frase y semifrase, período, sección y movimiento. Ritmo melódico y armónico. Cadencias.",
-                        "− Formas simples, formas compuestas y libres. Formas-tipo. Representación de esquemas formales.",
-                        "− Procedimientos compositivos fundamentales: repetición, variación, contraste y desarrollo.",
-                        "− Función de la música en combinación con otras manifestaciones artísticas."
-                    ]
+    "criteriosEvaluacion": [
+        "1.1. Identificar los elementos que constituyen una obra musical y su función a través de la escucha activa y con apoyo de la partitura y el placer estético de la escucha.",
+        "1.2. Describir los elementos técnicos básicos y las estructuras formales más características de distintas composiciones musicales, a través del análisis de obras diversas, mostrando actitud de respeto hacia las opiniones ajenas.",
+        "2.1. Analizar, de forma guiada, obras musicales identificando la estructura formal y los procedimientos compositivos utilizados apoyándose en distintos medios y soportes.",
+        "2.2. Asociar las obras analizadas con su contexto de creación, mediante procesos de investigación individual y grupal sobre su autoría y su época, seleccionando la información de fuentes fiables y utilizando el lenguaje técnico adecuado.",
+        "3.1. Expresar libremente y con actitud abierta las impresiones y sentimientos producidos por la música escuchada, utilizando argumentos que muestren el desarrollo del pensamiento crítico, y estableciendo un vínculo con otras manifestaciones artísticas.",
+        "3.2. Participar en proyectos de difusión cultural analógicos y/o digitales, colaborando como analistas críticos y respetando los derechos de autoría y la propiedad intelectual.",
+        "4.1. Reproducir a través de la interpretación vocal, corporal o instrumental determinados modelos musicales previamente analizados, interiorizando su estructura a través de su percepción físico-motriz y sonora y aplicando estrategias de memorización.",
+        "4.2. Improvisar breves estructuras y creaciones musicales partiendo del conocimiento y análisis de sus elementos fundamentales.",
+        "4.3. Utilizar las tecnologías digitales en la composición musical de manera crítica, segura y responsable.",
+        "5.1. Identificar las funciones que cumple la música cuando se asocia con otras formas de expresión (cine, teatro, danza…), analizando sus características y el efecto que genera en el espectador."
+    ],
+    "saberes": [
+        "Bloque A. Iniciación al análisis musical.",
+        "La partitura y la escucha activa como soportes del análisis musical.",
+        "Elementos básicos de una propuesta musical y la relación entre ellos: ritmo, melodía, armonía dinámica, agógica, textura",
+        "e instrumentación.",
+        "Estrategias de análisis auditivo de propuestas musicales representativas de diferentes épocas, estilos y géneros.",
+        "Recursos digitales y aplicaciones musicales para la investigación, composición, difusión y elaboración de proyectos.",
+        "Comentarios, reflexiones orales y reseñas musicales.",
+        "Derechos de autoría y propiedad intelectual.",
+        "Uso crítico, sostenible y responsable de las herramientas digitales.",
+        "Empatía y valoración de diferentes puntos de vista.",
+        "Bloque B. La forma musical.",
+        "Estrategias de identificación de los elementos básicos de la forma musical.",
+        "Principios compositivos fundamentales: repetición, variación, secuencia, contraste y desarrollo.",
+        "Clasificación y tipologías formales: formas simples, compuestas y libres.",
+        "Función de la música en combinación con otras manifestaciones artísticas.",
+        "Promoción de actitudes inclusivas y aceptación de la diversidad cultural.",
+        "Propuestas musicales creativas en combinación con otras artes."
+    ]
 }

@@ -1,0 +1,41 @@
+{
+  "saberes": [
+    "A. Proceso de resolución de problemas.",
+    "Procesos de resolución de problemas: estrategias, técnicas y fases.",
+    "Análisis de productos y de sistemas tecnológicos.",
+    "Sistemas mecánicos y eléctricos básicos. Montajes físicos simples.",
+    "Herramientas y técnicas de manipulación y mecanizado.",
+    "Respeto de las normas de seguridad e higiene.",
+    "Tecnología sostenible. Valoración crítica de la contribución a la consecución de los Objetivos de Desarrollo Sostenible.",
+    "B. Comunicación y difusión de ideas.",
+    "Aplicaciones CAD en 2 y 3D para la representación de planos y objetos.",
+    "Herramientas digitales para la elaboración, publicación y difusión de documentación técnica. Vocabulario técnico apropiado.",
+    "C. Pensamiento computacional.",
+    "Introducción al pensamiento computacional.",
+    "Algoritmos sencillos.",
+    "Programación por bloques.",
+    "D. Digitalización del entorno personal de aprendizaje.",
+    "Dispositivos digitales. Elementos del hardware y software. Uso seguro. Identidad digital.",
+    "Herramientas y plataformas de aprendizaje. Configuración, mantenimiento y uso crítico.",
+    "Herramientas de edición y creación de contenidos. Uso responsable y técnicas de tratamiento, organización y almacenamiento seguro de la información.",
+    "E. Sentido socioemocional",
+    "Fomento de la curiosidad, la iniciativa y la perseverancia hacia la resolución de los problemas tecnológicos, reconociendo las emociones que intervienen en el aprendizaje.",
+    "Técnicas cooperativas para optimizar el trabajo en equipo. Uso de conductas empáticas y estrategias para la gestión de conflictos.",
+    "Promoción de actitudes inclusivas y aceptación de la diversidad presente en el aula y en la sociedad."
+  ],
+  "criteriosEvaluacion": [
+    "1.1. Idear y diseñar soluciones sencillas a problemas definidos, aplicando conceptos, técnicas y procedimientos interdisciplinares con una actitud constructiva.",
+    "1.2. Seleccionar, planificar y organizar los materiales y herramientas, así como las tareas necesarias para la construcción de una solución a un problema planteado, trabajando individualmente o en grupo de manera cooperativa y respetuosa con los demás participantes.",
+    "2.1. Definir problemas o necesidades planteadas, buscando y contrastando información procedente de diferentes fuentes de manera crítica y segura, evaluando su fiabilidad y pertinencia.",
+    "2.2. Fabricar objetos o modelos mediante la manipulación y conformación de materiales, empleando herramientas y máquinas adecuadas, aplicando los fundamentos de estructuras, mecanismos y electricidad y respetando las normas de seguridad y salud.",
+    "3.1. Representar y comunicar el proceso de creación de un producto desde su diseño hasta su difusión, elaborando documentación técnica con la ayuda de herramientas digitales, empleando los formatos y el vocabulario técnico adecuados.",
+    "4.1. Interpretar y diseñar soluciones a problemas informáticos básicos a través de algoritmos y diagramas de flujo, aplicando los elementos y técnicas de programación adecuados.",
+    "4.2. Programar algoritmos sencillos empleando los elementos de programación por bloques de manera apropiada y utilizando herramientas de edición.",
+    "5.1. Hacer un uso eficiente y seguro de los dispositivos digitales de uso cotidiano en la resolución de problemas sencillos adoptando medidas para la protección de datos y equipos.",
+    "5.2. Crear contenidos y elaborar materiales configurando correctamente las herramientas digitales habituales del entorno de aprendizaje, ajustándolas a sus necesidades y respetando los derechos de autor.",
+    "5.3. Organizar la información de manera estructurada, aplicando técnicas de almacenamiento seguro.",
+    "6.1. Gestionar las emociones propias y mostrar una actitud positiva al hacer frente a las diferentes situaciones de aprendizaje de las tecnologías.",
+    "6.2. Colaborar activamente y construir relaciones positivas en el trabajo en equipo, comunicándose de manera efectiva, pensando de forma crítica y creativa, y tomando decisiones y juicios informados.",
+    "6.3. Participar en el reparto de tareas que deban desarrollarse en equipo, favoreciendo la inclusión, la escucha activa y el empoderamiento de las mujeres, asumiendo el rol asignado y responsabilizándose de la propia contribución al grupo."
+  ]
+}

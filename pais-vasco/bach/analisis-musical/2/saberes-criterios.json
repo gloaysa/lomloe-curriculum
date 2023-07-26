@@ -1,28 +1,33 @@
 {
-  "criteriosEvaluacion": [
-                        "1.1 Describir las características musicales de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos y la función que estos cumplen dentro de la composición",
-                        "1.2 Comparar los elementos constitutivos y las características musicales de diferentes obras, estableciendo analogías y diferencias entre ellas, a partir de la escucha activa y del estudio de partituras.",
-                        "2.1 Distinguir los principales géneros y estilos musicales que se desarrollan en la historia, analizando los factores que inciden en la evolución de las formas musicales.",
-                        "2.2 Asociar las obras analizadas con un género, un estilo y un contexto de creación determinados, identificando, de forma autónoma, la estructura formal y los procedimientos compositivos utilizados.",
-                        "3.1 Expresar juicios personales sobre las obras analizadas, argumentando la opinión propia y utilizando una terminología musical adecuada.",
-                        "3.2 Justificar la opinión propia sobre las obras analizadas, investigando y seleccionando la información más pertinente a partir de medios analógicos y digitales.",
-                        "3.3 Publicar críticas musicales y comentarios propios en los medios disponibles, analógicos y digitales, respetando los derechos de autor y la propiedad intelectual.",
-                        "4.1 Realizar improvisaciones sencillas o pequeñas composiciones, en proyectos musicales grupales, utilizando los procedimientos compositivos fundamentales y aplicando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interiorizados.",
-                        "4.2 Utilizar, de forma eficaz, las tecnologías digitales en la composición musical.",
-                        "5.1 Analizar los usos terapéuticos de la música y cómo inciden determinados rasgos musicales en la salud y las emociones, a partir de la información obtenida en fuentes de información fiables.",
-                        "5.2 Describir las características de la música que se utiliza con fines terapéuticos, analizando ejemplos de obras y relacionando sus rasgos con posibles efectos en el oyente."   
-                    ],
-                    "saberes": [
-                        "A. Técnicas de análisis musical.",
-                        "− La comparación como técnica analítica.",
-                        "− Técnicas de análisis de audición y de partituras.",
-                        "− Técnicas para el análisis del contexto de creación. El pensamiento de la persona creadora, los condicionantes contextuales y la interpretación de la obra.",
-                        "− Comentarios y críticas musicales.",
-                        "− Recursos digitales para la investigación, la composición y la difusión musical.",
-                        "− Derechos de autor y propiedad intelectual.",
-                        "B. Géneros musicales.",
-                        "− Las características sonoras y estilísticas de la música desde la Edad Media hasta la actualidad. Evolución organológica.",
-                        "− Las formas y los géneros musicales desde la Edad Media hasta la actualidad.",
-                        "− Uso de la música con fines terapéuticos."
-                    ]
+    "criteriosEvaluacion": [
+        "1.1. Describir las características musicales de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos y la función que estos cumplen dentro de la composición con una actitud abierta y respetuosa.",
+        "1.2. Comparar los elementos constitutivos y las características de varias propuestas musicales, estableciendo analogías y diferencias entre ellas y respetando la diversidad cultural.",
+        "2.1. Identificar las características formales, compositivas y estilísticas de los principales géneros musicales a lo largo de la historia, basándose en el análisis de sus elementos técnicos y de la estructura formal, con actitud abierta y valorando su importancia desde el punto de vista estético.",
+        "2.2. Vincular las obras analizadas con un género, un estilo y un contexto de creación determinados, identificando de forma autónoma la estructura formal, los procedimientos compositivos utilizados y la intencionalidad artística.",
+        "3.1. Expresar juicios personales sobre las obras analizadas utilizando una terminología musical adecuada, con actitud reflexiva y respetuosa hacia las opiniones ajenas.",
+        "3.2. Justificar la opinión propia sobre las obras analizadas, apoyándose en la investigación, selección y tratamiento de la información más pertinente a partir de medios analógicos y digitales.",
+        "3.3. Elaborar y difundir críticas musicales y comentarios propios, tanto por medios analógicos como digitales, basándose en argumentos y criterios musicales adecuados, respetando los derechos de autoría y la propiedad intelectual.",
+        "4.1. Aplicar con creatividad los diferentes elementos que constituyen una obra musical como base para composiciones, utilizando patrones melódicos, rítmicos, armónicos y formales y procedimientos compositivos fundamentales.",
+        "4.2. Experimentar grupalmente con los diferentes usos del lenguaje artístico a través de improvisaciones demostrando empatía y colaboración.",
+        "4.3. Usar de forma eficaz diferentes métodos y técnicas aplicados al análisis musical con la ayuda de herramientas tecnológicas, demostrando autonomía para contribuir en la difusión, divulgación y apreciación del patrimonio musical.",
+        "5.1. Analizar los usos terapéuticos de la música y cómo inciden determinados rasgos musicales en la salud y las emociones, a partir de la información obtenida en fuentes de información fiables.",
+        "5.2. Describir las características de la música que se utiliza con fines terapéuticos, analizando ejemplos de obras y relacionando sus rasgos con posibles efectos en el oyente."
+    ],
+    "saberes": [
+        "Bloque A. Técnicas de análisis musical.",
+        "La comparación como técnica analítica.",
+        "Técnicas de análisis de audición y de partituras.",
+        "Técnicas para el análisis del contexto de creación. Pensamiento de la persona creadora, condicionantes contextuales e interpretación de la obra.",
+        "Comentarios, reflexiones orales y críticas musicales.",
+        "Recursos digitales para la investigación, la composición y la difusión musical.",
+        "Derechos de autoría y propiedad intelectual.",
+        "Actitud crítica, ética y responsable de la cultura digital.",
+        "Bloque B. Géneros musicales.",
+        "Características sonoras y estilísticas de la música desde la Edad Media hasta la actualidad.",
+        "Formas y géneros musicales desde la Edad Media hasta la actualidad.",
+        "Uso de la música con fines terapéuticos.",
+        "Evolución organológica y utilización de las principales familias instrumentales dentro de la orquesta.",
+        "Participación activa y responsable en el trabajo en grupo superando estereotipos que supongan discriminación.",
+        "Efectos de la música en la salud y en las emociones."
+    ]
 }
