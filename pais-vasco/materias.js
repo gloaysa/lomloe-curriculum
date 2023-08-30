@@ -187,6 +187,7 @@ const materiasRioja = {
         'Primera Lengua Extranjera', 
         'Química', 
         'Segunda Lengua Extranjera', 
-        'Técnicas de Expresión Gráfico-plástica'],
+        'Técnicas de Expresión Gráfico-plástica',
         'Tecnología e Ingeniería', 
+    ]
 }

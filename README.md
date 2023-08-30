@@ -72,10 +72,15 @@ Currículos LOMLOE en archivos json
   * Primaria - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
   * ESO - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
   * Bachillerato - OK | Contenidos, Competencias específicas y Criterios de evaluación de Primera lengua extranjera en inglés
+* País Vasco
+  * Infantil - OK
+  * Primaria - OK
+  * ESO - OK
+  * Bachillerato - OK
+
 * Baleares
 * Canarias
 * Murcia
-* País Vasco
 
 
 Acceso a los currículos autonómicos: https://educagob.educacionyfp.gob.es/curriculo/curriculo-lomloe/curriculos-ccaa.html
