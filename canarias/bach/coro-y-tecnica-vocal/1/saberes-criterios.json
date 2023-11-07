@@ -1,34 +1,36 @@
 {
-  "criteriosEvaluacion": [
-          "1.1 Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena.",
-          "2.1 Realizar ejercicios e improvisaciones para el desarrollo de la escucha activa y de la capacidad vocal, aplicando técnicas vocales y corporales sanas, y reforzando la autoestima y la autoconfianza.",
-          "3.1 Participar como intérprete de coro, demostrando eficacia, escucha activa y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección.",
-          "4.1 Mostrar, en la actuación, una actitud escénica adecuada y respeto por el público.",
-          "4.2 Participar activamente en el montaje de proyectos escénicos con responsabilidad y conciencia de grupo."
-      ],
-      "saberes": [
-          "A. Análisis.",
-          "− Vocabulario específico.",
-          "− Estrategias de escucha activa.",
-          "− Características básicas de los estilos, géneros y culturas musicales seleccionados.",
-          "− Piezas vocales sencillas, de diferentes épocas y estilos del ámbito occidental, así como de otros ámbitos culturales y de origen popular.",
-          "B. Técnica vocal.",
-          "− Práctica de la relajación y la concentración.",
-          "− Cuidado de la voz y postura del cuerpo.",
-          "− Elementos de la producción vocal: respiración, emisión, articulación, resonancias y dinámica.",
-          "− Técnicas de expresión corporal. Relación de la emisión vocal y el movimiento.",
-          "− Ejercicios y vocalizaciones. Improvisaciones.",
-          "− El oído armónico y la afinación: entonación de intervalos melódicos y armónicos sencillos.",
-          "C. Práctica de conjunto.",
-          "− El sonido de conjunto: respiración, ataque, afinación, articulación, ritmo, fraseo y dinámica. Equilibrio entre voces y planos sonoros.",
-          "− Premisas para el desarrollo de la improvisación.",
-          "− La percusión corporal y otros diseños coreográficos.",
-          "− La lectura básica de partituras con notación convencional y no convencional.",
-          "− La memoria musical.",
-          "− Compromiso con los objetivos grupales.",
-          "− Indicaciones y gestos de la dirección coral.",
-          "− Repertorio de coro de diferentes épocas y estilos del ámbito occidental, así como de otros ámbitos culturales, de nivel básico, con o sin acompañamiento instrumental.",
-          "− El texto y su métrica como base de la articulación, la velocidad y la precisión rítmica.",
-          "− Actitud escénica y relación con el público."
-      ]
+    "criteriosEvaluacion": [
+        "1.1. Analizar piezas vocales sencillas de distintos géneros y culturas, con especial atención a las de Canarias, a través de la audición y el visionado activo, explicando sus cualidades estilísticas básicas, así como otras características de la interpretación y de la puesta en escena, para aplicarlo a producciones propias y desarrollar el criterio estético. CCL1, CCL2, CP3, CPSAA1.1, CCEC1, CCEC2, CCEC3.1",
+        "2.1. Adquirir y aplicar técnicas vocales y corporales, a través de la realización de ejercicios, vocalizaciones e improvisaciones en grupo, cuidando el empleo adecuado y saludable de la voz y el cuerpo, para potenciar la autoconfianza, la autoestima y el autoconocimiento. CPSAA2, CPSAA3.1, CC2, CE2, CCEC3.1, CCEC3.2",
+        "3.1. Interpretar piezas de diferentes estilos y géneros musicales, con especial atención al repertorio producido en Canarias, a través de la participación en distintas formaciones vocales, demostrando eficacia, escucha activa y una expresión vocal y corporal adecuada al conjunto y a las pautas de la dirección, para desarrollar los valores inherentes a la práctica musical grupal y potenciar la comunicación artística. CCL1, CP1, CP3, CPSAA1.1, CPSAA3.1, CCEC3.1, CCEC3.2",
+        "4.1. Participar en la planificación, montaje e interpretación de proyectos escénicos, apoyándose en la tecnología digital, con responsabilidad y conciencia de grupo, y mostrando en la actuación una actitud escénica adecuada y respeto por el público, para favorecer el crecimiento personal, social, académico y profesional. CCL5, CD2, CD3, CPSAA1.1, CPSAA1.2, CE3, CCEC3.1, CCEC4.1, CCEC4.2"
+    ],
+    "saberes": [
+        "I. Análisis",
+        "1. Aplicación de estrategias de escucha activa en el análisis y la interpretación musical.",
+        "2. Análisis de los recursos interpretativos y escénicos de piezas vocales y aplicación en las producciones propias.",
+        "3. Análisis y descripción de las características básicas de piezas vocales sencillas de diferentes épocas y estilos de la música culta occidental, con grado de dificultad acorde al nivel.",
+        "4. Análisis y descripción de las características básicas de piezas vocales sencillas tradicionales de distintas culturas, con grado de dificultad acorde al nivel.",
+        "5. Análisis y descripción de las características básicas de piezas vocales sencillas de la música popular, con especial atención a las músicas urbanas y contemporáneas, con grado de dificultad acorde al nivel.",
+        "6. Análisis y descripción de las características de piezas vocales de la música culta, tradicional y popular, urbana y contemporánea, producida en Canarias, con grado de dificultad acorde al nivel.",
+        "7. Análisis con perspectiva de género. Visibilización de la producción de mujeres compositoras, intérpretes femeninas y directoras de agrupaciones vocales, así como de referentes femeninos del patrimonio canario.",
+        "8. Aplicación del análisis del texto y su métrica como base de la articulación, la velocidad y la precisión rítmica.",
+        "II. Técnica vocal",
+        "1. Práctica de la relajación y la concentración en los ejercicios e interpretaciones vocales.",
+        "2. Práctica de los elementos de la producción vocal: respiración, emisión, articulación, resonancia y dinámica.",
+        "3. Realización de ejercicios, vocalizaciones e improvisaciones en grupo.",
+        "4. Adquisición y aplicación de técnicas vocales y de expresión corporal en la interpretación. Relación de la emisión vocal y el movimiento.",
+        "5. Adquisición de hábitos saludables en la práctica vocal: cuidado de la voz y postura del cuerpo.",
+        "6. Desarrollo del oído armónico y la afinación: entonación de intervalos melódicos y armónicos sencillos.",
+        "III. Práctica de conjunto",
+        "1. Interpretación de un repertorio de piezas corales, con grado de dificultad acorde al nivel, de diferentes épocas y estilos del ámbito occidental, así como de otros ámbitos culturales, con especial atención a las de Canarias, con o sin acompañamiento instrumental.",
+        "2. Visibilización de la producción musical de las mujeres, compositoras e intérpretes femeninas, en el repertorio seleccionado.",
+        "3. Búsqueda de sonido del conjunto en la práctica coral: respiración, ataque, afinación, articulación, ritmo, fraseo y dinámica. Equilibrio entre las voces y los planos sonoros.",
+        "4. Aplicación de la lectura básica de partituras, con notación convencional y no convencional, en el aprendizaje e interpretación de piezas vocales.",
+        "5. Aplicación de estrategias de memorización en el aprendizaje de piezas vocales.",
+        "6. Incorporación de la percusión corporal y otros diseños coreográficos a la práctica vocal de conjunto.",
+        "7. Adecuación de la interpretación a las indicaciones y gestos de la dirección coral.",
+        "8. Desarrollo de actitudes y valores inherentes a la práctica de conjunto: actitud escénica adecuada, respeto por el público y compromiso con los objetivos grupales.",
+        "9. Empleo de las herramientas digitales en proyectos escénicos."
+    ]
 }

@@ -1,0 +1,35 @@
+{
+    "criteriosEvaluacion": [
+        "1.1. Identificar la anatomía del sistema locomotor desde un punto de vista funcional para poder comprender las distintas posibilidades de movimiento y control corporal. CCL2, STEM2, CPSAA5",
+        "1.2. Comprender, aplicar y valorar los mecanismos de percepción, decisión y ejecución desarrollando retos motores para explorar el sistema locomotor desde un punto de vista anatómico. CCL2, STEM2, CPSAA5",
+        "2.1. Evaluar y reflexionar sobre los niveles de condición física, asociándolo a las características individuales, para entender los cambios anatómicos y fisiológicos que se producen en el organismo derivados de la actividad física, contrastándolo con distintas fuentes de información. CCL3, STEM5, CD3, CPSAA4",
+        "2.2. Identificar y relacionar las principales vías metabólicas con los distintos niveles de intensidad y tiempo de actividad motriz, integrando conocimientos y procesos, para comprender el funcionamiento del organismo desde un punto de vista metabólico. CCL3, STEM5, CD3, CPSAA4",
+        "2.3. Conocer e identificar los principios de nutrición e hidratación, fatiga y descanso relacionándolos con la regulación del metabolismo para transferir dichos aprendizajes a la vida. CCL3, STEM5, CD3, CPSAA4",
+        "3.1. Analizar la acción motriz desde un punto de vista biomecánico, comprendiendo los distintos tipos de articulaciones y movimientos que pudieran estar asociados a la práctica para una ejecución precisa, eficaz y económica. CPSAA4, CE2, CE3",
+        "3.2. Explorar y vivenciar los planos y ejes de movimiento, para valorar la amplitud de movimiento articular, las palancas y las cadenas cinéticas necesarias en la práctica motriz, experimentando distintas posibilidades de movimiento además de los recursos expresivos del cuerpo. CPSAA4, CE2, CE3, CCEC4.2",
+        "3.3. Reconocer los hábitos adecuados de salud postural y de actividad física, identificando los riesgos para desarrollar una vida activa y saludable que minimice las posibles lesiones. CPSAA4, CE2, CE3",
+        "4.1. Aplicar los aprendizajes vinculándolos con un objetivo personal relacionado con la materia, para comprender de manera significativa los aprendizajes adquiridos. STEM3, STEM5, CPSAA1.2, CPSAA2, CC4, CE1"
+    ],
+    "saberes": [
+        "I. Bases de anatomía humana aplicada",
+        "    1. Análisis e identificación del sistema locomotor humano y su aplicación al movimiento.",
+        "    2. Identificación de los principales huesos y articulaciones. Sistema esquelético.",
+        "    3. Identificación de los principales músculos y su función. Sistema muscular.",
+        "    4. Valoración y comprensión de la relación sistema locomotor y sistema nervioso. Comprensión y aplicación de los mecanismos de percepción, decisión y ejecución de las acciones motrices.",
+        "II. Fisiología aplicada al cuerpo humano",
+        "    1. Conocimiento y valoración de los condicionantes fisiológicos de la actividad física.",
+        "    2. Evaluación de los niveles de condición física, identificando los cambios anatómicos y fisiológicos derivados de una práctica motriz continuada.",
+        "    3. Relación y ajustes del sistema cardiovascular y respiratorio con el movimiento humano. Intensidad y continuidad.",
+        "    4. Conocimiento e identificación de los procesos metabólicos en la práctica de actividad física. Características de la actividad física y principales vías metabólicas utilizadas.",
+        "    5. Identificación y experimentación de los metabolismos energéticos aeróbicos y anaeróbicos.",
+        "    6. Conocimiento e identificación del entrenamiento invisible: principios de nutrición e hidratación, fatiga y descanso.",
+        "III. Biomecánica aplicada al cuerpo humano",
+        "    1. Análisis y aplicación de la acción motriz desde un punto de vista biomecánico.",
+        "    2. Valoración de la amplitud de movimiento articular desde la acción motriz.",
+        "    3. Análisis, identificación y exploración de los planos y ejes de movimiento.",
+        "    4. Análisis y desarrollo de los diferentes tipos de palancas y sus posibilidades en la práctica motriz.",
+        "    5. Exploración de las cadenas cinéticas cerradas y abiertas y sus posibilidades de movimiento y control corporal.",
+        "    6. Prevención, cuidado y pautas de actuación seguras en prácticas motrices: salud postural y lesiones más comunes.",
+        "    7. Experimentación de las posibilidades de movimiento en los recursos expresivos del cuerpo."
+    ]
+}

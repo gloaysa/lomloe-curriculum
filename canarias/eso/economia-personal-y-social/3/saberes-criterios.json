@@ -1,0 +1,43 @@
+{
+  "saberes": [
+    "I. Introducción a la economía",
+    "1. Valoración de la Economía como ciencia social.",
+    "2. Explicación de las relaciones económicas básicas. ",
+    "    2.1. Identificación de los agentes económicos y sus funciones en la economía. Estudio de casos.",
+    "    2.2. La representación del modelo del Flujo Circular de la Renta: las relaciones entre los agentes económicos y entre las actividades económicas. Simulaciones.",
+    "3. La importancia de los bienes y servicios públicos para la economía. ",
+    "    3.1. Reconocimiento de los principales gastos de las Administraciones públicas: estatal, autonómica y local.",
+    "    3.2. Identificación de las principales fuentes de ingresos del Estado: distinción entre la fiscalidad directa e indirecta. Los principales impuestos del sistema tributario español.",
+    "    3.3. Valoración del Régimen Económico y Fiscal  de Canarias (REF). Estudio de las singularidades canarias por su lejanía e insularidad.",
+    "    3.4. Distinción de los pilares básicos del Estado del Bienestar.",
+    "4. Aproximación a las variables macroeconómicas: el desempleo y la inflación. ",
+    "    4.1. Iniciación al estudio del desempleo como problema económico, personal y social: las clases y causas del desempleo.",
+    "    4.2. Acercamiento a las causas que provocan la inflación y sus consecuencias sociales y económicas.",
+    "II. Finanzas personales",
+    "1. El papel del dinero en la economía. ",
+    "    1.1. Las funciones, formas y evolución del dinero.",
+    "    1.2. El dinero como medio de pago. Las características de las cuentas corrientes y la tipología de las tarjetas bancarias.",
+    "    1.3. Los principales derechos y obligaciones en las relaciones y contrataciones bancarias. Análisis de los riesgos y fraudes asociados.",
+    "2. Gestión básica de las finanzas personales. Elaboración e interpretación de presupuestos sencillos: clasificación de gastos e ingresos de la economía familiar. Análisis de las ventajas del ahorro y de los riesgos del endeudamiento. Estudio de casos.",
+    "3. Elaboración e interpretación de la documentación básica de las principales relaciones comerciales y laborales desde el punto de vista personal: facturas, cheques, recibo, contratos de trabajo y nóminas. Simulaciones.",
+    "III. Consumo responsable y sostenibilidad",
+    "1. Análisis de los principales retos a los que se enfrenta la transición ecológica en el entorno canario y global. Reconocimiento de los Objetivos de Desarrollo Sostenible, del Pacto Verde Europeo y de la Agenda Canaria 2030.",
+    "2. Análisis de la responsabilidad social corporativa de las empresas (RSC) y de las políticas públicas: estudio de las acciones socialmente responsables que se llevan a cabo en distintos ámbitos, en el entorno canario y en el global.",
+    "3. Estudio de la economía circular como modelo de producción y consumo alternativo. Estudio de casos.",
+    "4. Identificación de patrones de consumo y análisis de los beneficios y perjuicios individuales, sociales y medioambientales de las pautas de consumo actuales. ",
+    "    4.1. Reconocimiento de la influencia de la publicidad en los actos de consumo. Consumismo frente a felicidad.",
+    "    4.2. Análisis de las condiciones sociales, económicas y ecológicas en las que se elaboran los productos que se consumen para promover actitudes socialmente responsables.",
+    "5. Desarrollo de soluciones sostenibles a problemas vinculados al entorno cercano para transformar y mejorar la sociedad."
+  ],
+  "criteriosEvaluacion": [
+    "1.1. Explicar el papel de los agentes económicos en la economía, reconociendo sus necesidades de consumo e inversión y analizando los flujos de renta que generan las relaciones de intercambio en el mercado para comprender la interrelación de las decisiones económicas individuales y colectivas de la sociedad. CCL1, CCL3, STEM4, CD1, CD2, CD3, CC4",
+    "1.2. Reflexionar sobre la relevancia de los bienes y servicios públicos y la necesidad de corregir las desigualdades económicas en nuestra sociedad, valorando el papel de los impuestos en la financiación de los gastos públicos e identificando la singularidad del Régimen Económico y Fiscal de Canarias (REF), para desarrollar una conciencia social, ética y ciudadana y contribuir a desarrollar una sociedad más responsable, justa y solidaria. CCL1, STEM4, CD2, CD3, CC1, CC2, CC4",
+    "1.3. Reconocer los efectos que el desempleo y las variaciones de los precios provocan en la economía y en la vida de las personas, explicando de forma sencilla las causas de los distintos tipos de desempleo e inflación para valorar cómo repercute el nivel de actividad económica en el bienestar personal y social. CCL1, CCL3, STEM4, CD1, CD2, CD3, CC1, CC2, CC4",
+    "2.1. Identificar el valor del dinero como medio de pago, distinguiendo las características y servicios asociados a las cuentas, tarjetas, depósitos bancarios y medios de pago digitales, valorando los respectivos derechos y obligaciones en las relaciones y contrataciones bancarias para ejercer una ciudadanía digital activa, cívica y reflexiva. CCL1, CD3, CC1",
+    "2.2. Diseñar diferentes presupuestos familiares, clasificando los ingresos y gastos previstos, diagnosticando de forma crítica las situaciones presupuestarias resultantes y gestionando con responsabilidad las necesidades financieras personales a corto y largo plazo para valorar la importancia de la planificación, del control del gasto y de las decisiones de ahorro en la vida cotidiana. CCL1, CCL2, STEM1, STEM3, CD2, CPSAA5, CE2",
+    "2.3. Gestionar e interpretar los diferentes soportes de las relaciones comerciales y laborales interpretando la información que transmiten los distintos elementos de la documentación laboral, de compraventa, de cobro y pago, para contribuir al desarrollo de una personalidad autónoma y a madurez social. CCL2, STEM1, CD2, CE2",
+    "3.1. Analizar la necesidad de la transición ecológica y sus principales retos, tanto en el entorno cercano como en el global, reconociendo el papel que las empresas, las familias y las instituciones públicas tienen en este proceso con el fin de valorar las repercusiones globales de los actos individuales y la importancia de desarrollar una economía comprometida y éticamente responsable. CCL3, CD1, CC2, CC4, CE1",
+    "3.2. Identificar de forma crítica el impacto de las pautas de consumo actuales, reconociendo la influencia de la publicidad en los actos de consumo, analizando las condiciones sociales, económicas y ecológicas en las que ha sido elaborado un producto o servicio y estudiando sus beneficios y consecuencias a nivel personal, social y medioambiental, para promover actitudes socialmente responsables en el entorno local y global. CCL3, CD1, CPSAA2, CC4",
+    "3.3. Proponer posibles soluciones a diferentes problemas vinculados al entorno cercano que impliquen actuaciones individuales o colectivas, analizando las acciones socialmente responsables que se están llevando a cabo en este para transformar y mejorar la sociedad. CCL3, STEM5, CD1, CPSAA2, CPSAA3, CC4, CE1, CE2"
+  ]
+}
