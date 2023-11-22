@@ -77,9 +77,12 @@ Currículos LOMLOE en archivos json
   * Primaria - OK
   * ESO - OK
   * Bachillerato - OK
-
-* Baleares
 * Canarias
+  * Infantil - OK
+  * Primaria - OK
+  * ESO - OK
+  * Bachillerato - OK
+* Baleares
 * Murcia
 
 
