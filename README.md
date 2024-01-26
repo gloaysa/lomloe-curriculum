@@ -87,4 +87,3 @@ Currículos LOMLOE en archivos json
 
 
 Acceso a los currículos autonómicos: https://educagob.educacionyfp.gob.es/curriculo/curriculo-lomloe/curriculos-ccaa.html
-https://www.juntadeandalucia.es/organismos/desarrolloeducativoyformacionprofesional/servicios/normativa/normas-elaboracion.html
