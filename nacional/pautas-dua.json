@@ -1,0 +1,184 @@
+[
+  {
+    "code": "P1",
+    "label": "PRINCIPIO I. Proporcionar múltiples formas de representación",
+    "pautas": [
+      {
+        "code": "1",
+        "label": "Proporcionar diferentes opciones para percibir la información"
+      },
+      {
+        "code": "1.1",
+        "label": "Opciones que permitan modificar y personalizar la presentación de la información"
+      },
+      {
+        "code": "1.2",
+        "label": "Ofrecer alternativas para la información auditiva"
+      },
+        {
+            "code": "1.3",
+            "label": "Ofrecer alternativas para la información visual"
+        },
+        {
+            "code": "2",
+            "label": "Proporcionar múltiples opciones para el lenguaje y los símbolos"
+        },
+        {
+            "code": "2.1",
+            "label": "Definir el vocabulario y los símbolos"
+        },
+        {
+            "code": "2.2",
+            "label": "Clarificar la sintaxis y la estructura"
+        },
+        {
+            "code": "2.3",
+            "label": "Facilitar la decodificación de textos, notaciones matemáticas y símbolos"
+        },
+      {
+        "code": "2.4",
+        "label": "Promover la comprensión entre diferentes idiomas"
+      },
+      {
+        "code": "2.5",
+        "label": "Ilustrar las ideas principales a través de múltiples medios"
+      },
+        {
+            "code": "3",
+            "label": "Proporcionar opciones para la comprensión"
+        },
+        {
+            "code": "3.1",
+            "label": "Activar los conocimientos previos"
+        },
+        {
+            "code": "3.2",
+            "label": "Destacar patrones, características fundamentales, ideas principales y relaciones entre ellas "
+        },
+        {
+            "code": "3.3",
+            "label": "Guiar el procesamiento de la información, la visualización y la manipulación"
+        },
+      {
+        "code": "3.4",
+        "label": "Maximizar la memoria y la transferencia de información"
+      }
+    ]
+  },
+  {
+    "code": "P2",
+    "label": "PRINCIPIO II. Proporcionar múltiples formas de acción y expresión",
+    "pautas": [
+        {
+            "code": "4",
+            "label": "Proporcionar múltiples medios físicos de acción"
+        },
+        {
+            "code": "4.1",
+            "label": "Proporcionar varios métodos de respuesta"
+        },
+        {
+            "code": "4.2",
+            "label": "Ofrecer diferentes posibilidades para interactuar con los materiales"
+        },
+      {
+        "code": "4.3",
+        "label": "Integrar el acceso a herramientas y tecnologías de asistencia"
+      },
+        {
+            "code": "5",
+            "label": "Proporcionar opciones para la expresión y hacer fluida la comunicación"
+        },
+        {
+            "code": "5.1",
+            "label": "Utilizar múltiples formas o medios de comunicación"
+        },
+        {
+            "code": "5.2",
+            "label": "Usar múltiples herramientas para la composición y la construcción"
+        },
+        {
+            "code": "5.3",
+            "label": "Incorporar niveles graduados de apoyo en los procesos de aprendizaje"
+        },
+        {
+            "code": "6",
+            "label": "Proporcionar opciones para las funciones ejecutivas"
+        },
+        {
+            "code": "6.1",
+            "label": "Guiar el establecimiento de metas adecuadas"
+        },
+        {
+            "code": "6.2",
+            "label": "Apoyar la planificación y el desarrollo de estrategias"
+        },
+      {
+        "code": "6.3",
+        "label": "Facilitar la gestión de información y de recursos"
+      },
+      {
+        "code": "6.4",
+        "label": "Mejorar la capacidad para hacer un seguimiento de los avances"
+      }
+    ]
+  },
+  {
+    "code": "P3",
+    "label": "PRINCIPIO III. Proporcionar múltiples formas de implicación",
+    "pautas": [
+        {
+            "code": "7",
+            "label": "Proporcionar opciones para captar el interés"
+        },
+        {
+            "code": "7.1",
+            "label": "Optimizar la elección individual y la autonomía"
+        },
+        {
+            "code": "7.2",
+            "label": "Optimizar la relevancia, el valor y la autenticidad"
+        },
+      {
+        "code": "7.3",
+        "label": "Minimizar la sensación de inseguridad y las distracciones"
+      },
+        {
+            "code": "8",
+            "label": "Proporcionar opciones para mantener el esfuerzo y la persistencia"
+        },
+        {
+            "code": "8.1",
+            "label": "Resaltar la relevancia de las metas y los objetivos"
+        },
+        {
+            "code": "8.2",
+            "label": "Variar los niveles de desafío y apoyo"
+        },
+        {
+            "code": "8.3",
+            "label": "Fomentar la colaboración y la comunidad"
+        },
+        {
+            "code": "8.4",
+            "label": "Proporcionar una retroalimentación orientada"
+        },
+      {
+        "code": "9",
+        "label": "Proporcionar opciones para la autorregulación"
+      },
+      {
+        "code": "9.1",
+        "label": "Promover expectativas y creencias que optimicen la motivación"
+      },
+      {
+        "code": "9.2",
+        "label": "Facilitar niveles graduados de apoyo para imitar habilidades y estrategias"
+      },
+      {
+        "code": "9.3",
+        "label": "Desarrollar la autoevaluación y la reflexión"
+      }
+    ]
+  }
+]

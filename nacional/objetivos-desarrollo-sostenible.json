@@ -1,0 +1,19 @@
+[
+  { "code": "ODS1", "label": "Fin de la Pobreza" },
+  { "code": "ODS2", "label": "Hambre Cero" },
+  { "code": "ODS3", "label": "Salud y Bienestar" },
+  { "code": "ODS4", "label": "Educación de Calidad" },
+  { "code": "ODS5", "label": "Igualdad de Género" },
+  { "code": "ODS6", "label": "Agua Limpia y Saneamiento" },
+  { "code": "ODS7", "label": "Energía Asequible y No Contaminante" },
+  { "code": "ODS8", "label": "Trabajo Decente y Crecimiento Económico" },
+  { "code": "ODS9", "label": "Industria, Innovación e Infraestructura" },
+  { "code": "ODS10", "label": "Reducción de las Desigualdades" },
+  { "code": "ODS11", "label": "Ciudades y Comunidades Sostenibles" },
+  { "code": "ODS12", "label": "Producción y Consumo Responsables" },
+  { "code": "ODS13", "label": "Acción por el Clima" },
+  { "code": "ODS14", "label": "Vida Submarina" },
+  { "code": "ODS15", "label": "Vida de Ecosistemas Terrestres" },
+  { "code": "ODS16", "label": "Paz, Justicia e Instituciones Sólidas" },
+  { "code": "ODS17", "label": "Alianzas para lograr los Objetivos" }
+]
