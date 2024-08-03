@@ -1,46 +1,220 @@
-{
-    "competenciasClave": [
-        "La competencia en comunicación lingüística (CCL) supone interactuar de forma oral, escrita, signada o multimodal de manera coherente y adecuada en diferentes ámbitos y contextos y con diferentes propósitos comunicativos. Implica movilizar, de manera consciente, el conjunto de conocimientos, destrezas y actitudes que permiten comprender, interpretar y valorar críticamente mensajes orales, escritos, signados o multimodales evitando los riesgos de manipulación y desinformación, así como comunicarse eficazmente con otras personas de manera cooperativa, creativa, ética y respetuosa.",
-        "CCL1. Expresa hechos, conceptos, pensamientos, opiniones o sentimientos de forma oral, escrita, signada o multimodal, con claridad y adecuación a diferentes contextos cotidianos de su entorno personal, social y educativo, y participa con respeto en interacciones de comunicación, tanto para intercambiar información y crear conocimiento como para construir vínculos personales.",
-        "CCL2. Comprende, interpreta y valora textos orales, escritos, signados o multimodales sencillos de los ámbitos personal, social, y educativo, con acompañamiento puntual, para participar en contextos cotidianos para construir conocimiento.",
-        "CCL3. Localiza, selecciona y contrasta, con el debido acompañamiento, información sencilla procedente de dos o más fuentes, evaluando su fiabilidad y utilidad en función de los objetivos de lectura, y la integra y transforma en conocimiento para comunicarla adoptando un punto de vista creativo, crítico y personal.",
-        "CCL4. Lee obras diversas adecuadas a su desarrollo madurativo, seleccionando aquellas que mejor se ajustan a sus gustos e intereses; reconoce el patrimonio literario como fuente de disfrute y aprendizaje; y moviliza su experiencia personal y lectora para construir y compartir su interpretación de las obras y para crear textos de intención literaria a partir de modelos sencillos.",
-        "CCL5. Pone sus prácticas comunicativas al servicio de la convivencia, la gestión dialogada de los conflictos y la igualdad de derechos de todas las personas, para favorecer un uso eficaz y no discriminatorio de los diferentes sistemas de comunicación.",
-        "La competencia plurilingüe (CP) implica utilizar distintas lenguas, orales o signadas, de forma apropiada y eficaz para el aprendizaje y la comunicación. Esta competencia supone reconocer y respetar los perfiles lingüísticos individuales y aprovechar las experiencias propias para desarrollar estrategias que permitan mediar y hacer transferencias entre lenguas, incluidas las clásicas, y, en su caso, mantener y adquirir destrezas en la lengua o lenguas familiares y en las lenguas oficiales. Integra, asimismo, dimensiones históricas e interculturales orientadas a conocer, valorar y respetar la diversidad lingüística y cultural de la sociedad con el objetivo de fomentar la convivencia democrática.",
-        "CP1. Usa, al menos, una lengua, además de la lengua propia, en su caso, y el español, para responder a necesidades comunicativas sencillas y predecibles, de manera adecuada tanto a su desarrollo e intereses como a situaciones y contextos cotidianos de los ámbitos personal, social y educativo.",
-        "CP2. A partir de sus experiencias, reconoce las diferentes lenguas y experimenta estrategias que, de manera guiada, le permiten realizar transferencias sencillas entre distintas lenguas para comunicarse en contextos cotidianos y ampliar su repertorio del lenguaje.",
-        "CP3. Conoce y respeta la variedad de las lenguas presentes en su entorno, reconociendo y comprendiendo su valor como factor de diálogo, para mejorar la convivencia.",
-        "La competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM) entraña la comprensión del mundo utilizando los métodos científicos, el pensamiento y representación matemáticos, la tecnología y los métodos de la ingeniería para transformar el entorno de forma comprometida, responsable y sostenible.",
-        "STEM1. Utiliza, de manera guiada, algunos métodos inductivos y deductivos propios del razonamiento matemático en situaciones conocidas, y selecciona y emplea algunas estrategias para resolver problemas reflexionando sobre las soluciones obtenidas.",
-        "STEM2. Utiliza el pensamiento científico para entender y explicar algunos de los fenómenos que ocurren a su alrededor, con uso de herramientas e instrumentos adecuados, planteándose preguntas y realizando experimentos sencillos de forma guiada.",
-        "STEM3. Realiza, de forma guiada, proyectos, diseñando, fabricando y evaluando diferentes prototipos o modelos, adaptándose ante la incertidumbre, para generar un producto creativo con un objetivo concreto, procurando la participación de todo el grupo.",
-        "STEM4. Interpreta y transmite los elementos más relevantes de algunos métodos y resultados científicos, matemáticos y tecnológicos de forma clara y veraz, utilizando la terminología científica apropiada, en diferentes formatos (dibujos, diagramas, gráficos, símbolos…) y aprovechando de forma crítica y responsable la cultura digital para compartir y construir nuevos conocimientos.",
-        "STEM5. Participa en acciones fundamentadas científicamente para promover la salud y preservar el medio ambiente y los seres vivos.",
-        "La competencia digital implica el uso seguro, saludable, sostenible, crítico y responsable de las tecnologías digitales para el aprendizaje, para el trabajo y para la participación en la sociedad, así como la interacción con estas.",
-        "CD1. Realiza búsquedas guiadas en internet y hace uso de estrategias sencillas para el tratamiento digital de la información (palabras clave, selección de información relevante, organización de datos...) con una actitud crítica sobre los contenidos obtenidos.",
-        "CD2. Crea, integra y reelabora contenidos digitales en distintos formatos (texto, tabla, imagen, audio, vídeo, programa informático...) mediante el uso de diferentes herramientas digitales para expresar ideas, sentimientos y conocimientos, respetando la propiedad intelectual y los derechos de autor de los contenidos que reutiliza.",
-        "CD3. Participa en actividades y/o proyectos escolares mediante el uso de herramientas o plataformas virtuales que le permitan construir nuevo conocimiento, comunicarse, trabajar en grupo, y compartir datos y contenidos en entornos digitales restringidos y supervisados de manera segura y responsable ante su uso.",
-        "CD4. Conoce los riesgos y adopta, con la orientación del docente, medidas preventivas al usar las tecnologías digitales para proteger los dispositivos, los datos personales, la salud y el medioambiente, y se inicia en la adopción de hábitos saludables de las mismas.",
-        "CD5. Se inicia en el desarrollo de soluciones digitales sencillas y sostenibles (reutilización de materiales tecnológicos, programación informática por bloques, robótica educativa…) para resolver problemas concretos o retos propuestos de manera creativa, solicitando ayuda en caso necesario.",
-        "La competencia personal, social y de aprender a aprender (CPSAA) implica la capacidad de reflexionar sobre uno mismo para autoconocerse, aceptarse y promover un crecimiento personal constante; gestionar el tiempo y la información eficazmente; colaborar con otros de forma constructiva; mantener la resiliencia; y gestionar el aprendizaje a lo largo de la vida. Incluye también la capacidad de hacer frente a la incertidumbre y a la complejidad; adaptarse a los cambios; aprender a gestionar los procesos metacognitivos; identificar conductas contrarias a la convivencia y desarrollar estrategias para abordarlas; contribuir al bienestar físico, mental y emocional propio y de las demás personas, desarrollando habilidades para cuidarse a sí mismo y a quienes lo rodean a través de la corresponsabilidad; ser capaz de llevar una vida orientada al futuro; así como expresar empatía y abordar los conflictos en un contexto integrador y de apoyo.",
-        "CPSAA1. Es consciente de las propias emociones, ideas y comportamientos personales y emplea estrategias para gestionarlas en situaciones de tensión o conflicto, adaptándose a los cambios y armonizándolos para alcanzar sus propios objetivos.",
-        "CPSAA2. Conoce los riesgos más relevantes y los principales activos para la salud, adopta estilos de vida saludable, y detecta y busca apoyo ante situaciones negativas.",
-        "CPSAA3. Reconoce y respeta las emociones y experiencias de los demás, participa activamente en el trabajo en grupo, asume las responsabilidades individuales asignadas y emplea estrategias dirigidas a la consecución de objetivos compartidos.",
-        "CPSAA4. Reconoce el valor del esfuerzo y la dedicación personal para la mejora de su aprendizaje y adopta posturas críticas en procesos de reflexión guiados.",
-        "CPSAA5. Planea objetivos a corto plazo, utiliza estrategias de aprendizaje autónomo y participa en procesos de autoevaluación y evaluación conjunta, reconociendo sus limitaciones y sabiendo buscar ayuda en el proceso de construcción del conocimiento.",
-        "La competencia ciudadana (CC) contribuye a que alumnos y alumnas puedan ejercer una ciudadanía responsable y participar plenamente en la vida social y cívica, basándose en la comprensión de los conceptos y las estructuras sociales, económicas, jurídicas y políticas, así como en el conocimiento de los acontecimientos mundiales y el compromiso activo con la sostenibilidad y el logro de una ciudadanía mundial. Incluye la alfabetización cívica, la adopción consciente de los valores propios de una cultura democrática fundada en el respeto a los derechos humanos, la reflexión crítica acerca de los grandes problemas éticos de nuestro tiempo y el desarrollo de un estilo de vida sostenible acorde con los Objetivos de Desarrollo Sostenible planteados en la Agenda 2030.",
-        "CC1. Entiende los procesos históricos y sociales más relevantes relativos a su identidad y cultura, reflexiona sobre las normas de convivencia, y las aplica de manera constructiva, dialogante e inclusiva en cualquier contexto.",
-        "CC2. Participa en actividades de su entorno cercano, en la toma de decisiones y la resolución de los conflictos de forma dialogada y respetuosa con los principios y valores de la Unión Europea y la Constitución Española, los derechos humanos y de la infancia, el valor a la diversidad y de la igualdad entre hombres y mujeres, la cohesión social y los Objetivos de Desarrollo Sostenible acordados por la ONU.",
-        "CC3. Reflexiona y dialoga sobre valores y problemas de la actualidad, comprendiendo la necesidad de respetar diferentes culturas y creencias, cuidar el entorno, de rechazar prejuicios, y de oponerse a cualquier forma de discriminación y violencia.",
-        "CC4. Comprende las relaciones entre las acciones humanas y el entorno, y se inicia en la adopción de estilos de vida adecuados, para conservar la biodiversidad.",
-        "La competencia emprendedora (CE) implica desarrollar un enfoque vital dirigido a actuar sobre oportunidades e ideas, utilizando los conocimientos específicos necesarios para generar resultados de valor para otras personas. Aporta estrategias que permiten adaptar la mirada para detectar necesidades y oportunidades; entrenar el pensamiento para analizar y evaluar el entorno, y crear y replantear ideas utilizando la imaginación, la creatividad, el pensamiento estratégico y la reflexión ética, crítica y constructiva dentro de los procesos creativos y de innovación; y despertar la disposición a aprender, a arriesgar y a afrontar la incertidumbre. Asimismo, implica tomar decisiones basadas en la información y el conocimiento y colaborar de manera ágil con otras personas, con motivación, empatía y habilidades de comunicación y de negociación, para llevar las ideas planteadas a la acción mediante la planificación y gestión de proyectos sostenibles de valor social, cultural y económico-financiero.",
-        "CE1. Reconoce necesidades inherentes a los retos que debe afrontar y elabora ideas originales, utilizando destrezas creativas y tomando conciencia de las consecuencias y efectos que las ideas pudieran generar en el entono, para proponer soluciones valiosas que respondan a las necesidades detectadas.",
-        "CE2. Identifica fortalezas y debilidades propias utilizando estrategias de autoconocimiento, y se inicia en el conocimiento de elementos económicos y financieros básicos, aplicándolos a situaciones y problemas de la vida cotidiana.",
-        "CE3. Crea ideas planifica tareas, colabora con otros y en equipo, valora el proceso realizado y el resultado obtenido para llevar a cabo iniciativas de emprendimiento, y considera la experiencia como una oportunidad para aprender.",
-        "La competencia en conciencia y expresión culturales (CCEC) supone comprender y respetar el modo en que las ideas, las opiniones, los sentimientos y las emociones se expresan y se comunican de forma creativa en distintas culturas y por medio de una amplia gama de manifestaciones artísticas y culturales. Implica también un compromiso con la comprensión, el desarrollo y la expresión de las ideas propias y del sentido del lugar que se ocupa o del papel que se desempeña en la sociedad. Asimismo, requiere la comprensión de la propia identidad en evolución y del patrimonio cultural en un mundo caracterizado por la diversidad, así como la toma de conciencia de que el arte y otras manifestaciones culturales pueden suponer una manera de mirar el mundo y de darle forma.",
-        "CCEC1. Reconoce y aprecia los aspectos fundamentales del patrimonio cultural y artístico, comprendiendo las diferencias culturales y la necesidad de respetarlas.",
-        "CCEC2. Reconoce especificidades e intencionalidades de las manifestaciones artísticas y culturales más destacadas del patrimonio, y se interesa por ellas, identificando los medios y soportes, así como los lenguajes y elementos técnicos que las caracterizan.",
-        "CCEC3. Expresa ideas, opiniones, sentimientos y emociones de forma creativa, empleando distintos lenguajes artísticos y culturales, integrando su propio cuerpo, interactuando con el entorno y desarrollando sus capacidades afectivas.",
-        "CCEC4. Experimenta de forma creativa con diferentes medios y soportes, y diversas técnicas plásticas, visuales, audiovisuales, sonoras o corporales, para elaborar propuestas artísticas y culturales."
-    ]
-}
+[
+    {
+        "code": "CCL",
+        "label": "La competencia en comunicación lingüística (CCL) supone interactuar de forma oral, escrita, signada o multimodal de manera coherente y adecuada en diferentes ámbitos y contextos y con diferentes propósitos comunicativos. Implica movilizar, de manera consciente, el conjunto de conocimientos, destrezas y actitudes que permiten comprender, interpretar y valorar críticamente mensajes orales, escritos, signados o multimodales evitando los riesgos de manipulación y desinformación, así como comunicarse eficazmente con otras personas de manera cooperativa, creativa, ética y respetuosa.",
+        "descriptors": [
+            {
+                "parentCode": "CCL",
+                "code": "CCL1",
+                "label": "Expresa hechos, conceptos, pensamientos, opiniones o sentimientos de forma oral, escrita, signada o multimodal, con claridad y adecuación a diferentes contextos cotidianos de su entorno personal, social y educativo, y participa con respeto en interacciones de comunicación, tanto para intercambiar información y crear conocimiento como para construir vínculos personales."
+            },
+            {
+                "parentCode": "CCL",
+                "code": "CCL2",
+                "label": "Comprende, interpreta y valora textos orales, escritos, signados o multimodales sencillos de los ámbitos personal, social, y educativo, con acompañamiento puntual, para participar en contextos cotidianos para construir conocimiento."
+            },
+            {
+                "parentCode": "CCL",
+                "code": "CCL3",
+                "label": "Localiza, selecciona y contrasta, con el debido acompañamiento, información sencilla procedente de dos o más fuentes, evaluando su fiabilidad y utilidad en función de los objetivos de lectura, y la integra y transforma en conocimiento para comunicarla adoptando un punto de vista creativo, crítico y personal."
+            },
+            {
+                "parentCode": "CCL",
+                "code": "CCL4",
+                "label": "Lee obras diversas adecuadas a su desarrollo madurativo, seleccionando aquellas que mejor se ajustan a sus gustos e intereses; reconoce el patrimonio literario como fuente de disfrute y aprendizaje; y moviliza su experiencia personal y lectora para construir y compartir su interpretación de las obras y para crear textos de intención literaria a partir de modelos sencillos."
+            },
+            {
+                "parentCode": "CCL",
+                "code": "CCL5",
+                "label": "Pone sus prácticas comunicativas al servicio de la convivencia, la gestión dialogada de los conflictos y la igualdad de derechos de todas las personas, para favorecer un uso eficaz y no discriminatorio de los diferentes sistemas de comunicación."
+            }
+        ]
+    },
+    {
+        "code": "CP",
+        "label": "La competencia plurilingüe (CP) implica utilizar distintas lenguas, orales o signadas, de forma apropiada y eficaz para el aprendizaje y la comunicación. Esta competencia supone reconocer y respetar los perfiles lingüísticos individuales y aprovechar las experiencias propias para desarrollar estrategias que permitan mediar y hacer transferencias entre lenguas, incluidas las clásicas, y, en su caso, mantener y adquirir destrezas en la lengua o lenguas familiares y en las lenguas oficiales. Integra, asimismo, dimensiones históricas e interculturales orientadas a conocer, valorar y respetar la diversidad lingüística y cultural de la sociedad con el objetivo de fomentar la convivencia democrática.",
+        "descriptors": [
+            {
+                "parentCode": "CP",
+                "code": "CP1",
+                "label": "Usa, al menos, una lengua, además de la lengua propia, en su caso, y el español, para responder a necesidades comunicativas sencillas y predecibles, de manera adecuada tanto a su desarrollo e intereses como a situaciones y contextos cotidianos de los ámbitos personal, social y educativo."
+            },
+            {
+                "parentCode": "CP",
+                "code": "CP2",
+                "label": "A partir de sus experiencias, reconoce las diferentes lenguas y experimenta estrategias que, de manera guiada, le permiten realizar transferencias sencillas entre distintas lenguas para comunicarse en contextos cotidianos y ampliar su repertorio del lenguaje."
+            },
+            {
+                "parentCode": "CP",
+                "code": "CP3",
+                "label": "Conoce y respeta la variedad de las lenguas presentes en su entorno, reconociendo y comprendiendo su valor como factor de diálogo, para mejorar la convivencia."
+            }
+        ]
+    },
+    {
+        "code": "STEM",
+        "label": "La competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM) entraña la comprensión del mundo utilizando los métodos científicos, el pensamiento y representación matemáticos, la tecnología y los métodos de la ingeniería para transformar el entorno de forma comprometida, responsable y sostenible.",
+        "descriptors": [
+            {
+                "parentCode": "STEM",
+                "code": "STEM1",
+                "label": "Utiliza, de manera guiada, algunos métodos inductivos y deductivos propios del razonamiento matemático en situaciones conocidas, y selecciona y emplea algunas estrategias para resolver problemas reflexionando sobre las soluciones obtenidas."
+            },
+            {
+                "parentCode": "STEM",
+                "code": "STEM2",
+                "label": "Utiliza el pensamiento científico para entender y explicar algunos de los fenómenos que ocurren a su alrededor, con uso de herramientas e instrumentos adecuados, planteándose preguntas y realizando experimentos sencillos de forma guiada."
+            },
+            {
+                "parentCode": "STEM",
+                "code": "STEM3",
+                "label": "Realiza, de forma guiada, proyectos, diseñando, fabricando y evaluando diferentes prototipos o modelos, adaptándose ante la incertidumbre, para generar un producto creativo con un objetivo concreto, procurando la participación de todo el grupo."
+            },
+            {
+                "parentCode": "STEM",
+                "code": "STEM4",
+                "label": "Interpreta y transmite los elementos más relevantes de algunos métodos y resultados científicos, matemáticos y tecnológicos de forma clara y veraz, utilizando la terminología científica apropiada, en diferentes formatos (dibujos, diagramas, gráficos, símbolos…) y aprovechando de forma crítica y responsable la cultura digital para compartir y construir nuevos conocimientos."
+            },
+            {
+                "parentCode": "STEM",
+                "code": "STEM5",
+                "label": "Participa en acciones fundamentadas científicamente para promover la salud y preservar el medio ambiente y los seres vivos."
+            }
+        ]
+    },
+    {
+        "code": "CD",
+        "label": "La competencia digital implica el uso seguro, saludable, sostenible, crítico y responsable de las tecnologías digitales para el aprendizaje, para el trabajo y para la participación en la sociedad, así como la interacción con estas.",
+        "descriptors": [
+            {
+                "parentCode": "CD",
+                "code": "CD1",
+                "label": "Realiza búsquedas guiadas en internet y hace uso de estrategias sencillas para el tratamiento digital de la información (palabras clave, selección de información relevante, organización de datos...) con una actitud crítica sobre los contenidos obtenidos."
+            },
+            {
+                "parentCode": "CD",
+                "code": "CD2",
+                "label": "Crea, integra y reelabora contenidos digitales en distintos formatos (texto, tabla, imagen, audio, vídeo, programa informático...) mediante el uso de diferentes herramientas digitales para expresar ideas, sentimientos y conocimientos, respetando la propiedad intelectual y los derechos de autor de los contenidos que reutiliza."
+            },
+            {
+                "parentCode": "CD",
+                "code": "CD3",
+                "label": "Participa en actividades y/o proyectos escolares mediante el uso de herramientas o plataformas virtuales que le permitan construir nuevo conocimiento, comunicarse, trabajar en grupo, y compartir datos y contenidos en entornos digitales restringidos y supervisados de manera segura y responsable ante su uso."
+            },
+            {
+                "parentCode": "CD",
+                "code": "CD4",
+                "label": "Conoce los riesgos y adopta, con la orientación del docente, medidas preventivas al usar las tecnologías digitales para proteger los dispositivos, los datos personales, la salud y el medioambiente, y se inicia en la adopción de hábitos saludables de las mismas."
+            },
+            {
+                "parentCode": "CD",
+                "code": "CD5",
+                "label": "Se inicia en el desarrollo de soluciones digitales sencillas y sostenibles (reutilización de materiales tecnológicos, programación informática por bloques, robótica educativa…) para resolver problemas concretos o retos propuestos de manera creativa, solicitando ayuda en caso necesario."
+            }
+        ]
+    },
+    {
+        "code": "CPSAA",
+        "label": "La competencia personal, social y de aprender a aprender (CPSAA) implica la capacidad de reflexionar sobre uno mismo para autoconocerse, aceptarse y promover un crecimiento personal constante; gestionar el tiempo y la información eficazmente; colaborar con otros de forma constructiva; mantener la resiliencia; y gestionar el aprendizaje a lo largo de la vida. Incluye también la capacidad de hacer frente a la incertidumbre y a la complejidad; adaptarse a los cambios; aprender a gestionar los procesos metacognitivos; identificar conductas contrarias a la convivencia y desarrollar estrategias para abordarlas; contribuir al bienestar físico, mental y emocional propio y de las demás personas, desarrollando habilidades para cuidarse a sí mismo y a quienes lo rodean a través de la corresponsabilidad; ser capaz de llevar una vida orientada al futuro; así como expresar empatía y abordar los conflictos en un contexto integrador y de apoyo.",
+        "descriptors": [
+            {
+                "parentCode": "CPSAA",
+                "code": "CPSAA1",
+                "label": "Es consciente de las propias emociones, ideas y comportamientos personales y emplea estrategias para gestionarlas en situaciones de tensión o conflicto, adaptándose a los cambios y armonizándolos para alcanzar sus propios objetivos."
+            },
+            {
+                "parentCode": "CPSAA",
+                "code": "CPSAA2",
+                "label": "Conoce los riesgos más relevantes y los principales activos para la salud, adopta estilos de vida saludable, y detecta y busca apoyo ante situaciones negativas."
+            },
+            {
+                "parentCode": "CPSAA",
+                "code": "CPSAA3",
+                "label": "Reconoce y respeta las emociones y experiencias de los demás, participa activamente en el trabajo en grupo, asume las responsabilidades individuales asignadas y emplea estrategias dirigidas a la consecución de objetivos compartidos."
+            },
+            {
+                "parentCode": "CPSAA",
+                "code": "CPSAA4",
+                "label": "Reconoce el valor del esfuerzo y la dedicación personal para la mejora de su aprendizaje y adopta posturas críticas en procesos de reflexión guiados."
+            },
+            {
+                "parentCode": "CPSAA",
+                "code": "CPSAA5",
+                "label": "Planea objetivos a corto plazo, utiliza estrategias de aprendizaje autónomo y participa en procesos de autoevaluación y evaluación conjunta, reconociendo sus limitaciones y sabiendo buscar ayuda en el proceso de construcción del conocimiento."
+            }
+        ]
+    },
+    {
+        "code": "CC",
+        "label": "La competencia ciudadana (CC) contribuye a que alumnos y alumnas puedan ejercer una ciudadanía responsable y participar plenamente en la vida social y cívica, basándose en la comprensión de los conceptos y las estructuras sociales, económicas, jurídicas y políticas, así como en el conocimiento de los acontecimientos mundiales y el compromiso activo con la sostenibilidad y el logro de una ciudadanía mundial. Incluye la alfabetización cívica, la adopción consciente de los valores propios de una cultura democrática fundada en el respeto a los derechos humanos, la reflexión crítica acerca de los grandes problemas éticos de nuestro tiempo y el desarrollo de un estilo de vida sostenible acorde con los Objetivos de Desarrollo Sostenible planteados en la Agenda 2030.",
+        "descriptors": [
+            {
+                "parentCode": "CC",
+                "code": "CC1",
+                "label": "Entiende los procesos históricos y sociales más relevantes relativos a su identidad y cultura, reflexiona sobre las normas de convivencia, y las aplica de manera constructiva, dialogante e inclusiva en cualquier contexto."
+            },
+            {
+                "parentCode": "CC",
+                "code": "CC2",
+                "label": "Participa en actividades de su entorno cercano, en la toma de decisiones y la resolución de los conflictos de forma dialogada y respetuosa con los principios y valores de la Unión Europea y la Constitución Española, los derechos humanos y de la infancia, el valor a la diversidad y de la igualdad entre hombres y mujeres, la cohesión social y los Objetivos de Desarrollo Sostenible acordados por la ONU."
+            },
+            {
+                "parentCode": "CC",
+                "code": "CC3",
+                "label": "Reflexiona y dialoga sobre valores y problemas de la actualidad, comprendiendo la necesidad de respetar diferentes culturas y creencias, cuidar el entorno, de rechazar prejuicios, y de oponerse a cualquier forma de discriminación y violencia."
+            },
+            {
+                "parentCode": "CC",
+                "code": "CC4",
+                "label": "Comprende las relaciones entre las acciones humanas y el entorno, y se inicia en la adopción de estilos de vida adecuados, para conservar la biodiversidad."
+            }
+        ]
+    },
+    {
+        "code": "CE",
+        "label": "La competencia emprendedora (CE) implica desarrollar un enfoque vital dirigido a actuar sobre oportunidades e ideas, utilizando los conocimientos específicos necesarios para generar resultados de valor para otras personas. Aporta estrategias que permiten adaptar la mirada para detectar necesidades y oportunidades; entrenar el pensamiento para analizar y evaluar el entorno, y crear y replantear ideas utilizando la imaginación, la creatividad, el pensamiento estratégico y la reflexión ética, crítica y constructiva dentro de los procesos creativos y de innovación; y despertar la disposición a aprender, a arriesgar y a afrontar la incertidumbre. Asimismo, implica tomar decisiones basadas en la información y el conocimiento y colaborar de manera ágil con otras personas, con motivación, empatía y habilidades de comunicación y de negociación, para llevar las ideas planteadas a la acción mediante la planificación y gestión de proyectos sostenibles de valor social, cultural y económico-financiero.",
+        "descriptors": [
+            {
+                "parentCode": "CE",
+                "code": "CE1",
+                "label": "Reconoce necesidades inherentes a los retos que debe afrontar y elabora ideas originales, utilizando destrezas creativas y tomando conciencia de las consecuencias y efectos que las ideas pudieran generar en el entono, para proponer soluciones valiosas que respondan a las necesidades detectadas."
+            },
+            {
+                "parentCode": "CE",
+                "code": "CE2",
+                "label": "Identifica fortalezas y debilidades propias utilizando estrategias de autoconocimiento, y se inicia en el conocimiento de elementos económicos y financieros básicos, aplicándolos a situaciones y problemas de la vida cotidiana."
+            },
+            {
+                "parentCode": "CE",
+                "code": "CE3",
+                "label": "Crea ideas planifica tareas, colabora con otros y en equipo, valora el proceso realizado y el resultado obtenido para llevar a cabo iniciativas de emprendimiento, y considera la experiencia como una oportunidad para aprender."
+            }
+        ]
+    },
+    {
+        "code": "CCEC",
+        "label": "La competencia en conciencia y expresión culturales (CCEC) supone comprender y respetar el modo en que las ideas, las opiniones, los sentimientos y las emociones se expresan y se comunican de forma creativa en distintas culturas y por medio de una amplia gama de manifestaciones artísticas y culturales. Implica también un compromiso con la comprensión, el desarrollo y la expresión de las ideas propias y del sentido del lugar que se ocupa o del papel que se desempeña en la sociedad. Asimismo, requiere la comprensión de la propia identidad en evolución y del patrimonio cultural en un mundo caracterizado por la diversidad, así como la toma de conciencia de que el arte y otras manifestaciones culturales pueden suponer una manera de mirar el mundo y de darle forma.",
+        "descriptors": [
+            {
+                "parentCode": "CCEC",
+                "code": "CCEC1",
+                "label": "Reconoce y aprecia los aspectos fundamentales del patrimonio cultural y artístico, comprendiendo las diferencias culturales y la necesidad de respetarlas."
+            },
+            {
+                "parentCode": "CCEC",
+                "code": "CCEC2",
+                "label": "Reconoce especificidades e intencionalidades de las manifestaciones artísticas y culturales más destacadas del patrimonio, y se interesa por ellas, identificando los medios y soportes, así como los lenguajes y elementos técnicos que las caracterizan."
+            },
+            {
+                "parentCode": "CCEC",
+                "code": "CCEC3",
+                "label": "Expresa ideas, opiniones, sentimientos y emociones de forma creativa, empleando distintos lenguajes artísticos y culturales, integrando su propio cuerpo, interactuando con el entorno y desarrollando sus capacidades afectivas."
+            },
+            {
+                "parentCode": "CCEC",
+                "code": "CCEC4",
+                "label": "Experimenta de forma creativa con diferentes medios y soportes, y diversas técnicas plásticas, visuales, audiovisuales, sonoras o corporales, para elaborar propuestas artísticas y culturales."
+            }
+        ]
+    }
+]
